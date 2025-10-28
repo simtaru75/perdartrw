@@ -2537,10 +2537,8 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
    8. **Dokumen lingkungan:** Pengembangan atau pembangunan jaringan transportasi laut wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku; dan
    
    9. **Rencana kontingensi menghadapi kondisi darurat perang, dilakukan melalui:**
-   
-   a) penyediaan Pelabuhan Utama sebagai tempat berlabuhnya Kapal Perang Republik Indonesia (KRI); dan
-   
-   b) penyediaan sarana operasionalisasi prasarana rencana penunjang kontingensi pada Pelabuhan Utama tersebut;
+      - a) penyediaan Pelabuhan Utama sebagai tempat berlabuhnya Kapal Perang Republik Indonesia (KRI); dan
+      - b) penyediaan sarana operasionalisasi prasarana rencana penunjang kontingensi pada Pelabuhan Utama tersebut;
    
    ---
    
