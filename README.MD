@@ -2461,9 +2461,6 @@ f. indikasi arahan zonasi sistem jaringan prasarana lainnya.
 
       2. **kegiatan yang diperbolehkan bersyarat** adalah kegiatan yang tidak membahayakan konstruksi jalan rel dan fasilitas operasi kereta api dengan izin dari pemilik jalur dalam ruang milik jalur kereta api dan ruang pengawasan jalur kereta api;
 
----
-
-
 **3. Kegiatan yang tidak diperbolehkan yaitu:**
 
 Pemanfaatan Ruang pada jalur kereta api, ruang milik jalur kereta api dan ruang pengawasan jalur kereta api yang dapat mengakibatkan terganggunya kelancaran operasi kereta api dan keselamatan pengguna kereta api;
