@@ -387,77 +387,77 @@ g. pengendalian fungsi lindung dan fungsi Budi Daya secara berkelanjutan.
 
 **(2) Strategi kebijakan pengembangan dan peningkatan konektivitas serta aksesibilitas sistem jaringan prasarana Wilayah yang berkualitas secara terpadu**, sebagaimana dimaksud dalam Pasal 5 huruf b meliputi:
 
-   a. mengembangkan keterkaitan sarana dan prasarana transportasi darat, laut dan udara yang menghubungkan antar Kawasan Perkotaan dan Kawasan pedesaan dengan konsep ramah lingkungan dan penggunaan transportasi massal;
+   - a. mengembangkan keterkaitan sarana dan prasarana transportasi darat, laut dan udara yang menghubungkan antar Kawasan Perkotaan dan Kawasan pedesaan dengan konsep ramah lingkungan dan penggunaan transportasi massal;
    
-   b. mengembangkan dan memantapkan jaringan transportasi dan akses sarana dan prasarana transportasi darat antar pusat kegiatan pelayanan perkotaan dan antar pusat kegiatan dengan masing-masing wilayah pelayanan;
+   - b. mengembangkan dan memantapkan jaringan transportasi dan akses sarana dan prasarana transportasi darat antar pusat kegiatan pelayanan perkotaan dan antar pusat kegiatan dengan masing-masing wilayah pelayanan;
    
-   c. mengembangkan dan memantapkan pelabuhan untuk mendukung pelayaran regional, nasional dan internasional;
+   - c. mengembangkan dan memantapkan pelabuhan untuk mendukung pelayaran regional, nasional dan internasional;
    
-   d. mengembangkan dan memantapkan bandar udara untuk mendukung konektivitas regional, nasional dan internasional;
+   - d. mengembangkan dan memantapkan bandar udara untuk mendukung konektivitas regional, nasional dan internasional;
    
-   e. mengembangkan dan meningkatkan sistem jaringan energi secara optimal serta mewujudkan keterpaduan sistem penyediaan tenaga listrik dalam mewujudkan provinsi sebagai lumbung energi nasional;
+   - e. mengembangkan dan meningkatkan sistem jaringan energi secara optimal serta mewujudkan keterpaduan sistem penyediaan tenaga listrik dalam mewujudkan provinsi sebagai lumbung energi nasional;
    
-   f. mengembangkan jaringan telekomunikasi di Kawasan Perkotaan, Kawasan Perdesaan dan Kawasan pesisir;
+   - f. mengembangkan jaringan telekomunikasi di Kawasan Perkotaan, Kawasan Perdesaan dan Kawasan pesisir;
    
-   g. mengembangkan jaringan prasarana Sistem Penyediaan Air Minum pada Kawasan Permukiman;
+   - g. mengembangkan jaringan prasarana Sistem Penyediaan Air Minum pada Kawasan Permukiman;
    
-   h. mengembangkan jaringan prasarana sumber daya air pada Kawasan Permukiman dan Kawasan Pertanian yang terlayani; dan
+   - h. mengembangkan jaringan prasarana sumber daya air pada Kawasan Permukiman dan Kawasan Pertanian yang terlayani; dan
    
-   i. meningkatkan akses dan kualitas pelayanan jaringan prasarana lainnya di seluruh Kawasan Perkotaan, Kawasan Perdesaan dan Kawasan pesisir.
+   - i. meningkatkan akses dan kualitas pelayanan jaringan prasarana lainnya di seluruh Kawasan Perkotaan, Kawasan Perdesaan dan Kawasan pesisir.
 
 **(3) Strategi kebijakan pemantapan Kawasan berfungsi lindung secara berkelanjutan**, sebagaimana dimaksud dalam Pasal 5 huruf c meliputi:
 
-   a. menetapkan Kawasan berfungsi lindung darat dan perairan sesuai dengan kondisi ekosistemnya;
+   - a. menetapkan Kawasan berfungsi lindung darat dan perairan sesuai dengan kondisi ekosistemnya;
    
-   b. mempertahankan luasan Kawasan bervegetasi hutan tetap yang memberikan perlindungan terhadap Kawasan bawahannya;
+   - b. mempertahankan luasan Kawasan bervegetasi hutan tetap yang memberikan perlindungan terhadap Kawasan bawahannya;
    
-   c. melindungi dan melestarikan keanekaragaman hayati tumbuhan dan satwa pada Kawasan berfungsi hutan lindung;
+   - c. melindungi dan melestarikan keanekaragaman hayati tumbuhan dan satwa pada Kawasan berfungsi hutan lindung;
    
-   d. memulihkan dan memelihara Kawasan berfungsi lindung yang terdegradasi serta menjaga keseimbangan ekosistem Wilayah; dan
+   - d. memulihkan dan memelihara Kawasan berfungsi lindung yang terdegradasi serta menjaga keseimbangan ekosistem Wilayah; dan
    
-   e. menetapkan Kawasan Konservasi perairan sesuai potensi luas Wilayah perairan.
+   - e. menetapkan Kawasan Konservasi perairan sesuai potensi luas Wilayah perairan.
 
 **(4) Strategi kebijakan pengembangan fungsi Budi Daya secara produktif, terpadu dan berkelanjutan berbasis potensi Wilayah** sebagaimana dimaksud dalam Pasal 5 huruf d meliputi:
 
-   a. mengembangkan dan meningkatkan kawasan pertanian serta mempertahankan Kawasan Pertanian Pangan Berkelanjutan mendukung Ketahanan Pangan nasional dan menjadikan provinsi sebagai lumbung pangan nasional;
+   - a. mengembangkan dan meningkatkan kawasan pertanian serta mempertahankan Kawasan Pertanian Pangan Berkelanjutan mendukung Ketahanan Pangan nasional dan menjadikan provinsi sebagai lumbung pangan nasional;
    
-   b. mengembangkan potensi sektor perikanan yang didukung teknologi tepat guna dan ramah lingkungan;
+   - b. mengembangkan potensi sektor perikanan yang didukung teknologi tepat guna dan ramah lingkungan;
    
-   c. mengembangkan potensi sektor pertambangan dan energi dengan memperhatikan daya dukung lingkungan;
+   - c. mengembangkan potensi sektor pertambangan dan energi dengan memperhatikan daya dukung lingkungan;
    
-   d. mengembangkan Kawasan Peruntukan Industri didukung teknologi tepat guna, ramah lingkungan dan mandiri energi dengan memperhatikan konservasi gambut dan mangrove;
+   - d. mengembangkan Kawasan Peruntukan Industri didukung teknologi tepat guna, ramah lingkungan dan mandiri energi dengan memperhatikan konservasi gambut dan mangrove;
    
-   e. mengembangkan Kawasan pariwisata unggulan, termasuk obyek wisata bahari yang berwawasan lingkungan dan berciri lokal; dan
+   - e. mengembangkan Kawasan pariwisata unggulan, termasuk obyek wisata bahari yang berwawasan lingkungan dan berciri lokal; dan
    
-   f. meningkatkan produktivitas sumber daya alam dan komoditas unggulan serta pengembangan keterkaitan hulu dan hilir.
+   - f. meningkatkan produktivitas sumber daya alam dan komoditas unggulan serta pengembangan keterkaitan hulu dan hilir.
 
 **(5) Strategi kebijakan pengembangan Kawasan strategis berbasis potensi Wilayah** sebagaimana dimaksud dalam Pasal 5 huruf e meliputi:
 
-   a. menetapkan dan mengembangkan Kawasan strategis sudut kepentingan pertumbuhan ekonomi berbasis klaster kewilayahan;
+   - a. menetapkan dan mengembangkan Kawasan strategis sudut kepentingan pertumbuhan ekonomi berbasis klaster kewilayahan;
    
-   b. menetapkan dan mengembangkan Kawasan strategis sudut kepentingan pertumbuhan ekonomi pada koridor pusat industri pengolahan dan pusat industri jasa hasil pengolahan komoditas unggulan sumber daya alam; dan
+   - b. menetapkan dan mengembangkan Kawasan strategis sudut kepentingan pertumbuhan ekonomi pada koridor pusat industri pengolahan dan pusat industri jasa hasil pengolahan komoditas unggulan sumber daya alam; dan
    
-   c. menetapkan dan mengembangkan Kawasan strategis sudut kepentingan fungsi lingkungan hidup pada Wilayah yang perlu dijaga kelestariannya.
+   - c. menetapkan dan mengembangkan Kawasan strategis sudut kepentingan fungsi lingkungan hidup pada Wilayah yang perlu dijaga kelestariannya.
 
 **(6) Strategi kebijakan Pemanfaatan Ruang secara produktif, harmonis dan berkelanjutan** sebagaimana dimaksud dalam Pasal 5 huruf f meliputi:
 
-   a. memanfaatkan, mengoptimalkan dan membatasi Pemanfaatan Ruang pada Kawasan berfungsi lindung;
+   - a. memanfaatkan, mengoptimalkan dan membatasi Pemanfaatan Ruang pada Kawasan berfungsi lindung;
    
-   b. memanfaatkan dan mengoptimalkan Pemanfaatan Ruang pada Kawasan berfungsi Budi Daya; dan
+   - b. memanfaatkan dan mengoptimalkan Pemanfaatan Ruang pada Kawasan berfungsi Budi Daya; dan
    
-   c. menguatkan nilai-nilai budaya lokal Masyarakat dalam pengelolaan dan pemanfaatan sumber daya, termasuk di pesisir dan pulau-pulau kecil.
+   - c. menguatkan nilai-nilai budaya lokal Masyarakat dalam pengelolaan dan pemanfaatan sumber daya, termasuk di pesisir dan pulau-pulau kecil.
 
 **(7) Strategi kebijakan pengendalian fungsi lindung dan fungsi Budi Daya secara berkelanjutan**, sebagaimana dimaksud dalam Pasal 5 huruf g meliputi:
 
-   a. Melestarikan dan menjaga kawasan berfungsi lindung;
+   - a. Melestarikan dan menjaga kawasan berfungsi lindung;
    
-   b. mengendalikan kegiatan Pemanfaatan Ruang pada Kawasan berfungsi lindung dan fungsi Budi Daya;
+   - b. mengendalikan kegiatan Pemanfaatan Ruang pada Kawasan berfungsi lindung dan fungsi Budi Daya;
    
-   c. mengendalikan perkembangan Kawasan Perkotaan di Kawasan rawan bencana dan Kawasan Pertanian Pangan Berkelanjutan;
+   - c. mengendalikan perkembangan Kawasan Perkotaan di Kawasan rawan bencana dan Kawasan Pertanian Pangan Berkelanjutan;
    
-   d. mengembangkan dan menata zona penyangga sebagai pemisah dan area interaksi antara Kawasan Lindung dan Kawasan Budi Daya; dan
+   - d. mengembangkan dan menata zona penyangga sebagai pemisah dan area interaksi antara Kawasan Lindung dan Kawasan Budi Daya; dan
    
-   e. membatasi pengembangan prasarana Wilayah di sekitar Kawasan Lindung untuk menghindari tumbuhnya kegiatan perkotaan yang mendorong alih fungsi lahan Kawasan Lindung.
+   - e. membatasi pengembangan prasarana Wilayah di sekitar Kawasan Lindung untuk menghindari tumbuhnya kegiatan perkotaan yang mendorong alih fungsi lahan Kawasan Lindung.
 
 ---
 
