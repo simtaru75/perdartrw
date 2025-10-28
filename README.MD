@@ -1297,45 +1297,26 @@ SPAM sebagaimana dimaksud dalam Pasal 24 ayat (1) huruf a berupa SPAM Regional t
 
 SPAL sebagaimana dimaksud dalam Pasal 24 ayat (1) huruf b berupa Instalasi Pengolahan Lumpur Tinja (IPLT) terdiri atas:
 
-a. IPLT Simpang Kandis di Kabupaten Ogan Komering Ulu;
-
-b. IPLT Kayu Agung di Kabupaten Ogan Komering Ilir;
-
-c. IPLT Tugumulyo di Kabupaten Ogan Komering Ilir;
-
-d. IPLT Bukit Kancil di Kabupaten Muara Enim;
-
-e. IPLT Kecamatan Muara Enim di Kabupaten Muara Enim;
-
-f. IPLT Sukarami di Kabupaten Lahat;
-
-g. IPLT Simpang Gegas di Kabupaten Musi Rawas;
-
-h. IPLT Sungai Medak di Kabupaten Musi Banyuasin;
-
-i. IPLT Terlangu di Kabupaten Banyuasin;
-
-j. IPLT Belitang di Kabupaten Ogan Komering Ulu Timur;
-
-k. IPLT Pelawi di Kabupaten Ogan Komering Ulu Selatan;
-
-l. IPLT Palem Raya di Kabupaten Ogan Ilir;
-
-m. IPLT Lawang Desa Pulau Mas di Kabupaten Empat Lawang;
-
-n. IPLT Pendopo di Kabupaten Penukal Abab Lematang Ilir;
-
-o. IPLT Sungai Baung di Kabupaten Musi Rawas Utara;
-
-p. IPLT Sukawinatan di Kota Palembang;
-
-q. IPLT Simpang Padang Karet di Kota Pagar Alam;
-
-r. IPLT Lubuk Binjai di Kota Lubuk Linggau;
-
-s. IPLT Sungai Medang di Kota Prabumulih; dan
-
-t. IPLT Prabujaya di Kota Prabumulih.
+- a. IPLT Simpang Kandis di Kabupaten Ogan Komering Ulu;
+- b. IPLT Kayu Agung di Kabupaten Ogan Komering Ilir;
+- c. IPLT Tugumulyo di Kabupaten Ogan Komering Ilir;
+- d. IPLT Bukit Kancil di Kabupaten Muara Enim;
+- e. IPLT Kecamatan Muara Enim di Kabupaten Muara Enim;
+- f. IPLT Sukarami di Kabupaten Lahat;
+- g. IPLT Simpang Gegas di Kabupaten Musi Rawas;
+- h. IPLT Sungai Medak di Kabupaten Musi Banyuasin;
+- i. IPLT Terlangu di Kabupaten Banyuasin;
+- j. IPLT Belitang di Kabupaten Ogan Komering Ulu Timur;
+- k. IPLT Pelawi di Kabupaten Ogan Komering Ulu Selatan;
+- l. IPLT Palem Raya di Kabupaten Ogan Ilir;
+- m. IPLT Lawang Desa Pulau Mas di Kabupaten Empat Lawang;
+- n. IPLT Pendopo di Kabupaten Penukal Abab Lematang Ilir;
+- o. IPLT Sungai Baung di Kabupaten Musi Rawas Utara;
+- p. IPLT Sukawinatan di Kota Palembang;
+- q. IPLT Simpang Padang Karet di Kota Pagar Alam;
+- r. IPLT Lubuk Binjai di Kota Lubuk Linggau;
+- s. IPLT Sungai Medang di Kota Prabumulih; dan
+- t. IPLT Prabujaya di Kota Prabumulih.
 
 ---
 
@@ -1355,69 +1336,38 @@ Sistem pengelolaan limbah B3 sebagaimana dimaksud dalam Pasal 24 ayat (1) huruf 
 
 Sistem jaringan persampahan sebagaimana dimaksud dalam Pasal 24 ayat (1) huruf d berupa Tempat Pemrosesan Akhir (TPA) meliputi:
 
-a. TPA Simpang Kandis/Gunung Meraksa di Kabupaten Ogan Komering Ulu;
-
-b. TPA Kayu Agung di Kabupaten Ogan Komering Ilir;
-
-c. TPA Tugumulyo di Kabupaten Ogan Komering Ilir;
-
-d. TPA Bukit Kancil di Kabupaten Muara Enim;
-
-e. TPA Gelumbang di Kabupaten Muara Enim;
-
-f. TPA Sukarami di Kabupaten Lahat;
-
-g. TPA Simpang Gegas di Kabupaten Musi Rawas;
-
-h. TPA Sungai Medak/Sekayu di Kabupaten Musi Banyuasin;
-
-i. TPA Bayung Lincir di Kabupaten Musi Banyuasin;
-
-j. TPA Babat Toman di Kabupaten Musi Banyuasin;
-
-k. TPA Sungai Lilin di Kabupaten Musi Banyuasin;
-
-l. TPA Terlangu di Kabupaten Banyuasin;
-
-m. TPA Semuntul di Kabupaten Banyuasin;
-
-n. TPA Buay Madang Timur di Kabupaten Ogan Komering Ulu Timur;
-
-o. TPA Belitang di Kabupaten Ogan Komering Ulu Timur;
-
-p. TPA Martapura di Kabupaten Ogan Komering Ulu Timur;
-
-q. TPA Pelawi di Kabupaten Ogan Komering Ulu Selatan;
-
-r. TPA Palem Raya di Kabupaten Ogan Ilir;
-
-s. TPA Tanjung Raja di Kabupaten Ogan Ilir;
-
-t. TPA Payaraman di Kabupaten Ogan Ilir;
-
-u. TPA Rantau Tenang di Kabupaten Empat Lawang;
-
-v. TPA Pendopo di Kabupaten Penukal Abab Lematang Ilir;
-
-w. TPA Abab di Kabupaten Penukal Abab Lematang Ilir;
-
-x. TPA Penukal Utara di Kabupaten Penukal Abab Lematang Ilir;
-
-y. TPA Sungai Baung di Kabupaten Musi Rawas Utara;
-
-z. TPA Rawas Ulu di Kabupaten Musi Rawas Utara;
-
-aa. TPA Lumbuk Rumbai Baru di Kabupaten Musi Rawas Utara;
-
-bb. TPA Sukawinatan di Kota Palembang;
-
-cc. TPA TPST Karyajaya/Kertapati di Kota Palembang;
-
-dd. TPA Simpang Padang Karet di Kota Pagar Alam;
-
-ee. TPA Lubuk Binjai di Kota Lubuk Linggau; dan
-
-ff. TPA Sungai Medang di Kota Prabumulih.
+- a. TPA Simpang Kandis/Gunung Meraksa di Kabupaten Ogan Komering Ulu;
+- b. TPA Kayu Agung di Kabupaten Ogan Komering Ilir;
+- c. TPA Tugumulyo di Kabupaten Ogan Komering Ilir;
+- d. TPA Bukit Kancil di Kabupaten Muara Enim;
+- e. TPA Gelumbang di Kabupaten Muara Enim;
+- f. TPA Sukarami di Kabupaten Lahat;
+- g. TPA Simpang Gegas di Kabupaten Musi Rawas;
+- h. TPA Sungai Medak/Sekayu di Kabupaten Musi Banyuasin;
+- i. TPA Bayung Lincir di Kabupaten Musi Banyuasin;
+- j. TPA Babat Toman di Kabupaten Musi Banyuasin;
+- k. TPA Sungai Lilin di Kabupaten Musi Banyuasin;
+- l. TPA Terlangu di Kabupaten Banyuasin;
+- m. TPA Semuntul di Kabupaten Banyuasin;
+- n. TPA Buay Madang Timur di Kabupaten Ogan Komering Ulu Timur;
+- o. TPA Belitang di Kabupaten Ogan Komering Ulu Timur;
+- p. TPA Martapura di Kabupaten Ogan Komering Ulu Timur;
+- q. TPA Pelawi di Kabupaten Ogan Komering Ulu Selatan;
+- r. TPA Palem Raya di Kabupaten Ogan Ilir;
+- s. TPA Tanjung Raja di Kabupaten Ogan Ilir;
+- t. TPA Payaraman di Kabupaten Ogan Ilir;
+- u. TPA Rantau Tenang di Kabupaten Empat Lawang;
+- v. TPA Pendopo di Kabupaten Penukal Abab Lematang Ilir;
+- w. TPA Abab di Kabupaten Penukal Abab Lematang Ilir;
+- x. TPA Penukal Utara di Kabupaten Penukal Abab Lematang Ilir;
+- y. TPA Sungai Baung di Kabupaten Musi Rawas Utara;
+- z. TPA Rawas Ulu di Kabupaten Musi Rawas Utara;
+- aa. TPA Lumbuk Rumbai Baru di Kabupaten Musi Rawas Utara;
+- bb. TPA Sukawinatan di Kota Palembang;
+- cc. TPA TPST Karyajaya/Kertapati di Kota Palembang;
+- dd. TPA Simpang Padang Karet di Kota Pagar Alam;
+- ee. TPA Lubuk Binjai di Kota Lubuk Linggau; dan
+- ff. TPA Sungai Medang di Kota Prabumulih.
 
 ---
 
@@ -1445,12 +1395,12 @@ ff. TPA Sungai Medang di Kota Prabumulih.
 
 Kawasan Lindung sebagaimana dimaksud dalam Pasal 29 ayat (1) huruf a seluas lebih kurang 1.421.957 Ha (satu juta empat ratus dua puluh satu ribu sembilan ratus lima puluh tujuh hektare) meliputi:
 
-a. Badan Air;
-b. Kawasan yang Memberikan Perlindungan terhadap Kawasan Bawahannya;
-c. Kawasan Konservasi;
-d. Kawasan Pencadangan Konservasi di Laut;
-e. Kawasan Hutan Adat; dan
-f. Kawasan ekosistem mangrove.
+- a. Badan Air;
+- b. Kawasan yang Memberikan Perlindungan terhadap Kawasan Bawahannya;
+- c. Kawasan Konservasi;
+- d. Kawasan Pencadangan Konservasi di Laut;
+- e. Kawasan Hutan Adat; dan
+- f. Kawasan ekosistem mangrove.
 
 ---
 
