@@ -1171,9 +1171,9 @@ a. **jaringan irigasi pada Daerah Irigasi (D.I) kewenangan Pemerintah Pusat** me
 1. jaringan irigasi pada D.I. yang berada lintas provinsi yaitu D.I. Komering/Way Komering di Kabupaten Ogan Komering Ilir dan Kabupaten Ogan Komering Ulu Timur;
 2. jaringan irigasi pada D.I. yang berada lintas Kabupaten/Kota yaitu D.I. Kelingi Tugu Mulyo di Kabupaten Musi Rawas dan Kota Lubuk Linggau; dan
 3. jaringan irigasi pada D.I. yang berada di Kabupaten/Kota meliputi:
-a) D.I. Air Keruh, D.I. Lintang Kanan dan D.I. Lintang Kiri di Kabupaten Empat Lawang;
-b) D.I. Air Lakitan di Kabupaten Musi Rawas; dan
-c) D.I. Muara Riben dan D.I Lematang di Kota Pagar Alam;
+- a) D.I. Air Keruh, D.I. Lintang Kanan dan D.I. Lintang Kiri di Kabupaten Empat Lawang;
+- b) D.I. Air Lakitan di Kabupaten Musi Rawas; dan
+- c) D.I. Muara Riben dan D.I Lematang di Kota Pagar Alam;
 
 b. **jaringan irigasi pada Daerah Irigasi (D.I) kewenangan Pemerintah Provinsi** meliputi:
 1. D.I. Ataran Sungai Air Deras (Cahaya Alam), D.I. Danau Tampang, D.I. Endikat Bengkok/T. Bute, D.I. Lecah Paye dan D.I. Tunggul Bute di Kabupaten Muara Enim;
