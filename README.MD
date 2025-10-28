@@ -2523,18 +2523,12 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
    3. **Kegiatan yang tidak diperbolehkan:** Kegiatan yang mengganggu fungsi Kawasan sesuai dengan ketentuan teknis dan ketentuan peraturan perundang-undangan yang berlaku;
    
    4. **Pada Kawasan pelabuhan perikanan disusun dengan memperhatikan:**
-   
-   a) kegiatan yang diperbolehkan adalah Pemanfaatan Ruang untuk kegiatan pelabuhan perikanan dan yang menunjang aktivitas pelabuhan perikanan;
-   
-   b) kegiatan yang diperbolehkan adalah Pemanfaatan Ruang untuk pengembangan, pembangunan pelabuhan perikanan sesuai dengan ketentuan teknis yang berlaku;
-   
-   c) kegiatan yang diperbolehkan adalah pengembangan sarana dan prasarana pelabuhan perikanan sesuai dengan ketentuan teknis yang berlaku;
-   
-   d) kegiatan yang diperbolehkan pengembangan dan pensinergian fungsi di pelabuhan perikanan sesuai dengan ketentuan teknis dan ketentuan peraturan perundang-undangan yang berlaku;
-   
-   e) kegiatan yang diperbolehkan bersyarat adalah sarana dan utilitas sesuai dengan ketentuan teknis yang berlaku; dan
-   
-   f) kegiatan yang tidak diperbolehkan adalah kegiatan yang mengganggu fungsi Kawasan sesuai dengan ketentuan teknis dan ketentuan peraturan perundang-undangan yang berlaku;
+      - a) kegiatan yang diperbolehkan adalah Pemanfaatan Ruang untuk kegiatan pelabuhan perikanan dan yang menunjang aktivitas pelabuhan perikanan;
+      - b) kegiatan yang diperbolehkan adalah Pemanfaatan Ruang untuk pengembangan, pembangunan pelabuhan perikanan sesuai dengan ketentuan teknis yang berlaku;
+      - c) kegiatan yang diperbolehkan adalah pengembangan sarana dan prasarana pelabuhan perikanan sesuai dengan ketentuan teknis yang berlaku;
+      - d) kegiatan yang diperbolehkan pengembangan dan pensinergian fungsi di pelabuhan perikanan sesuai dengan ketentuan teknis dan ketentuan peraturan perundang-undangan yang berlaku;
+      - e) kegiatan yang diperbolehkan bersyarat adalah sarana dan utilitas sesuai dengan ketentuan teknis yang berlaku; dan
+      - f) kegiatan yang tidak diperbolehkan adalah kegiatan yang mengganggu fungsi Kawasan sesuai dengan ketentuan teknis dan ketentuan peraturan perundang-undangan yang berlaku;
    
    5. **Daya dukung lingkungan:** Pengembangan pelabuhan Laut harus memperhatikan daya dukung dan daya tampung lingkungan;
    
