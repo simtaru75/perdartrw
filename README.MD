@@ -2455,277 +2455,201 @@ f. indikasi arahan zonasi sistem jaringan prasarana lainnya.
 
    2. **kegiatan yang diperbolehkan bersyarat** adalah kegiatan yang tidak membahayakan konstruksi jalan rel dan fasilitas operasi kereta api dengan izin dari pemilik jalur dalam ruang milik jalur kereta api dan ruang pengawasan jalur kereta api;
 
-**3. Kegiatan yang tidak diperbolehkan yaitu:**
+   3. **Kegiatan yang tidak diperbolehkan yaitu:** Pemanfaatan Ruang pada jalur kereta api, ruang milik jalur kereta api dan ruang pengawasan jalur kereta api yang dapat mengakibatkan terganggunya kelancaran operasi kereta api dan keselamatan pengguna kereta api;
+   
+   4. **Penyediaan sarana prasarana minimum berupa:**
+   
+   a) pengembangan jalur hijau atau RTH sepanjang jalur kereta api;
+   
+   b) bangunan stasiun;
+   
+   c) fasilitas naik/turun penumpang;
+   
+   d) tempat parkir;
+   
+   e) ruang untuk pelayanan penumpang (seperti ruang tunggu, ruang pembelian tiket, toilet dan mushola); dan
+   
+   f) jalur berkumpul darurat dan jalur evakuasi bencana;
+   
+   5. **Intensitas Pemanfaatan Ruang:** Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku;
+   
+   6. **Penerapan rekayasa teknis:** Dalam pembangunan sarana dan prasarana kereta api di sekitar Kawasan rawan bencana;
+   
+   7. **Perhatian terhadap Kawasan Lindung:** Setiap perencanaan dan pembangunan jaringan kereta api wajib memperhatikan Kawasan Lindung dan Kawasan Konservasi serta memperhatikan daya dukung dan daya tampung lingkungan di masing-masing Kabupaten/Kota; dan
+   
+   8. **Dokumen lingkungan:** Pengembangan atau pembangunan jalur kereta api wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
+   
+   b. **Indikasi Arahan Zonasi stasiun kereta api** meliputi:
 
-Pemanfaatan Ruang pada jalur kereta api, ruang milik jalur kereta api dan ruang pengawasan jalur kereta api yang dapat mengakibatkan terganggunya kelancaran operasi kereta api dan keselamatan pengguna kereta api;
+   1.  **Kegiatan yang diperbolehkan:** Meliputi kegiatan operasional stasiun kereta api, kegiatan penunjang operasional stasiun kereta api dan kegiatan pengembangan stasiun kereta api, antara lain kegiatan naik turun penumpang dan kegiatan bongkar muat barang, kegiatan Kawasan terpadu perdagangan dan jasa sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
+   
+   2.  **Kegiatan yang diperbolehkan dengan syarat:** Meliputi kegiatan perdagangan dan jasa yang terintegrasi dalam simpul transit angkutan orang;
+   
+   3.  **Pengembangan Kawasan TOD:** Stasiun kereta api dapat dikembangkan menjadi Kawasan TOD pada intermoda dan antarmoda berupa transportasi darat, Laut, udara dan kereta api sesuai dengan ketentuan peraturan perundang-undangan yang berlaku; dan
+   
+   4.  **Dokumen lingkungan:** Pengembangan atau pembangunan stasiun kereta api wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
-**4. Penyediaan sarana prasarana minimum berupa:**
+(4) Indikasi arahan zonasi untuk sistem jaringan sungai danau dan penyeberangan sebagaimana dimaksud pada ayat (1) huruf c meliputi:
 
-a) pengembangan jalur hijau atau RTH sepanjang jalur kereta api;
-
-b) bangunan stasiun;
-
-c) fasilitas naik/turun penumpang;
-
-d) tempat parkir;
-
-e) ruang untuk pelayanan penumpang (seperti ruang tunggu, ruang pembelian tiket, toilet dan mushola); dan
-
-f) jalur berkumpul darurat dan jalur evakuasi bencana;
-
-**5. Intensitas Pemanfaatan Ruang:**
-
-Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku;
-
-**6. Penerapan rekayasa teknis:**
-
-Dalam pembangunan sarana dan prasarana kereta api di sekitar Kawasan rawan bencana;
-
-**7. Perhatian terhadap Kawasan Lindung:**
-
-Setiap perencanaan dan pembangunan jaringan kereta api wajib memperhatikan Kawasan Lindung dan Kawasan Konservasi serta memperhatikan daya dukung dan daya tampung lingkungan di masing-masing Kabupaten/Kota; dan
-
-**8. Dokumen lingkungan:**
-
-Pengembangan atau pembangunan jalur kereta api wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
-
----
-
-### Halaman 102
-
-**b. Indikasi Arahan Zonasi stasiun kereta api meliputi:**
-
-**1. Kegiatan yang diperbolehkan:**
-
-Meliputi kegiatan operasional stasiun kereta api, kegiatan penunjang operasional stasiun kereta api dan kegiatan pengembangan stasiun kereta api, antara lain kegiatan naik turun penumpang dan kegiatan bongkar muat barang, kegiatan Kawasan terpadu perdagangan dan jasa sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
-
-**2. Kegiatan yang diperbolehkan dengan syarat:**
-
-Meliputi kegiatan perdagangan dan jasa yang terintegrasi dalam simpul transit angkutan orang;
-
-**3. Pengembangan Kawasan TOD:**
-
-Stasiun kereta api dapat dikembangkan menjadi Kawasan TOD pada intermoda dan antarmoda berupa transportasi darat, Laut, udara dan kereta api sesuai dengan ketentuan peraturan perundang-undangan yang berlaku; dan
-
-**4. Dokumen lingkungan:**
-
-Pengembangan atau pembangunan stasiun kereta api wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
-
----
-
-**(4) Indikasi arahan zonasi untuk sistem jaringan sungai danau dan penyeberangan sebagaimana dimaksud pada ayat (1) huruf c meliputi:**
-
-**a. Kegiatan yang diperbolehkan adalah:**
-
-Pembangunan sarana dan prasarana penunjang operasional alur pelayaran di sungai danau dan penyeberangan serta pembangunan dermaga;
-
-**b. Kegiatan yang diperbolehkan bersyarat yaitu:**
-
-1. pembangunan pelabuhan sesuai skala pelayanan; dan
-
-2. pemanfaatan perairan yang berdampak pada keberadaan alur pelayaran sungai danau dan penyeberangan, termasuk Pemanfaatan Ruang di pelabuhan sungai danau dan penyeberangan;
+   a. **Kegiatan yang diperbolehkan adalah:** Pembangunan sarana dan prasarana penunjang operasional alur pelayaran di sungai danau dan penyeberangan serta pembangunan dermaga;
+   
+   b. **Kegiatan yang diperbolehkan bersyarat yaitu:**
+   
+   1. pembangunan pelabuhan sesuai skala pelayanan; dan
+   
+   2. pemanfaatan perairan yang berdampak pada keberadaan alur pelayaran sungai danau dan penyeberangan, termasuk Pemanfaatan Ruang di pelabuhan sungai danau dan penyeberangan;
+   
+   c. **Kegiatan yang tidak diperbolehkan yaitu:**
+   
+   1. kegiatan yang dapat mengganggu keselamatan dan keamanan pelayaran;
+   
+   2. kegiatan di ruang udara bebas di atas perairan yang berdampak pada keberadaan alur pelayaran sungai danau dan penyeberangan; dan
+   
+   3. kegiatan di bawah perairan yang berdampak pada keberadaan alur pelayaran sungai danau dan penyeberangan;
+   
+   d. **Penyediaan sarana prasarana minimum:** Berupa fasilitas naik/turun penumpang;
+   
+   e. **Intensitas Pemanfaatan Ruang:** Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
+   
+   f.** Dokumen lingkungan:** Pengembangan atau pembangunan jaringan sungai danau dan penyeberangan wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 ---
 
-### Halaman 103
-
-**c. Kegiatan yang tidak diperbolehkan yaitu:**
-
-1. kegiatan yang dapat mengganggu keselamatan dan keamanan pelayaran;
-
-2. kegiatan di ruang udara bebas di atas perairan yang berdampak pada keberadaan alur pelayaran sungai danau dan penyeberangan; dan
-
-3. kegiatan di bawah perairan yang berdampak pada keberadaan alur pelayaran sungai danau dan penyeberangan;
-
-**d. Penyediaan sarana prasarana minimum:**
-
-Berupa fasilitas naik/turun penumpang;
-
-**e. Intensitas Pemanfaatan Ruang:**
-
-Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
-
-**f. Dokumen lingkungan:**
-
-Pengembangan atau pembangunan jaringan sungai danau dan penyeberangan wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
-
----
-
-**(5) Indikasi arahan zonasi untuk sistem jaringan transportasi Laut sebagaimana dimaksud pada ayat (1) huruf d meliputi:**
-
-**a. Indikasi arahan zonasi untuk pelabuhan Laut meliputi:**
-
-**1. Kegiatan yang diperbolehkan yaitu:**
-
-a) Pemanfaatan Ruang untuk kegiatan kepelabuhanan dan yang menunjang aktivitas pelabuhan; dan
-
-b) Pemanfaatan Ruang untuk peningkatan sarana prasarana fasilitas pelabuhan;
-
-**2. Kegiatan yang diperbolehkan bersyarat:**
-
-Untuk pengembangan sarana dan utilitas sesuai dengan ketentuan teknis yang berlaku;
-
----
-
-### Halaman 104
-
-**3. Kegiatan yang tidak diperbolehkan:**
-
-Kegiatan yang mengganggu fungsi Kawasan sesuai dengan ketentuan teknis dan ketentuan peraturan perundang-undangan yang berlaku;
-
-**4. Pada Kawasan pelabuhan perikanan disusun dengan memperhatikan:**
-
-a) kegiatan yang diperbolehkan adalah Pemanfaatan Ruang untuk kegiatan pelabuhan perikanan dan yang menunjang aktivitas pelabuhan perikanan;
-
-b) kegiatan yang diperbolehkan adalah Pemanfaatan Ruang untuk pengembangan, pembangunan pelabuhan perikanan sesuai dengan ketentuan teknis yang berlaku;
-
-c) kegiatan yang diperbolehkan adalah pengembangan sarana dan prasarana pelabuhan perikanan sesuai dengan ketentuan teknis yang berlaku;
-
-d) kegiatan yang diperbolehkan pengembangan dan pensinergian fungsi di pelabuhan perikanan sesuai dengan ketentuan teknis dan ketentuan peraturan perundang-undangan yang berlaku;
-
-e) kegiatan yang diperbolehkan bersyarat adalah sarana dan utilitas sesuai dengan ketentuan teknis yang berlaku; dan
-
-f) kegiatan yang tidak diperbolehkan adalah kegiatan yang mengganggu fungsi Kawasan sesuai dengan ketentuan teknis dan ketentuan peraturan perundang-undangan yang berlaku;
-
-**5. Daya dukung lingkungan:**
-
-Pengembangan pelabuhan Laut harus memperhatikan daya dukung dan daya tampung lingkungan;
-
-**6. Rekayasa teknis:**
-
-Penerapan rekayasa teknis dalam pembangunan pelabuhan laut di sekitar Kawasan rawan bencana;
-
----
-
-### Halaman 105
-
-**7. Intensitas Pemanfaatan Ruang:**
-
-Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku;
-
-**8. Dokumen lingkungan:**
-
-Pengembangan atau pembangunan jaringan transportasi laut wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku; dan
-
-**9. Rencana kontingensi menghadapi kondisi darurat perang, dilakukan melalui:**
-
-a) penyediaan Pelabuhan Utama sebagai tempat berlabuhnya Kapal Perang Republik Indonesia (KRI); dan
-
-b) penyediaan sarana operasionalisasi prasarana rencana penunjang kontingensi pada Pelabuhan Utama tersebut;
-
----
-
-**b. Indikasi arahan zonasi untuk alur pelayaran laut:**
-
-Disusun dengan memperhatikan Pemanfaatan Ruang pada Badan Air di sepanjang alur pelayaran dibatasi sesuai dengan ketentuan peraturan perundang-undangan yang berlaku meliputi:
-
-**1. Diperbolehkan yaitu:**
-
-a) kegiatan lalu lintas kapal dari dan/atau menuju pelabuhan;
-
-b) kegiatan penempatan dan pemeliharaan sarana bantu navigasi/pelayaran;
-
-c) kegiatan penetapan rute kapal tertentu (ship routering system);
-
-d) kegiatan penangkapan ikan pelagis dan demersal menggunakan alat tangkap yang bergerak;
-
-e) kegiatan wisata bahari atraktif; dan
-
-f) kegiatan yang selaras dengan pelestarian/perlindungan lingkungan;
-
----
-
-### Halaman 106
-
-**2. Diperbolehkan bersyarat yaitu:**
-
-a) kegiatan pemeliharaan lebar dan kedalaman alur dengan syarat tidak mengganggu lalu lintas kapal;
-
-b) kegiatan penelitian dan pendidikan dengan syarat mendapatkan izin;
-
-c) penempatan pipa dan/atau kabel bawah laut dengan syarat tidak mengganggu fungsi alur pelayaran laut; dan
-
-d) kegiatan bernavigasi yang berdekatan dengan Kawasan Konservasi dengan menjaga kecepatan kapal sesuai dengan ketentuan yang berlaku dan harus mendapatkan izin;
-
-**3. Tidak diperbolehkan yaitu:**
-
-a) kegiatan penangkapan ikan dengan alat tangkap statis;
-
-b) semua jenis kegiatan perikanan budidaya;
-
-c) kegiatan pemasangan rumah ikan dan alat bantu penangkapan ikan seperti rumpon serta terumbu karang buatan;
-
-d) kegiatan penangkapan ikan yang menggunakan bahan peledak, aliran listrik, bius dan/atau bahan beracun serta menggunakan alat tangkap yang bersifat merusak ekosistem;
-
-e) kegiatan pertambangan; dan
-
-f) kegiatan pembuangan sampah dan limbah;
-
-**4. Intensitas Pemanfaatan Ruang:**
-
-Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
-
----
-
-### Halaman 107
-
-**5. Dokumen lingkungan:**
-
-Pengembangan atau pembangunan alur pelayaran laut wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+(5) Indikasi arahan zonasi untuk sistem jaringan transportasi Laut sebagaimana dimaksud pada ayat (1) huruf d meliputi:
+
+   a. **Indikasi arahan zonasi untuk pelabuhan Laut meliputi:**
+   
+   1. **Kegiatan yang diperbolehkan yaitu:**
+   
+   a) Pemanfaatan Ruang untuk kegiatan kepelabuhanan dan yang menunjang aktivitas pelabuhan; dan
+   
+   b) Pemanfaatan Ruang untuk peningkatan sarana prasarana fasilitas pelabuhan;
+   
+   2. **Kegiatan yang diperbolehkan bersyarat:** Untuk pengembangan sarana dan utilitas sesuai dengan ketentuan teknis yang berlaku;
+   
+   3. **Kegiatan yang tidak diperbolehkan:** Kegiatan yang mengganggu fungsi Kawasan sesuai dengan ketentuan teknis dan ketentuan peraturan perundang-undangan yang berlaku;
+   
+   4. **Pada Kawasan pelabuhan perikanan disusun dengan memperhatikan:**
+   
+   a) kegiatan yang diperbolehkan adalah Pemanfaatan Ruang untuk kegiatan pelabuhan perikanan dan yang menunjang aktivitas pelabuhan perikanan;
+   
+   b) kegiatan yang diperbolehkan adalah Pemanfaatan Ruang untuk pengembangan, pembangunan pelabuhan perikanan sesuai dengan ketentuan teknis yang berlaku;
+   
+   c) kegiatan yang diperbolehkan adalah pengembangan sarana dan prasarana pelabuhan perikanan sesuai dengan ketentuan teknis yang berlaku;
+   
+   d) kegiatan yang diperbolehkan pengembangan dan pensinergian fungsi di pelabuhan perikanan sesuai dengan ketentuan teknis dan ketentuan peraturan perundang-undangan yang berlaku;
+   
+   e) kegiatan yang diperbolehkan bersyarat adalah sarana dan utilitas sesuai dengan ketentuan teknis yang berlaku; dan
+   
+   f) kegiatan yang tidak diperbolehkan adalah kegiatan yang mengganggu fungsi Kawasan sesuai dengan ketentuan teknis dan ketentuan peraturan perundang-undangan yang berlaku;
+   
+   5. **Daya dukung lingkungan:** Pengembangan pelabuhan Laut harus memperhatikan daya dukung dan daya tampung lingkungan;
+   
+   6. **Rekayasa teknis:** Penerapan rekayasa teknis dalam pembangunan pelabuhan laut di sekitar Kawasan rawan bencana;
+   
+   --- jiehoes
+   
+   **7. Intensitas Pemanfaatan Ruang:**
+   
+   Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku;
+   
+   **8. Dokumen lingkungan:**
+   
+   Pengembangan atau pembangunan jaringan transportasi laut wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku; dan
+   
+   **9. Rencana kontingensi menghadapi kondisi darurat perang, dilakukan melalui:**
+   
+   a) penyediaan Pelabuhan Utama sebagai tempat berlabuhnya Kapal Perang Republik Indonesia (KRI); dan
+   
+   b) penyediaan sarana operasionalisasi prasarana rencana penunjang kontingensi pada Pelabuhan Utama tersebut;
+   
+   ---
+   
+   **b. Indikasi arahan zonasi untuk alur pelayaran laut:**
+   
+   Disusun dengan memperhatikan Pemanfaatan Ruang pada Badan Air di sepanjang alur pelayaran dibatasi sesuai dengan ketentuan peraturan perundang-undangan yang berlaku meliputi:
+   
+   **1. Diperbolehkan yaitu:**
+   
+   a) kegiatan lalu lintas kapal dari dan/atau menuju pelabuhan;
+   
+   b) kegiatan penempatan dan pemeliharaan sarana bantu navigasi/pelayaran;
+   
+   c) kegiatan penetapan rute kapal tertentu (ship routering system);
+   
+   d) kegiatan penangkapan ikan pelagis dan demersal menggunakan alat tangkap yang bergerak;
+   
+   e) kegiatan wisata bahari atraktif; dan
+   
+   f) kegiatan yang selaras dengan pelestarian/perlindungan lingkungan;
+   
+   **2. Diperbolehkan bersyarat yaitu:**
+   
+   a) kegiatan pemeliharaan lebar dan kedalaman alur dengan syarat tidak mengganggu lalu lintas kapal;
+   
+   b) kegiatan penelitian dan pendidikan dengan syarat mendapatkan izin;
+   
+   c) penempatan pipa dan/atau kabel bawah laut dengan syarat tidak mengganggu fungsi alur pelayaran laut; dan
+   
+   d) kegiatan bernavigasi yang berdekatan dengan Kawasan Konservasi dengan menjaga kecepatan kapal sesuai dengan ketentuan yang berlaku dan harus mendapatkan izin;
+   
+   **3. Tidak diperbolehkan yaitu:**
+   
+   a) kegiatan penangkapan ikan dengan alat tangkap statis;
+   
+   b) semua jenis kegiatan perikanan budidaya;
+   
+   c) kegiatan pemasangan rumah ikan dan alat bantu penangkapan ikan seperti rumpon serta terumbu karang buatan;
+   
+   d) kegiatan penangkapan ikan yang menggunakan bahan peledak, aliran listrik, bius dan/atau bahan beracun serta menggunakan alat tangkap yang bersifat merusak ekosistem;
+   
+   e) kegiatan pertambangan; dan
+   
+   f) kegiatan pembuangan sampah dan limbah;
+   
+   **4. Intensitas Pemanfaatan Ruang:**
+   
+   Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
+   
+   **5. Dokumen lingkungan:**
+   
+   Pengembangan atau pembangunan alur pelayaran laut wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 ---
 
 **(6) Indikasi arahan zonasi untuk Bandar Udara Umum dan Bandar Udara Khusus sebagaimana dimaksud pada ayat (1) huruf e meliputi:**
 
-**a. Diperbolehkan:**
-
-Kegiatan operasional kebandarudaraan, kegiatan penunjang pelayanan jasa kebandarudaraan, penunjang pelayanan keselamatan operasi penerbangan dan kegiatan pertahanan dan keamanan negara;
-
-**b. Diperbolehkan bersyarat:**
-
-Untuk Pemanfaatan Ruang di sekitar bandar udara sesuai dengan kebutuhan pengembangan bandara berdasarkan ketentuan peraturan perundang-undangan yang berlaku;
-
-**c. Tidak diperbolehkan:**
-
-Meliputi pendirian bangunan serta kegiatan yang membahayakan keamanan dan keselamatan operasional penerbangan, membuat halangan (obstacle) dan/atau kegiatan lain yang mengganggu fungsi bandar udara;
-
-**d. Penyediaan sarana dan prasarana minimum berupa:**
-
-1. penyediaan sarana dan prasarana pengelolaan sampah dan limbah serta RTH;
-
-2. fasilitas keselamatan penerbangan;
-
-3. fasilitas keamanan;
-
-4. fasilitas sisi udara;
-
-5. fasilitas sisi darat; dan
-
-6. fasilitas penunjang;
-
-**e. Intensitas Pemanfaatan Ruang:**
-
-Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
+   **a. Diperbolehkan:** Kegiatan operasional kebandarudaraan, kegiatan penunjang pelayanan jasa kebandarudaraan, penunjang pelayanan keselamatan operasi penerbangan dan kegiatan pertahanan dan keamanan negara;
+   
+   **b. Diperbolehkan bersyarat:** Untuk Pemanfaatan Ruang di sekitar bandar udara sesuai dengan kebutuhan pengembangan bandara berdasarkan ketentuan peraturan perundang-undangan yang berlaku;
+   
+   **c. Tidak diperbolehkan:** Meliputi pendirian bangunan serta kegiatan yang membahayakan keamanan dan keselamatan operasional penerbangan, membuat halangan (obstacle) dan/atau kegiatan lain yang mengganggu fungsi bandar udara;
+   
+   **d. Penyediaan sarana dan prasarana minimum berupa:**
+   
+   1. penyediaan sarana dan prasarana pengelolaan sampah dan limbah serta RTH;
+   
+   2. fasilitas keselamatan penerbangan;
+   
+   3. fasilitas keamanan;
+   
+   4. fasilitas sisi udara;
+   
+   5. fasilitas sisi darat; dan
+   
+   6. fasilitas penunjang;
+   
+   **e. Intensitas Pemanfaatan Ruang:** Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
+   
+   **f. Dokumen lingkungan:** Pengembangan atau pembangunan Bandar Udara Umum dan Bandar Udara Khusus wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 ---
 
-### Halaman 108
-
-**f. Dokumen lingkungan:**
-
-Pengembangan atau pembangunan Bandar Udara Umum dan Bandar Udara Khusus wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+**(7) Sistem Transit dan TOD:** Dalam pengembangan sistem jaringan transportasi sebagaimana dimaksud pada ayat (1) dapat dikembangkan Sistem Transit dan pengembangan Kawasan Berorientasi Transit (Transit Oriented Development/TOD) dan bangunan pendukung lainnya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 ---
 
-**(7) Sistem Transit dan TOD:**
-
-Dalam pengembangan sistem jaringan transportasi sebagaimana dimaksud pada ayat (1) dapat dikembangkan Sistem Transit dan pengembangan Kawasan Berorientasi Transit (Transit Oriented Development/TOD) dan bangunan pendukung lainnya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
-
----
-
-**(8) Pemanfaatan Ruang:**
-
-Pemanfaatan Ruang untuk pengembangan jaringan transportasi dan prasarana transportasi sebagaimana dimaksud pada ayat (1), dapat dilakukan pada semua Kawasan Lindung dan Kawasan Budi Daya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku dan mengikuti indikasi arahan zonasi Kawasan.
+**(8) Pemanfaatan Ruang:** Pemanfaatan Ruang untuk pengembangan jaringan transportasi dan prasarana transportasi sebagaimana dimaksud pada ayat (1), dapat dilakukan pada semua Kawasan Lindung dan Kawasan Budi Daya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku dan mengikuti indikasi arahan zonasi Kawasan.
 
 ---
 
@@ -2746,10 +2670,6 @@ Meliputi bangunan perkantoran terkait operasional infrastruktur di dalam Kawasan
 1. Pemanfaatan Ruang bebas di sepanjang jalur sistem jaringan energi; dan
 
 2. pendirian bangunan di sekitar jaringan energi dengan resiko kebakaran tinggi seperti pom bensin dan tempat penimbunan bahan bakar;
-
----
-
-### Halaman 109
 
 **d. Teknologi ramah lingkungan:**
 
@@ -2784,10 +2704,6 @@ Pengembangan atau pembangunan jaringan energi wajib memiliki dokumen lingkungan 
 2. infrastruktur lainnya yang tidak mengganggu jaringan telekomunikasi baik di atas tanah maupun di bawah tanah, termasuk kabel bawah laut; dan
 
 3. kegiatan Kawasan terpadu perdagangan dan jasa sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
-
----
-
-### Halaman 110
 
 **b. Diperbolehkan bersyarat yaitu:**
 
@@ -2849,10 +2765,6 @@ Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkunga
 
 Pengembangan atau pembangunan jaringan sumber daya air wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
 
----
-
-### Halaman 111
-
 **b. Indikasi arahan zonasi sistem jaringan air bersih meliputi:**
 
 **1. Diperbolehkan:**
@@ -2871,10 +2783,6 @@ Kegiatan yang dapat mengganggu fungsi sistem jaringan air bersih;
 
 Meliputi penyiapan ruang evakuasi dan prasarana mitigasi bencana di sekitar bangunan prasarana air bersih;
 
----
-
-### Halaman 112
-
 **5. Intensitas Pemanfaatan Ruang:**
 
 Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan; dan
@@ -2882,8 +2790,6 @@ Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkunga
 **6. Dokumen lingkungan:**
 
 Pengembangan atau pembangunan jaringan air bersih wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
-
----
 
 **c. Indikasi arahan zonasi untuk bangunan sumber daya air meliputi:**
 
@@ -2910,10 +2816,6 @@ Meliputi penyiapan ruang evakuasi dan prasarana mitigasi bencana di sekitar bang
 **5. Intensitas pemanfaatan ruang:**
 
 Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan; dan
-
----
-
-### Halaman 113
 
 **6. Dokumen lingkungan:**
 
@@ -2946,10 +2848,6 @@ a) penyediaan sarana dan prasarana pengolahan limbah dan sumur resapan air (arti
 b) penyediaan unit air baku meliputi bangunan penampungan air, bangunan pengambilan/penyadapan, alat pengukuran dan peralatan pemantauan, sistem pemompaan dan/atau bangunan sarana penyediaan air minum; dan
 
 c) penyediaan unit produksi meliputi bangunan pengolahan dan perlengkapannya, perangkat operasional, alat pengukuran dan peralatan pemantauan serta bangunan penampungan air minum;
-
----
-
-### Halaman 114
 
 **5. Intensitas Pemanfaatan Ruang:**
 
@@ -2986,10 +2884,6 @@ Meliputi penyediaan sumur resapan air (Artificial Water Catchment) di sekitar ba
 **5. Intensitas Pemanfaatan Ruang:**
 
 Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
-
----
-
-### Halaman 115
 
 **6. Dokumen lingkungan:**
 
@@ -3033,10 +2927,6 @@ Pengelolaan limbah B3 mengikuti tata cara dan persyaratan teknis sesuai dengan k
 
 Pengembangan atau pembangunan Sistem pengelolaan limbah bahan berbahaya dan beracun (B3) wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
 
----
-
-### Halaman 116
-
 **d. Indikasi arahan zonasi sistem jaringan persampahan meliputi:**
 
 **1. Diperbolehkan:**
@@ -3072,10 +2962,6 @@ Pengembangan atau pembangunan Sistem jaringan persampahan wajib memiliki dokumen
 **e. Pertimbangan umum:**
 
 Pengembangan sistem jaringan prasarana lainnya harus memperhatikan daya dukung dan daya tampung lingkungan di masing-masing Kabupaten/Kota; dan
-
----
-
-### Halaman 117
 
 **f. Rekayasa teknis:**
 
@@ -3123,10 +3009,6 @@ f. indikasi arahan zonasi Kawasan Pariwisata;
 
 g. indikasi arahan zonasi Kawasan Permukiman;
 
----
-
-### Halaman 118
-
 h. indikasi arahan zonasi Kawasan pembuangan hasil pengerukan di Laut;
 
 i. indikasi arahan zonasi Kawasan Transportasi; dan
@@ -3159,10 +3041,6 @@ Meliputi bangunan pelindung tepi Badan Air, pos petugas, sarana penyelamatan, fa
 
 Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
 
----
-
-### Halaman 119
-
 **f. Dokumen lingkungan:**
 
 Setiap usaha dan atau kegiatan yang boleh dilaksanakan pada Kawasan Badan Air wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
@@ -3193,10 +3071,6 @@ b. indikasi arahan zonasi Kawasan Lindung Gambut.
 
 2. kegiatan usaha pemanfaatan jasa lingkungan meliputi pemanfaatan aliran air, pemanfaatan air, pariwisata alam, perlindungan keanekaragaman hayati, pemulihan lingkungan dan penyerapan atau penyimpanan karbon dilakukan dengan ketentuan tidak mengurangi, mengubah atau menghilangkan fungsi utama, tidak mengubah bentang alam tidak merusak unsur-unsur lingkungan;
 
----
-
-### Halaman 120
-
 3. kegiatan pemungutan hasil hutan bukan kayu dengan syarat tidak merusak lingkungan, tidak mengurangi, mengubah atau menghilangkan fungsi utamanya dan memungut hasil hutan bukan kayu sesuai jumlah, berat atau volume yang diizinkan; dan
 
 4. kegiatan untuk kepentingan pembangunan di luar kegiatan kehutanan dengan syarat tidak mengubah fungsi pokok dan kelestarian lingkungan hidup setelah mendapat persetujuan penggunaan Kawasan hutan;
@@ -3224,10 +3098,6 @@ Pemanfaatan ruang pada kawasan hutan yang mengalami pelepasan kawasan hutan yang
 **g. Perubahan peruntukan:**
 
 Kegiatan yang berpotensi mengubah peruntukan dan fungsi Kawasan Hutan Lindung serta mengurangi luas Kawasan Hutan Lindung harus terlebih dahulu mendapatkan penetapan Perubahan Peruntukan Kawasan Hutan atau Perubahan Fungsi Kawasan Hutan dari menteri yang menyelenggarakan urusan di bidang kehutanan;
-
----
-
-### Halaman 121
 
 **h. Ketentuan pemanfaatan ruang:**
 
@@ -3261,10 +3131,6 @@ Setiap usaha dan atau kegiatan yang boleh dilaksanakan pada kawasan hutan lindun
 
 2. kegiatan dan/atau izin usaha yang telah terbit dan telah beroperasi sebelum Peraturan Daerah ini berlaku sampai jangka waktu izin berakhir; dan
 
----
-
-### Halaman 122
-
 3. kegiatan jasa lingkungan berupa usaha penyerapan dan/atau penyimpanan karbon untuk mengurangi efek gas rumah kaca serta mitigasi bencana dan kondisi bahaya di kawasan gambut;
 
 **c. Tidak diperbolehkan:**
@@ -3292,10 +3158,6 @@ Setiap usaha dan atau kegiatan yang boleh dilaksanakan pada Kawasan Lindung Gamb
 1. kegiatan konservasi, Suaka Margasatwa, Taman Nasional, Taman Nasional Laut dan Taman Wisata Alam;
 
 2. kegiatan penelitian dan pengembangan, ilmu pengetahuan, pendidikan, preservasi sumber daya alam; dan
-
----
-
-### Halaman 123
 
 3. bangunan sistem mitigasi bencana atau sistem peringatan dini (early warning system);
 
@@ -3333,10 +3195,6 @@ Setiap usaha dan atau kegiatan yang boleh dilaksanakan pada Kawasan Konservasi w
 
 2. perlindungan ekosistem pesisir dan laut yang unik dan/atau rentan terhadap perubahan;
 
----
-
-### Halaman 124
-
 **b. Diperbolehkan bersyarat yaitu:**
 
 Kegiatan penelitian, pengembangan dan/atau pendidikan, wisata alam bentang laut, wisata alam pantai/pesisir dan pulau-pulau kecil, wisata alam bawah laut, penangkapan ikan, pembudidayaan ikan, fasilitas umum, pengembangan sistem jaringan transportasi, energi, telekomunikasi, sumber daya air, permukiman dan prasarana lainnya dengan syarat tidak mengganggu fungsi utama Kawasan Pencadangan Konservasi di laut dan dilakukan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
@@ -3366,8 +3224,6 @@ Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkunga
 Setiap usaha dan atau kegiatan yang boleh dilaksanakan pada Kawasan Pencadangan Konservasi di laut wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 ---
-
-### Halaman 125
 
 ## Pasal 77
 
@@ -3455,10 +3311,6 @@ Setiap usaha dan atau kegiatan yang boleh dilaksanakan pada Kawasan Ekosistem Ma
 
 2. kegiatan usaha pemanfaatan Kawasan untuk Budi Daya tanaman obat dan kegiatan penelitian serta pendidikan;
 
----
-
-### Halaman 127
-
 **b. Diperbolehkan bersyarat yaitu:**
 
 1. kegiatan usaha jasa pemanfaatan lingkungan, kegiatan usaha pemanfaatan hasil hutan bukan kayu restorasi ekosistem dalam hutan alam dan hutan tanaman dan kegiatan pemanfaatan lainnya dengan tidak menimbulkan dampak negatif pada fungsi ekologis, sosial, ekonomi dan lingkungan;
@@ -3489,10 +3341,6 @@ Pada kawasan hutan produksi dilaksanakan sesuai dengan ketentuan peraturan perun
 
 Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku;
 
----
-
-### Halaman 128
-
 **f. Peta Indikatif:**
 
 Pada Kawasan Hutan Produksi yang masuk ke dalam penetapan Peta Indikatif Penghentian Pemberian Perizinan Berusaha, Persetujuan Penggunaan Kawasan Hutan atau Persetujuan Perubahan Peruntukan Kawasan Hutan Baru pada Hutan Alam Primer dan Lahan Gambut Pemanfaatan Ruang sesuai dengan ketentuan peraturan perundang undangan;
@@ -3520,10 +3368,6 @@ Kegiatan pertanian tanaman pangan, kegiatan pertanian hortikultura, kegiatan per
 1. industri, pengembangan infrastruktur pendukung agribisnis dan agroindustri, permukiman, agrowisata, fasilitas penunjang pariwisata secara terbatas pada perkebunan dan hortikultura serta pengembangan jaringan prasarana untuk kepentingan umum;
 
 2. kegiatan ekowisata dengan tetap mempertahankan fungsi utama Kawasan sebagai Kawasan Pertanian dan kegiatan penunjang pariwisata;
-
----
-
-### Halaman 129
 
 3. pengembangan sistem jaringan transportasi, energi, telekomunikasi, sumber daya air dan prasarana lainnya sesuai dengan ketentuan peraturan perundang-undangan;
 
@@ -3556,10 +3400,6 @@ Menghadapi kondisi darurat perang dilakukan melalui pemanfaatan Kawasan Pertania
 **g. Intensitas Pemanfaatan Ruang:**
 
 Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan; dan
-
----
-
-### Halaman 130
 
 **h. Dokumen lingkungan:**
 
@@ -3611,10 +3451,6 @@ Terkait pelaksanaan kegiatan perikanan mengikuti ketentuan yang berlaku di bidan
 
 Setiap usaha dan/atau kegiatan yang boleh dilaksanakan pada Kawasan Perikanan tangkap wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
 
----
-
-### Halaman 131
-
 ### b. Indikasi arahan zonasi untuk perikanan Budi Daya meliputi:
 
 **1. Diperbolehkan yaitu:**
@@ -3663,10 +3499,6 @@ Setiap usaha dan atau kegiatan yang boleh dilaksanakan pada Kawasan Perikanan Bu
 
 3. prasarana jaringan tenaga listrik dan kegiatan pembangunan prasarana penunjang jaringan tenaga listrik;
 
----
-
-### Halaman 132
-
 **b. Diperbolehkan bersyarat yaitu:**
 
 1. kegiatan pendukung pertambangan dan energi;
@@ -3706,10 +3538,6 @@ Terkait pelaksanaan kegiatan pertambangan mengikuti ketentuan yang berlaku di bi
 **a. Diperbolehkan yaitu:**
 
 Kegiatan industri dan pergudangan, parkir truk dan kontainer, terminal peti kemas, sarana dan prasarana transportasi yang mendukung Kawasan, sarana pendidikan, fasilitas kesehatan, RTH, perumahan penduduk setempat dan infrastruktur pendukung Kawasan;
-
----
-
-### Halaman 133
 
 **b. Diperbolehkan dengan syarat yaitu:**
 
@@ -3759,10 +3587,6 @@ Kegiatan industri dan pergudangan, parkir truk dan kontainer, terminal peti kema
 
 7. konservasi dan restorasi gambut/mangrove;
 
----
-
-### Halaman 134
-
 **e. Fungsi Ekosistem Gambut Lindung:**
 
 Pada Kawasan Peruntukan Industri yang wilayahnya berada pada lindung gambut, pengembangan Kawasan tersebut tidak diperbolehkan melakukan kegiatan yang mengakibatkan terlampauinya kriteria baku kerusakan ekosistem gambut wajib mempertahankan areal FEG lindung yang masih dalam kondisi alami dan diperbolehkan untuk melakukan kegiatan penelitian, ilmu pengetahuan, pendidikan dan/atau jasa lingkungan;
@@ -3805,10 +3629,6 @@ Terkait pelaksanaan kegiatan industri sesuai dengan ketentuan peraturan perundan
 
 1. permukiman yang mendukung kegiatan wisata; dan
 
----
-
-### Halaman 135
-
 2. sarana dan prasarana penunjang transportasi, fasilitas rekreasi hiburan, kegiatan industri kecil penunjang pariwisata, kegiatan lain yang telah ada yang tidak mengganggu kegiatan wisata;
 
 **c. Tidak diperbolehkan:**
@@ -3849,10 +3669,6 @@ Pada kegiatan pariwisata yang berada di dalam/sekitar Objek Vital Nasional mengi
 
 3. kegiatan Pemanfaatan Ruang untuk penyediaan fasilitas sosial dan fasilitas umum sesuai dengan standar pelayanan minimal;
 
----
-
-### Halaman 136
-
 4. kegiatan pengembangan pusat bisnis terpadu dan pusat kegiatan berorientasi transit pada pusat-pusat permukiman berskala nasional dan regional;
 
 5. kegiatan pertanian;
@@ -3883,10 +3699,6 @@ Kegiatan yang mengakibatkan terganggunya kenyamanan, keamanan dan ketertiban keg
 
 2. penyediaan sarana pendidikan, sarana kesehatan, ruang terbuka hijau, sarana parkir, gedung parkir, sarana peribadatan, sarana ruang terbuka non hijau, taman dan lapangan olahraga sesuai ketentuan dan kriteria yang berlaku;
 
----
-
-### Halaman 137
-
 3. penyediaan kebutuhan sarana distribusi perdagangan dengan mempertimbangkan kondisi sosial ekonomi Masyarakat, keberadaan pasar tradisional, pusat perbelanjaan dan toko modern serta fasilitas yang bersih, sehat, aman, tertib dan nyaman; dan
 
 4. penyediaan jalur evakuasi dan ruang evakuasi bencana;
@@ -3911,10 +3723,6 @@ Mempertimbangkan fungsi ekologis kawasan, daya dukung dan daya tampung lingkunga
 
 Menghadapi darurat perang di perkotaan diatur untuk pemanfaatan gedung pemerintah dan/atau gedung-gedung yang memiliki area parkir bawah tanah/basement untuk digunakan sebagai banker pertahanan militer;
 
----
-
-### Halaman 138
-
 **i. Dokumen lingkungan:**
 
 Setiap usaha dan atau kegiatan yang boleh dilaksanakan pada kawasan permukiman wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku; dan
@@ -3937,10 +3745,6 @@ Meliputi kegiatan pembuangan material hasil pengerukan alur pelayaran dan kolam 
 
 Meliputi pembangunan Floating Production Storage and Offloading, Pembangunan (FPSO), Floating Storage Offloading (FSO), pemasangan/penggelaran pipa migas, pembangunan anjungan/platform migas, pembangunan fasilitas terapung (Floating Facility) Migas, Mooring, Eksploitasi (eksplorasi produksi) Migas, tahapan operasi produksi Migas di atas 2 mil laut, pembangunan kabel telekomunikasi Local Port Service (LPS), penanaman dan/atau pemasangan kabel atau tiang serta sarana di laut, penggelaran/pemasangan kabel/pipa bawah laut dan pekerjaan bawah air lainnya, kegiatan Instalasi Pembangkit Listrik Tenaga Arus Laut (PLTAL), pembangunan PLTU/PLTGU, pembangunan pembangkitan, transmisi, distribusi dan penjualan tenaga Listrik, latihan militer, pembangunan fasilitas umum, Eksplorasi Migas, eksploitasi (Operasi Produksi) mineral logam, Pembangunan SBNP (Sarana Bantu Navigasi Pelayaran), kegiatan pekerjaan penyelaman (diving working), survei dan/atau penelitian ilmiah, pengambilan foto/video bawah laut, pengambilan sumber kepentingan ekonomi, penangkapan ikan dengan kapal ukuran <30 GT dengan alat tangkap sesuai peraturan perundangan, kegiatan lain yang tidak merubah fungsi Kawasan atau zona, pembangunan pipa air bersih, penanaman kabel;
 
----
-
-### Halaman 139
-
 **c. Kegiatan yang tidak diperbolehkan:**
 
 Meliputi kegiatan/usaha pembudidayaan semua jenis ikan, usaha perikanan budidaya terapung (keramba jaring apung), kegiatan budidaya biota laut untuk kepentingan industri Biofarmakologi/Bioteknologi Laut, pemasangan rumpon laut dalam, pemasangan rumpon laut dangkal, bongkar muat ikan, pengangkutan ikan hasil penangkapan dengan ikan hidup berbendera Indonesia, pengintroduksian organisme hasil rekayasa genetik ke lingkungan, pengangkutan mineral logam, mineral bukan logam, batuan, batu bara, mineral radioaktif, pengolahan dan pemurnian mineral logam, pengerukan perairan laut dengan capital dredging yang memotong material karang dan/atau batu, penempatan kapal mati, uji coba kapal, penetapan rute pelayaran internasional, kegiatan bongkar muat oleh kapal asing, usaha pelayanan jasa pemanduan kapal, kegiatan pemindahan muatan dan/atau bahan bakar (cargo and fuel transferring), pengambilan terumbu karang, pelatihan perang dengan menggunakan amunisi oleh kapal asing, kegiatan pengumpulan, pemanfaatan, pengolahan, pembuangan dan penimbunan limbah B3, kegiatan reklamasi, kegiatan lainnya yang mengurangi nilai dan/atau fungsi Kawasan atau zona, kegiatan pengumpulan, pemanfaatan, pengolahan, pembuangan dan penimbunan limbah non B3;
@@ -3958,8 +3762,6 @@ Sebagai dasar fisik lingkungan guna mendukung pengembangan agar dapat berfungsi 
 Setiap usaha dan atau kegiatan yang boleh dilaksanakan pada Kawasan pembuangan hasil pengerukan di laut wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 ---
-
-### Halaman 140
 
 ## Pasal 87
 
@@ -4011,10 +3813,6 @@ Setiap usaha dan atau kegiatan yang boleh dilaksanakan pada Kawasan pembuangan h
 
 2. perikanan tangkap statis dan/atau bergerak yang mengganggu kegiatan pelabuhan;
 
----
-
-### Halaman 141
-
 3. kegiatan wisata bawah laut;
 
 4. kegiatan perikanan Budi Daya laut;
@@ -4046,10 +3844,6 @@ Setiap usaha dan atau kegiatan yang boleh dilaksanakan pada Kawasan Transportasi
 **a. Pemanfaatan Kawasan Pertahanan dan Keamanan:**
 
 Harus sejalan dengan fungsi pertahanan dan pemanfaatan di luar fungsi pertahanan dilaksanakan sesuai ketentuan perundang-undangan;
-
----
-
-### Halaman 142
 
 **b. Pemanfaatan Wilayah di sekitar:**
 
@@ -4087,10 +3881,6 @@ b) diperbolehkan kegiatan pengembangan sarana prasarana yang mendukung fungsi Wi
 
 3) terdapat bufferzone untuk pangkalan/Wilayah pertahanan dan keamanan tidak berbahaya;
 
----
-
-### Halaman 143
-
 4) terdapat bufferzone 500 m berupa tanaman keras untuk daerah latihan militer, daerah penyimpanan muhandak, daerah disposal amunisi, daerah uji coba senjata dan amunisi, daerah disposal muhandak dan daerah lapangan tembak;
 
 5) terdapat alur laut yang dapat dilalui oleh KRI/kapal patroli TNI AL;
@@ -4122,10 +3912,6 @@ d) tidak diperbolehkan pengembangan yaitu:
 4) eksplorasi Migas;
 
 5) jaringan pipa Migas dan SUTET;
-
----
-
-### Halaman 144
 
 6) Kawasan industri bahan peledak;
 
@@ -4179,10 +3965,6 @@ Menghadapi kondisi darurat perang, dilakukan melalui pemanfaatan Kawasan industr
 
 Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
 
----
-
-### Halaman 145
-
 **h. Dokumen lingkungan:**
 
 Setiap usaha dan atau kegiatan yang boleh dilaksanakan pada Kawasan Pertahanan dan Keamanan wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
@@ -4227,10 +4009,6 @@ Ketentuan khusus KKOP sebagaimana dimaksud pada ayat (1), bertampalan dengan Bad
 
 Mempertimbangkan ketentuan batas ketinggian bangunan pada setiap Kawasan sesuai dengan ketentuan peraturan perundang-undangan.
 
----
-
-### Halaman 146
-
 **(5) Peta ketentuan khusus KKOP:**
 
 Digambarkan dalam peta dengan tingkat ketelitian 1:250.000 (satu berbanding dua ratus lima puluh ribu) sebagaimana tercantum dalam Lampiran XIV yang merupakan bagian yang tidak terpisahkan dari Peraturan Daerah ini.
@@ -4271,10 +4049,6 @@ Penggantian lahan KP2B yang telah ditetapkan sebagai LP2B dalam rangka pengadaan
 
 3. penetapan lahan pertanian pangan sebagai LP2B;
 
----
-
-### Halaman 147
-
 **e. Penggantian lahan akibat bencana:**
 
 Penggantian lahan KP2B yang telah ditetapkan sebagai LP2B dalam rangka terjadi bencana wajib disediakan oleh Pemerintah dan dilakukan dengan ketentuan:
@@ -4309,8 +4083,6 @@ Digambarkan dalam peta dengan tingkat ketelitian 1:250.000 (satu berbanding dua 
 
 ---
 
-### Halaman 148
-
 ### Pasal 92
 
 **(1) Ketentuan khusus Kawasan rawan bencana sebagaimana dimaksud dalam Pasal 89 huruf c dengan ketentuan sebagai berikut:**
@@ -4343,10 +4115,6 @@ Tersebar di seluruh Kabupaten/Kota;
 
 Terdapat di Kabupaten Empat Lawang, Kabupaten Lahat, Kabupaten Ogan Komering Ulu, Kabupaten Ogan Komering Ulu Selatan, Kabupaten Ogan Komering Ulu Timur dan Kota Pagar Alam.
 
----
-
-### Halaman 149
-
 **(3) Ketentuan khusus pembangunan untuk Kawasan rawan bencana tanah longsor tingkat tinggi:**
 
 Sebagaimana dimaksud pada ayat (2) huruf a yang bertampalan dengan Pola Ruang Kawasan Badan Air, Kawasan yang memberikan perlindungan terhadap Kawasan bawahannya, Kawasan Konservasi, Kawasan Hutan Produksi, Kawasan Permukiman, Kawasan Pertanian, Kawasan Pertambangan dan Energi dan Kawasan Peruntukan Industri dilaksanakan berdasarkan arahan meliputi:
@@ -4378,10 +4146,6 @@ Penyediaan sistem peringatan dini, pemasangan papan informasi bahaya, rambu baha
 **(4) Ketentuan khusus Kawasan rawan bencana letusan gunung api tingkat tinggi:**
 
 Sebagaimana dimaksud pada ayat (2) huruf b yang bertampalan dengan Pola Ruang Kawasan yang memberikan perlindungan terhadap Kawasan bawahannya dan Kawasan Pertanian dilaksanakan berdasarkan arahan meliputi:
-
----
-
-### Halaman 150
 
 **a. Kawasan kategori rendah:**
 
@@ -4427,11 +4191,6 @@ Pemanfaatan dataran banjir bagi RTH dan pengendalian pembangunan fasilitas umum 
 
 Ketentuan mengenai pelarangan kegiatan untuk fasilitas umum;
 
----
----
-
-### Halaman 151
-
 d. pengendalian permukiman di Kawasan rawan banjir;
 
 e. pada Kawasan Perkotaan yang kemampuannya rendah dalam mitigasi banjir serta memiliki risiko bencana yang disebabkan oleh daya rusak air harus didukung dengan pembangunan infrastruktur mitigasi dan pengembangan teknologi mitigasi serta upaya adaptasi; dan
@@ -4454,8 +4213,6 @@ c. tidak diperbolehkan membangun prasarana Wilayah melintasi Kawasan rawan benca
 
 ---
 
-### Halaman 152
-
 ## Pasal 93
 
 **(1)** Ketentuan khusus Kawasan sempadan (sempadan pantai, sempadan sungai, sempadan SDEW, sempadan Kawasan Konservasi dan Sempadan Pipa/Kabel bawah laut) sebagaimana dimaksud dalam Pasal 89 huruf d meliputi:
@@ -4471,11 +4228,6 @@ b. ketentuan khusus sempadan sungai dengan memperhatikan:
    4. Garis sempadan sungai bertanggul di luar kawasan perkotaan ditentukan paling sedikit berjarak 5 (lima) meter dari tepi luar kaki tanggul sepanjang alur sungai;
    5. Dibolehkan pemanfaatan secara terbatas untuk:
       a) bangunan prasarana sumber daya air, fasilitas jembatan dan dermaga, jalur pipa gas dan air minum, rentangan kabel listrik dan telekomunikasi;
-
----
-
-### Halaman 153
-
       b) kegiatan lain sepanjang tidak mengganggu fungsi sungai; dan
       c) bangunan ketenagalistrikan;
    6. dalam hal di dalam sempadan sungai terdapat tanggul untuk kepentingan pengendali banjir, perlindungan badan tanggul dilakukan dengan larangan menanam tanaman selain rumput, mendirikan bangunan dan mengurangi dimensi tanggul;
@@ -4486,11 +4238,6 @@ c. ketentuan khusus sempadan SDEW dengan ketentuan:
    1. batas garis sempadan danau ditentukan paling sedikit berjarak 50 (lima puluh) meter dari tepi badan danau;
    2. pada sempadan SDEW hanya dapat dimanfaatkan untuk kegiatan tertentu dan bangunan tertentu seperti penelitian dan pengembangan ilmu pengetahuan, pariwisata, olahraga dan/atau aktivitas budaya dan keagamaan, bangunan prasarana sumber daya air, jalan akses, jembatan dan dermaga, jalur pipa gas dan air minum, rentangan kabel listrik dan telekomunikasi, prasarana pariwisata, prasarana dan sarana sanitasi dan bangunan ketenagalistrikan;
    3. pada sempadan SDEW dilarang untuk mengubah letak tepi danau, membuang limbah, menggembala ternak dan mengubah aliran air masuk atau ke luar danau; dan
-
----
-
-### Halaman 154
-
    4. pemanfaatan sempadan danau dilakukan berdasarkan izin dari Menteri, Gubernur atau Bupati/Walikota sesuai dengan kewenangannya dalam pengelolaan sumber daya air serta dilakukan dengan mempertimbangkan rekomendasi teknis dari pengelola sumber daya air pada Wilayah sekitar danau yang bersangkutan;
 
 d. ketentuan khusus sempadan Kawasan Konservasi dengan ketentuan:
@@ -4507,10 +4254,6 @@ e. ketentuan khusus sempadan Pipa/Kabel bawah laut sesuai dengan ketentuan perat
 
 **(2)** Ketentuan khusus Kawasan sempadan sebagaimana dimaksud pada ayat (1), bertampalan dengan Badan Air, ekosistem mangrove, pemukiman, hutan produksi, kawasan konservasi, pariwisata, perikanan, pertahanan dan keamanan, pertambangan dan energi, pertanian, peruntukan industri, transportasi, Kawasan yang memberikan perlindungan terhadap Kawasan bawahannya dan holding zone.
 
----
-
-### Halaman 155
-
 **(3)** Peta ketentuan khusus Kawasan sempadan digambarkan dalam peta dengan tingkat ketelitian 1:250.000 (satu berbanding dua ratus lima puluh ribu) sebagaimana tercantum dalam Lampiran XVII yang merupakan bagian yang tidak terpisahkan dari Peraturan Daerah ini.
 
 ## Pasal 94
@@ -4524,11 +4267,6 @@ a. **Gambut Lindung.**
       a) pemanfaatan ekosistem gambut secara terbatas untuk kegiatan penelitian, ilmu pengetahuan, pendidikan dan/atau jasa lingkungan;
       b) kegiatan pencegahan kerusakan ekosistem gambut meliputi penyiapan sarana prasarana pemadam kebakaran dan pengamanan areal rawan kebakaran dan bekas kebakaran;
       c) kegiatan penanggulangan ekosistem gambut meliputi pemadaman kebakaran dan pembuatan sekat atau bangunan pengendali air; dan
-
----
-
-### Halaman 156
-
       d) kegiatan pemulihan kerusakan ekosistem gambut meliputi rehabilitasi, restorasi dan revegetasi;
    2. kegiatan yang diperbolehkan bersyarat yaitu:
       a) membuat saluran drainase atau kanal yang tidak mengakibatkan gambut menjadi kering;
@@ -4544,11 +4282,6 @@ b. **Gambut Budi Daya.**
    1. kegiatan yang diperbolehkan yaitu:
       a) semua kegiatan sesuai dengan rencana perlindungan dan pengelolaan ekosistem gambut;
       b) pemeliharaan ekosistem gambut meliputi pencadangan gambut dan pelestarian gambut sebagai pengendali dampak perubahan iklim;
-
----
-
-### Halaman 157
-
       c) mempertahankan lahan bukan terbangun sesuai fungsi kawasan resapan air;
    2. kegiatan yang diperbolehkan bersyarat yaitu:
       a) kegiatan penelitian, ilmu pengetahuan dan pendidikan, pemanfaatan hasil hutan bukan kayu, jasa lingkungan, wisata terbatas dan/atau perdagangan karbon pada ekosistem gambut;
@@ -4565,11 +4298,6 @@ b. **Gambut Budi Daya.**
       d) melakukan kegiatan lain yang mengakibatkan terlampauinya kriteria baku kerusakan ekosistem gambut;
 
 c. pembangunan prasarana Wilayah yang harus melintasi Kawasan bergambut dengan ketebalan ≥ 3 meter dapat diperkenankan dengan ketentuan:
-
----
-
-### Halaman 158
-
    1. tidak menyebabkan terjadinya perkembangan Pemanfaatan Ruang budidaya di sepanjang jaringan prasarana tersebut;
    2. kegiatan jasa lingkungan berupa usaha penyerapan dan/atau penyimpanan karbon untuk mengurangi efek gas rumah kaca serta mitigasi bencana dan kondisi bahaya di kawasan gambut; dan
    3. mengikuti ketentuan pelarangan seluruh kegiatan yang berpotensi merubah tata air dan ekosistem unik yang ditetapkan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
@@ -4590,10 +4318,6 @@ h. dalam hal terdapat penetapan Kawasan Lindung Gambut pada Kawasan Budi Daya be
 
 **(1)** Ketentuan khusus Kawasan Pertambangan Mineral dan Batu bara sebagaimana dimaksud dalam Pasal 89 huruf f dengan ketentuan sebagai berikut:
 
----
-
-### Halaman 159
-
 a. penerbitan perizinan kegiatan pertambangan di Wilayah Usaha Pertambangan (WUP) dan/atau Wilayah Pertambangan Rakyat (WPR) diperbolehkan bersyarat sesuai dengan ketentuan peraturan perundangan-undangan;
 
 b. penambangan mineral logam, mineral bukan logam dan batuan dikembangkan di seluruh wilayah Kabupaten/Kota berdasarkan potensi sesuai dengan ketentuan peraturan perundangan-undangan;
@@ -4613,10 +4337,6 @@ h. pada Kawasan pertambangan mineral dan batu bara yang wilayahnya berada pada l
 i. penetapan lokasi pertambangan yang berada pada Kawasan tertentu harus mematuhi ketentuan mengenai radius minimal terhadap Permukiman dan tidak terletak di daerah resapan air untuk menjaga kelestarian sumber air dan kelengkapan lainnya.
 
 **(2)** Ketentuan khusus Kawasan pertambangan mineral dan batu bara sebagaimana dimaksud pada ayat (1), bertampalan dengan Badan Air, hutan adat, pemukiman, hutan produksi, kawasan konservasi, pariwisata, pertahanan dan keamanan, pertambangan dan energi, pertanian, peruntukan industri dan Kawasan yang memberikan perlindungan terhadap Kawasan bawahannya.
-
----
-
-### Halaman 160
 
 **(3)** Peta ketentuan khusus Kawasan Pertambangan Mineral dan Batu bara digambarkan dalam peta dengan tingkat ketelitian 1:250.000 (satu berbanding dua ratus lima puluh ribu) sebagaimana tercantum dalam Lampiran XIX yang merupakan bagian yang tidak terpisahkan dari Peraturan Daerah ini.
 
@@ -4654,10 +4374,6 @@ i. penetapan lokasi pertambangan yang berada pada Kawasan tertentu harus mematuh
 
 **(3)** Penilaian pada periode selama pembangunan sebagaimana dimaksud pada ayat (2) huruf a dilakukan untuk memastikan kepatuhan pelaksanaan dalam memenuhi ketentuan KKPR dan dilakukan paling lambat 2 (dua) tahun sejak diterbitkannya KKPR.
 
----
-
-### Halaman 161
-
 **(4)** Penilaian pada periode pasca pembangunan sebagaimana dimaksud pada ayat (2) huruf b dilakukan untuk memastikan kepatuhan hasil pembangunan dengan ketentuan dokumen KKPR.
 
 **(5)** Dalam hal hasil penilaian sebagaimana dimaksud pada ayat (3) ditemukan ketidakpatuhan terhadap ketentuan yang tertuang dalam dokumen KKPR, pelaku kegiatan Pemanfaatan Ruang diharuskan melakukan penyesuaian.
@@ -4680,10 +4396,6 @@ i. penetapan lokasi pertambangan yang berada pada Kawasan tertentu harus mematuh
 **(4)** Penilaian tingkat perwujudan rencana Struktur Ruang sebagaimana dimaksud pada ayat (2) huruf a dilakukan dengan dengan penyandingan pelaksanaan program pembangunan pusat permukiman dan sistem jaringan prasarana terhadap rencana Struktur Ruang.
 
 **(5)** Penilaian tingkat perwujudan rencana Pola Ruang sebagaimana dimaksud pada ayat (2) huruf b dilakukan dengan penyandingan pelaksanaan program pengelolaan lingkungan, pembangunan berdasarkan perizinan berusaha dan hak atas tanah terhadap rencana Pola Ruang.
-
----
-
-### Halaman 162
 
 **(6)** Hasil penilaian tingkat perwujudan sebagaimana dimaksud pada ayat (4) dan ayat (5) terdiri dari:
 - a. muatan rencana Struktur Ruang dan/atau Pola Ruang terwujud;
@@ -4711,10 +4423,6 @@ i. penetapan lokasi pertambangan yang berada pada Kawasan tertentu harus mematuh
 - c. meningkatkan kemitraan semua Masyarakat dalam rangka Pemanfaatan Ruang yang sejalan dengan RTR.
 
 **(2)** Arahan Insentif dan Disinsentif dapat diberikan kepada pelaku kegiatan Pemanfaatan Ruang untuk mendukung perwujudan RTR.
-
----
-
-### Halaman 163
 
 **(3)** Arahan Insentif dan Disinsentif sebagaimana dimaksud pada ayat (2) dilaksanakan untuk:
 - a. menindaklanjuti hasil penilaian pelaksanaan KKPR sebagai dasar pengendalian implikasi kewilayahan pada Kawasan yang perlu dikendalikan atau didorong perkembangannya;
@@ -4752,8 +4460,6 @@ Bentuk peran Masyarakat meliputi:
 - c. peran Masyarakat.
 
 ---
-
-### Halaman 164
 
 ### Bagian Kedua
 ### Hak Masyarakat
@@ -4793,10 +4499,6 @@ c. mematuhi ketentuan yang ditetapkan dalam persyaratan KKPR;
 
 d. memberikan akses terhadap Kawasan yang oleh ketentuan peraturan perundang-undangan yang berlaku dinyatakan sebagai milik umum;
 
----
-
-### Halaman 165
-
 e. menyampaikan laporan terjadinya permasalahan pelaksanaan Pemanfaatan Ruang; dan
 
 f. menjaga, melindungi dan memelihara kelestarian Wilayah Pesisir dan Pulau-Pulau Kecil.
@@ -4829,8 +4531,6 @@ f. menjaga, melindungi dan memelihara kelestarian Wilayah Pesisir dan Pulau-Pula
 **(7)** Peran Masyarakat sebagaimana dimaksud pada ayat (3), dapat disampaikan kepada Gubernur dan/atau unit kerja terkait yang ditunjuk oleh Gubernur.
 
 ---
-
-### Halaman 166
 
 #### Paragraf 1
 #### Peran Masyarakat dalam Perencanaan Tata Ruang
@@ -4871,8 +4571,6 @@ f. kegiatan investasi dalam Pemanfaatan Ruang sesuai dengan ketentuan peraturan 
 
 ---
 
-### Halaman 167
-
 #### Paragraf 3
 #### Peran Masyarakat dalam Pengendalian Pemanfaatan Ruang
 
@@ -4903,10 +4601,6 @@ d. pengajuan keberatan terhadap keputusan pejabat yang berwenang terhadap pemban
 
 **(1)** Selain Pejabat Penyidik Kepolisian Negara Republik Indonesia, Pegawai Negeri Sipil tertentu di lingkungan instansi pemerintah yang lingkup tugas dan tanggung jawabnya di bidang Penataan Ruang diberi wewenang khusus sebagai Penyidik Pegawai Negeri Sipil untuk membantu Pejabat Penyidik Kepolisian Negara Republik Indonesia sebagaimana dimaksud dalam Kitab Undang-Undang Hukum Acara Pidana.
 
----
-
-### Halaman 168
-
 **(2)** Penyidik Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (1) berwenang:
 
 a. melakukan pemeriksaan atas kebenaran laporan atau keterangan yang berkenaan dengan tindak pidana dalam bidang Penataan Ruang;
@@ -4930,8 +4624,6 @@ f. meminta bantuan tenaga ahli dalam rangka pelaksanaan tugas penyidikan tindak 
 **(6)** Pengangkatan Pejabat Penyidik Pegawai Negeri Sipil dan tata cara serta proses penyidikan dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 ---
-
-### Halaman 169
 
 ## BAB XI
 ## KETENTUAN SANKSI ADMINISTRATIF
@@ -4968,11 +4660,6 @@ f. meminta bantuan tenaga ahli dalam rangka pelaksanaan tugas penyidikan tindak 
 - a. tingkat atau berat ringannya jenis pelanggaran yang dilakukan oleh penanggung jawab usaha dan/atau kegiatan;
 - b. tingkat penaatan penanggung jawab usaha dan/atau kegiatan terhadap pemenuhan perintah atau kewajiban yang ditentukan dalam sanksi administratif;
 - c. rekam jejak ketaatan penanggung jawab usaha dan/atau kegiatan;
-
----
-
-### Halaman 170
-
 - d. tingkat pengaruh atau implikasi pelanggaran terhadap lingkungan hidup;
 - e. besar atau kecilnya dampak yang ditimbulkan akibat pelanggaran Pemanfaatan Ruang;
 - f. nilai manfaat pengenaan sanksi yang diberikan terhadap pelanggaran Pemanfaatan Ruang; dan
@@ -4994,11 +4681,6 @@ f. meminta bantuan tenaga ahli dalam rangka pelaksanaan tugas penyidikan tindak 
    5. penggunaan dokumen persetujuan KKPRL atau konfirmasi kesesuaian ruang laut yang tidak sah;
    6. tindakan tidak melaporkan pendirian dan/atau penempatan bangunan dan instalasi di laut kepada menteri yang menyelenggarakan urusan pemerintahan di bidang kelautan;
    7. tindakan tidak menyampaikan laporan tertulis pelaksanaan KKPRL secara berkala tiap 1 (satu) tahun sekali kepada menteri yang menyelenggarakan urusan pemerintahan di bidang kelautan;
-
----
-
-### Halaman 171
-
    8. pelaksanaan persetujuan KKPRL yang tidak sesuai dengan RTR, Rencana Zonasi Antar Wilayah (RZ KAW) dan/atau (Rencana Zonasi Kawasan Strategis Nasional Tertentu) RZ KSNT; dan
    9. pelaksanaan persetujuan KKPR Laut yang mengganggu ruang penghidupan dan akses nelayan kecil, nelayan tradisional dan pembudidayaan ikan kecil.
 
@@ -5032,10 +4714,6 @@ Setiap Orang yang tidak menaati RTR yang telah ditetapkan yang mengakibatkan per
 - c. perubahan batas daerah yang ditetapkan dengan peraturan perundang-undangan; atau
 - d. perubahan kebijakan nasional yang bersifat strategis.
 
----
-
-### Halaman 172
-
 **(4)** Dalam hal terdapat perubahan kebijakan penetapan Lahan Sawah dilindungi, KP2B, Kawasan Hutan, Perubahan Garis Pantai, Batas Wilayah, Kawasan Konservasi di Laut, DLKr, DLKp, WKOPP setelah Peraturan Daerah ini ditetapkan maka pengaturannya disesuaikan dengan ketentuan peraturan perundang-undangan terbaru.
 
 **(5)** Dalam hal terjadi perubahan garis pantai sebagaimana dimaksud pada ayat (4) secara alami maka ukuran garis pantai yang digunakan berdasarkan pada ukuran garis pantai yang ditetapkan oleh lembaga/instansi yang berwenang sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
@@ -5059,10 +4737,6 @@ Setiap Orang yang tidak menaati RTR yang telah ditetapkan yang mengakibatkan per
 **(1)** Tanah timbul merupakan tanah yang dikuasai langsung oleh Negara.
 
 **(2)** Tanah timbul sebagaimana dimaksud pada ayat (1) meliputi tanah yang timbul pada pesisir laut, tepian sungai, tepian danau dan pulau.
-
----
-
-### Halaman 173
 
 **(3)** Tanah timbul dengan luasan paling luas 100 m² (seratus meter persegi) merupakan milik dari pemilik tanah yang berbatasan langsung dengan tanah timbul dimaksud.
 
@@ -5088,10 +4762,6 @@ Pengaturan Ruang Dalam Bumi diarahkan untuk:
 a. kegiatan yang diperbolehkan pada ruang bawah tanah dangkal yaitu akses stasiun kereta api perkotaan, sistem jaringan sarana dan prasarana jalan, sistem jaringan utilitas, Kawasan perkantoran, fasilitas parkir, perdagangan dan jasa, pendukung kegiatan gedung dan pondasi bangunan gedung di atasnya;
 
 b. kegiatan yang diperbolehkan pada ruang bawah tanah dalam yaitu sistem jaringan transportasi, sistem jaringan sarana dan prasarana jalan, sistem jaringan utilitas, pertambagan dan energi, minyak dan gas serta pondasi bangunan gedung di atasnya;
-
----
-
-### Halaman 174
 
 c. pelaksanaan Pemanfaatan Ruang dalam bumi sebagaimana dimaksud pada huruf a dan huruf b mengacu kepada peraturan perundang-undangan yang berlaku; dan
 
@@ -5124,10 +4794,6 @@ d. terhadap izin Pemanfaatan Ruang yang berada pada peruntukan ruang yang telah 
 ### Pasal 119
 
 Pada saat Peraturan Daerah ini mulai berlaku, semua peraturan pelaksanaan yang berkaitan dengan Penataan Ruang daerah dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan Peraturan Daerah ini.
-
----
-
-### Halaman 175
 
 ### Pasal 120
 
