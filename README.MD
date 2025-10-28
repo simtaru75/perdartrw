@@ -375,15 +375,15 @@ g. pengendalian fungsi lindung dan fungsi Budi Daya secara berkelanjutan.
 
 **(1) Strategi kebijakan pengembangan Sistem Pusat Permukiman secara berhierarki, terpadu dan berkualitas**, sebagaimana dimaksud dalam Pasal 5 huruf a meliputi:
 
-a. memantapkan dan meningkatkan fungsi PKN dan PKW;
-
-b. mengembangkan PKL dan sentra-sentra produksi komoditas unggulan sumber daya alam dengan memperhatikan keanekaragaman hayati;
-
-c. meningkatkan peran PKL sebagai Kawasan Perkotaan yang berfungsi untuk melayani kegiatan skala Kabupaten/Kota atau beberapa kecamatan;
-
-d. meningkatkan keterkaitan antar Kawasan Perkotaan dan antar Kawasan Perkotaan dengan sentra produksi komoditas unggulan sumber daya alam serta antar Kawasan Perkotaan dengan Wilayah sekitarnya, termasuk pesisir dan pulau-pulau kecil; dan
-
-e. mengembangkan prasarana permukiman secara berkelanjutan yang dapat memfasilitasi kegiatan ekonomi di Wilayah sekitarnya.
+   a. memantapkan dan meningkatkan fungsi PKN dan PKW;
+   
+   b. mengembangkan PKL dan sentra-sentra produksi komoditas unggulan sumber daya alam dengan memperhatikan keanekaragaman hayati;
+   
+   c. meningkatkan peran PKL sebagai Kawasan Perkotaan yang berfungsi untuk melayani kegiatan skala Kabupaten/Kota atau beberapa kecamatan;
+   
+   d. meningkatkan keterkaitan antar Kawasan Perkotaan dan antar Kawasan Perkotaan dengan sentra produksi komoditas unggulan sumber daya alam serta antar Kawasan Perkotaan dengan Wilayah sekitarnya, termasuk pesisir dan pulau-pulau kecil; dan
+   
+   e. mengembangkan prasarana permukiman secara berkelanjutan yang dapat memfasilitasi kegiatan ekonomi di Wilayah sekitarnya.
 
 **(2) Strategi kebijakan pengembangan dan peningkatan konektivitas serta aksesibilitas sistem jaringan prasarana Wilayah yang berkualitas secara terpadu**, sebagaimana dimaksud dalam Pasal 5 huruf b meliputi:
 
