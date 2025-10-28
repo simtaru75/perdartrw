@@ -1831,29 +1831,29 @@ g. **Aset-Aset Pertahanan lainnya** meliputi :
 
 (4) Rencana pengembangan Kawasan strategis untuk kepentingan ekonomi sebagaimana dimaksud pada ayat (3) huruf a meliputi:
 
-   a. **KSP Kawasan Sekayu dan sekitarnya** meliputi:
-      1. Kawasan Wilayah Kabupaten Musi Banyuasin meliputi Kecamatan Sanga Desa, Kecamatan Babat Toman, Kecamatan Plakat Tinggi, Kecamatan Lawang Wetan, Kecamatan Sekayu, Kecamatan Lais, Kecamatan Sungai Lilin, Kecamatan Keluang, Kecamatan Babat Supat, Kecamatan Bayung Lencir dan Kecamatan Tungkal Jaya; dan
-      2. Kawasan Wilayah Kabupaten Banyuasin meliputi Kecamatan Betung, Kecamatan Suak Tapeh, Kecamatan Sembawa dan Kecamatan Banyuasin III;
+a. **KSP Kawasan Sekayu dan sekitarnya** meliputi:
+1. Kawasan Wilayah Kabupaten Musi Banyuasin meliputi Kecamatan Sanga Desa, Kecamatan Babat Toman, Kecamatan Plakat Tinggi, Kecamatan Lawang Wetan, Kecamatan Sekayu, Kecamatan Lais, Kecamatan Sungai Lilin, Kecamatan Keluang, Kecamatan Babat Supat, Kecamatan Bayung Lencir dan Kecamatan Tungkal Jaya; dan
+2. Kawasan Wilayah Kabupaten Banyuasin meliputi Kecamatan Betung, Kecamatan Suak Tapeh, Kecamatan Sembawa dan Kecamatan Banyuasin III;
 
-   b. **KSP Kawasan Lubuklinggau dan Sekitarnya** meliputi:
-      1. Kawasan Wilayah Kota Lubuk Linggau meliputi seluruh kecamatan;
-      2. Kawasan Wilayah Kabupaten Musi Rawas meliputi Kecamatan Suku Tengah Lakitan Ulu Terawas, Kecamatan Selangit, Kecamatan Sumber Harta, Kecamatan Tugumulyo, Kecamatan Purwodadi, Kecamatan Muara Beliti, Kecamatan Muara Lakitan dan Kecamatan Megang Sakti; dan
-      3. Wilayah Kabupaten Musi Rawas Utara meliputi Kecamatan Karang Jaya, Kecamatan Rupit dan Kecamatan Karang Dapo;
+b. **KSP Kawasan Lubuklinggau dan Sekitarnya** meliputi:
+1. Kawasan Wilayah Kota Lubuk Linggau meliputi seluruh kecamatan;
+2. Kawasan Wilayah Kabupaten Musi Rawas meliputi Kecamatan Suku Tengah Lakitan Ulu Terawas, Kecamatan Selangit, Kecamatan Sumber Harta, Kecamatan Tugumulyo, Kecamatan Purwodadi, Kecamatan Muara Beliti, Kecamatan Muara Lakitan dan Kecamatan Megang Sakti; dan
+3. Wilayah Kabupaten Musi Rawas Utara meliputi Kecamatan Karang Jaya, Kecamatan Rupit dan Kecamatan Karang Dapo;
 
-   c. **KSP Kawasan Pagar Alam dan Sekitarnya** meliputi:
-      1. Kawasan Wilayah Kota Pagar Alam meliputi seluruh kecamatan;
-      2. Kawasan Wilayah Kabupaten Lahat meliputi Kecamatan Tanjung Sakti Pumi, Kecamatan Tanjung Sakti Pumu, Kecamatan Pulau Pinang, Kecamatan Gumay Ulu, Kecamatan Jarai, Kecamatan Pajar Bulan, Kecamatan Muara Payang, Kecamatan Sukamerindu, Kecamatan Lahat, Kecamatan Gumay Talang dan Kecamatan Lahat Selatan; dan
-      3. Kawasan Wilayah Kabupaten Empat Lawang meliputi Kecamatan Muara Pinang, Kecamatan Lintang Kanan, Kecamatan Pendopo, Kecamatan Pendopo Barat, Kecamatan Pasemah Air Keruh, Kecamatan Ulu Musi, Kecamatan Sikap Dalam, Kecamatan Talang Padang dan Kecamatan Tebing Tinggi;
+c. **KSP Kawasan Pagar Alam dan Sekitarnya** meliputi:
+1. Kawasan Wilayah Kota Pagar Alam meliputi seluruh kecamatan;
+2. Kawasan Wilayah Kabupaten Lahat meliputi Kecamatan Tanjung Sakti Pumi, Kecamatan Tanjung Sakti Pumu, Kecamatan Pulau Pinang, Kecamatan Gumay Ulu, Kecamatan Jarai, Kecamatan Pajar Bulan, Kecamatan Muara Payang, Kecamatan Sukamerindu, Kecamatan Lahat, Kecamatan Gumay Talang dan Kecamatan Lahat Selatan; dan
+3. Kawasan Wilayah Kabupaten Empat Lawang meliputi Kecamatan Muara Pinang, Kecamatan Lintang Kanan, Kecamatan Pendopo, Kecamatan Pendopo Barat, Kecamatan Pasemah Air Keruh, Kecamatan Ulu Musi, Kecamatan Sikap Dalam, Kecamatan Talang Padang dan Kecamatan Tebing Tinggi;
 
-   d. **KSP Kawasan Muara Enim dan Sekitarnya** meliputi:
-      1. Kawasan Wilayah Kabupaten Muara Enim meliputi Kecamatan Tanjung Agung, Kecamatan Lawang Kidul, Kecamatan Muara Enim, Kecamatan Ujan Mas, Kecamatan Gunung Megang, Kecamatan Benakat, Kecamatan Belimbing, Kecamatan Rambang Niru, Kecamatan Empat Petulai Dangku;
-      2. Kawasan Wilayah Kota Prabumulih meliputi seluruh kecamatan;
-      3. Kawasan Wilayah Kabupaten Penukal Abab Lematang Ilir meliputi Kecamatan Penukal Utara, Kecamatan Talang Ubi dan Kecamatan Tanah Abang; dan
+d. **KSP Kawasan Muara Enim dan Sekitarnya** meliputi:
+1. Kawasan Wilayah Kabupaten Muara Enim meliputi Kecamatan Tanjung Agung, Kecamatan Lawang Kidul, Kecamatan Muara Enim, Kecamatan Ujan Mas, Kecamatan Gunung Megang, Kecamatan Benakat, Kecamatan Belimbing, Kecamatan Rambang Niru, Kecamatan Empat Petulai Dangku;
+2. Kawasan Wilayah Kota Prabumulih meliputi seluruh kecamatan;
+3. Kawasan Wilayah Kabupaten Penukal Abab Lematang Ilir meliputi Kecamatan Penukal Utara, Kecamatan Talang Ubi dan Kecamatan Tanah Abang; dan
 
-   e. **KSP Kawasan Martapura dan Sekitarnya** meliputi:
-      1. Kawasan Wilayah Kabupaten Ogan Komering Ulu Timur meliputi Kecamatan Martapura, Kecamatan Bunga Mayang, Kecamatan Jayapura, Kecamatan Buay Pemuka Peliung, Kecamatan Buay Madang, Kecamatan Buay Madang Timur, Kecamatan Belitang Madang Raya dan Kecamatan Belitang;
-      2. Kawasan Wilayah Kabupaten Ogan Komering Ulu meliputi Kecamatan Sosoh Buay Rayap, Kecamatan Pengandonan, Kecamatan Semidang Aji, Kecamatan Baturaja Timur dan Kecamatan Baturaja Barat; dan
-      3. Kawasan Wilayah Kabupaten Ogan Komering Ulu Selatan meliputi Kecamatan Mekakau Ilir, Kecamatan Banding Agung, Kecamatan Warkuk Ranau Selatan, Kecamatan Buay Pematang Ribu Ranau Tengah, Kecamatan Buay Pemaca, Kecamatan Simpang, Kecamatan Buana Pemaca, Kecamatan Muaradua, Kecamatan Buay Rawan, Kecamatan Buay Sandang Aji, Kecamatan Tiga Dihaji, Kecamatan Kisam Ilir, Kecamatan Pulau Beringin, Kecamatan Sindang Danau dan Kecamatan Sungai Are.
+e. **KSP Kawasan Martapura dan Sekitarnya** meliputi:
+1. Kawasan Wilayah Kabupaten Ogan Komering Ulu Timur meliputi Kecamatan Martapura, Kecamatan Bunga Mayang, Kecamatan Jayapura, Kecamatan Buay Pemuka Peliung, Kecamatan Buay Madang, Kecamatan Buay Madang Timur, Kecamatan Belitang Madang Raya dan Kecamatan Belitang;
+2. Kawasan Wilayah Kabupaten Ogan Komering Ulu meliputi Kecamatan Sosoh Buay Rayap, Kecamatan Pengandonan, Kecamatan Semidang Aji, Kecamatan Baturaja Timur dan Kecamatan Baturaja Barat; dan
+3. Kawasan Wilayah Kabupaten Ogan Komering Ulu Selatan meliputi Kecamatan Mekakau Ilir, Kecamatan Banding Agung, Kecamatan Warkuk Ranau Selatan, Kecamatan Buay Pematang Ribu Ranau Tengah, Kecamatan Buay Pemaca, Kecamatan Simpang, Kecamatan Buana Pemaca, Kecamatan Muaradua, Kecamatan Buay Rawan, Kecamatan Buay Sandang Aji, Kecamatan Tiga Dihaji, Kecamatan Kisam Ilir, Kecamatan Pulau Beringin, Kecamatan Sindang Danau dan Kecamatan Sungai Are.
 
 (5) Rencana pengembangan Kawasan strategis untuk kepentingan fungsi dan daya dukung lingkungan sebagaimana dimaksud pada ayat (3) huruf b yaitu **Kawasan Pesisir Timur Sumatera Selatan** meliputi:
    - a. Kawasan Wilayah Kabupaten Ogan Komering Ilir meliputi Kecamatan Sungai Menang, Kecamatan Tulung Selapan, Kecamatan Cengal, Kecamatan Pangkalan Lampam dan Kecamatan Air Sugihan; dan
