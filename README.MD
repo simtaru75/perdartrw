@@ -1933,14 +1933,6 @@ Kawasan Permukiman sebagaimana dimaksud dalam Pasal 37 huruf g seluas lebih kura
 
 (2) Arah pengembangan KSP Kawasan Martapura dan Sekitarnya meliputi:
    - a. pengembangan potensi Kawasan melalui pemanfaatan sumber daya alam yang berwawasan lingkungan;
-
-
----
-
-**Pasal 53 (Lanjutan)**
-
-(2) Arah pengembangan KSP Kawasan Martapura dan Sekitarnya meliputi (lanjutan):
-
    - b. pengembangan Kawasan ekonomi terpadu Danau Ranau;
    - c. pengembangan Kawasan agropolitan di Kabupaten OKU Timur;
    - d. pengembangan kawasan wisata Goa Harimau dan Goa Puteri di Kabupaten Ogan Komering Ulu;
