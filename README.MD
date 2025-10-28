@@ -2513,8 +2513,8 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
    a. **Indikasi arahan zonasi untuk pelabuhan Laut meliputi:**
    
    1. **Kegiatan yang diperbolehkan yaitu:** 
-   - a) Pemanfaatan Ruang untuk kegiatan kepelabuhanan dan yang menunjang aktivitas pelabuhan; dan
-   - b) Pemanfaatan Ruang untuk peningkatan sarana prasarana fasilitas pelabuhan;
+      - a) Pemanfaatan Ruang untuk kegiatan kepelabuhanan dan yang menunjang aktivitas pelabuhan; dan
+      - b) Pemanfaatan Ruang untuk peningkatan sarana prasarana fasilitas pelabuhan;
    
    2. **Kegiatan yang diperbolehkan bersyarat:** Untuk pengembangan sarana dan utilitas sesuai dengan ketentuan teknis yang berlaku;
    
