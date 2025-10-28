@@ -2450,6 +2450,8 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
 
    6. pengembangan atau pembangunan jembatan timbang wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
+----
+
 (3) Indikasi arahan zonasi untuk sistem jaringan kereta api sebagaimana dimaksud pada ayat (1) huruf b meliputi:
 
    a. **indikasi Arahan Zonasi jalur kereta api** meliputi:
@@ -2488,6 +2490,8 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
    
    4.  **Dokumen lingkungan:** Pengembangan atau pembangunan stasiun kereta api wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
+----
+
 (4) Indikasi arahan zonasi untuk sistem jaringan sungai danau dan penyeberangan sebagaimana dimaksud pada ayat (1) huruf c meliputi:
 
    a. **Kegiatan yang diperbolehkan adalah:** Pembangunan sarana dan prasarana penunjang operasional alur pelayaran di sungai danau dan penyeberangan serta pembangunan dermaga;
@@ -2511,6 +2515,8 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
    e. **Intensitas Pemanfaatan Ruang:** Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
    
    f. **Dokumen lingkungan:** Pengembangan atau pembangunan jaringan sungai danau dan penyeberangan wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+
+----
 
 (5) Indikasi arahan zonasi untuk sistem jaringan transportasi Laut sebagaimana dimaksud pada ayat (1) huruf d meliputi:
 
@@ -2559,6 +2565,7 @@ b. **Indikasi arahan zonasi untuk alur pelayaran laut:** Disusun dengan memperha
          - b) kegiatan penelitian dan pendidikan dengan syarat mendapatkan izin;
          - c) penempatan pipa dan/atau kabel bawah laut dengan syarat tidak mengganggu fungsi alur pelayaran laut; dan
          - d) kegiatan bernavigasi yang berdekatan dengan Kawasan Konservasi dengan menjaga kecepatan kapal sesuai dengan ketentuan yang berlaku dan harus mendapatkan izin;
+
    3. **Tidak diperbolehkan yaitu:**
          - a) kegiatan penangkapan ikan dengan alat tangkap statis;
          - b) semua jenis kegiatan perikanan budidaya;
@@ -2566,10 +2573,14 @@ b. **Indikasi arahan zonasi untuk alur pelayaran laut:** Disusun dengan memperha
          - d) kegiatan penangkapan ikan yang menggunakan bahan peledak, aliran listrik, bius dan/atau bahan beracun serta menggunakan alat tangkap yang bersifat merusak ekosistem;
          - e) kegiatan pertambangan; dan
          - f) kegiatan pembuangan sampah dan limbah;
+
    4. **Intensitas Pemanfaatan Ruang:** Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
+
    5. **Dokumen lingkungan:** Pengembangan atau pembangunan alur pelayaran laut wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
-**(6) Indikasi arahan zonasi untuk Bandar Udara Umum dan Bandar Udara Khusus sebagaimana dimaksud pada ayat (1) huruf e meliputi:**
+----
+
+(6) Indikasi arahan zonasi untuk Bandar Udara Umum dan Bandar Udara Khusus sebagaimana dimaksud pada ayat (1) huruf e meliputi:
 
    a. **Diperbolehkan:** Kegiatan operasional kebandarudaraan, kegiatan penunjang pelayanan jasa kebandarudaraan, penunjang pelayanan keselamatan operasi penerbangan dan kegiatan pertahanan dan keamanan negara;
    
@@ -2595,13 +2606,13 @@ b. **Indikasi arahan zonasi untuk alur pelayaran laut:** Disusun dengan memperha
    
    f. **Dokumen lingkungan:** Pengembangan atau pembangunan Bandar Udara Umum dan Bandar Udara Khusus wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
----
+----
 
-**(7) Sistem Transit dan TOD:** Dalam pengembangan sistem jaringan transportasi sebagaimana dimaksud pada ayat (1) dapat dikembangkan Sistem Transit dan pengembangan Kawasan Berorientasi Transit (Transit Oriented Development/TOD) dan bangunan pendukung lainnya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+(7) **Sistem Transit dan TOD:** Dalam pengembangan sistem jaringan transportasi sebagaimana dimaksud pada ayat (1) dapat dikembangkan Sistem Transit dan pengembangan Kawasan Berorientasi Transit (Transit Oriented Development/TOD) dan bangunan pendukung lainnya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
----
+----
 
-**(8) Pemanfaatan Ruang:** Pemanfaatan Ruang untuk pengembangan jaringan transportasi dan prasarana transportasi sebagaimana dimaksud pada ayat (1), dapat dilakukan pada semua Kawasan Lindung dan Kawasan Budi Daya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku dan mengikuti indikasi arahan zonasi Kawasan.
+(8) **Pemanfaatan Ruang:** Pemanfaatan Ruang untuk pengembangan jaringan transportasi dan prasarana transportasi sebagaimana dimaksud pada ayat (1), dapat dilakukan pada semua Kawasan Lindung dan Kawasan Budi Daya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku dan mengikuti indikasi arahan zonasi Kawasan.
 
 ---
 
