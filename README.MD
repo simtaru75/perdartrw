@@ -2069,7 +2069,7 @@ b. **perwujudan Kawasan Budi Daya** meliputi:
 
 ---
 
-#### Bagian Keempat - Pelaksanaan SPPR
+#### **Bagian Keempat - Pelaksanaan SPPR**
 
 ##### **Pasal 62**
 
@@ -2296,8 +2296,8 @@ c. **indikasi arahan zonasi untuk jalan tol** meliputi:
 9. pada sistem jaringan jalan tol yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengembangan sistem tersebut tidak diperbolehkan melakukan kegiatan yang mengakibatkan terlampauinya kriteria baku kerusakan ekosistem gambut wajib mempertahankan areal FEG lindung yang masih dalam kondisi alami dan diperbolehkan untuk melakukan kegiatan penelitian, ilmu pengetahuan, pendidikan dan/atau jasa lingkungan;
 10. rencana kontingensi menghadapi kondisi darurat perang, dilakukan melalui:
 
-  * a) penyediaan ruas Jalan Tol yang dapat digunakan sebagai landasan pesawat tempur yang ditetapkan kemudian dalam Rencana Rinci Wilayah Pertahanan (RRWP); dan
-  * b) pengaturan sarana prasarana Jalan Tol yang mendukung operasionalisasi rencana kontingensi kondisi darurat perang pada Jalan Tol tersebut;
+* a) penyediaan ruas Jalan Tol yang dapat digunakan sebagai landasan pesawat tempur yang ditetapkan kemudian dalam Rencana Rinci Wilayah Pertahanan (RRWP); dan
+* b) pengaturan sarana prasarana Jalan Tol yang mendukung operasionalisasi rencana kontingensi kondisi darurat perang pada Jalan Tol tersebut;
 
 11. pengembangan atau pembangunan jalan tol wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
@@ -2753,6 +2753,8 @@ Pengelolaan limbah B3 mengikuti tata cara dan persyaratan teknis sesuai dengan k
 
 Pengembangan atau pembangunan Sistem pengelolaan limbah bahan berbahaya dan beracun (B3) wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
 
+---
+
 **d. Indikasi arahan zonasi sistem jaringan persampahan meliputi:**
 
 **1. Diperbolehkan:**
@@ -3072,13 +3074,11 @@ Setiap usaha dan atau kegiatan yang boleh dilaksanakan pada Kawasan Hutan adat w
 
 1. kegiatan pendidikan, penelitian dan wisata alam;
 
----
-
-**2. Kegiatan lain di luar kegiatan kehutanan:**
+2\. Kegiatan lain di luar kegiatan kehutanan:
 
 Yang mempunyai tujuan strategis dan tidak dapat dihindari mengacu pada ketentuan peraturan perundang-undangan yang berlaku melalui pemberian persetujuan penggunaan Kawasan Hutan; dan
 
-**3. Kegiatan jasa lingkungan:**
+3\. Kegiatan jasa lingkungan:
 
 Berupa usaha penyerapan dan/atau penyimpanan karbon untuk mengurangi efek gas rumah kaca serta mitigasi bencana dan kondisi bahaya di laut;
 
@@ -4037,7 +4037,7 @@ i. penetapan lokasi pertambangan yang berada pada Kawasan tertentu harus mematuh
 
 ---
 
-### **Bagian Ketiga - Penilaian Pelaksanaan Pemanfaatan Ruang**
+#### **Bagian Ketiga - Penilaian Pelaksanaan Pemanfaatan Ruang**
 
 ##### **Pasal 96**
 
@@ -4114,7 +4114,7 @@ i. penetapan lokasi pertambangan yang berada pada Kawasan tertentu harus mematuh
 
 ---
 
-### **Bagian Keempat - Arahan Insentif dan Disinsentif**
+#### **Bagian Keempat - Arahan Insentif dan Disinsentif**
 
 ##### **Pasal 99**
 
@@ -4184,6 +4184,8 @@ g. mengajukan gugatan ganti kerugian kepada Pemerintah Pusat, Pemerintah Daerah 
 
 h. mengawasi pihak-pihak yang melakukan penyelenggaraan tata ruang.
 
+---
+
 #### **Bagian Ketiga - Kewajiban Masyarakat**
 
 ##### **Pasal 103**
@@ -4201,6 +4203,8 @@ d. memberikan akses terhadap Kawasan yang oleh ketentuan peraturan perundang-und
 e. menyampaikan laporan terjadinya permasalahan pelaksanaan Pemanfaatan Ruang; dan
 
 f. menjaga, melindungi dan memelihara kelestarian Wilayah Pesisir dan Pulau-Pulau Kecil.
+
+---
 
 #### **Bagian Keempat - Peran Masyarakat**
 
@@ -4250,6 +4254,8 @@ a. masukan mengenai:
 b. kerja sama dengan pemerintah, pemerintah daerah dan/atau sesama unsur Masyarakat dalam Perencanaan Tata Ruang.
 
 **(2)** Masyarakat dapat menyampaikan masukan sebagaimana dimaksud pada ayat (1) huruf a melalui forum pertemuan yang difasilitasi oleh Pemerintah Daerah.
+
+---
 
 #### Paragraf 2 - Peran Masyarakat dalam Pemanfaatan Ruang
 
@@ -4347,6 +4353,8 @@ f. meminta bantuan tenaga ahli dalam rangka pelaksanaan tugas penyidikan tindak 
 * i. pembongkaran bangunan; dan/atau
 * j. pemulihan fungsi ruang.
 
+---
+
 ##### **Pasal 111**
 
 **(1)** Pengenaan sanksi administratif sebagaimana dimaksud dalam Pasal 110 dapat dilaksanakan secara:
@@ -4424,6 +4432,8 @@ Setiap Orang yang tidak menaati RTR yang telah ditetapkan yang mengakibatkan per
 
 **(6)** Ketentuan lebih lanjut mengenai peninjauan kembali dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
+---
+
 ##### **Pasal 114**
 
 **(1)** Sengketa Penataan Ruang dapat diselesaikan melalui pengadilan dan/atau di luar pengadilan.
@@ -4436,6 +4446,8 @@ Setiap Orang yang tidak menaati RTR yang telah ditetapkan yang mengakibatkan per
 
 **(5)** Sengketa akibat adanya perubahan kebijakan dapat diselesaikan melalui fasilitasi Forum Penataan Ruang Daerah.
 
+---
+
 ##### **Pasal 115**
 
 **(1)** Tanah timbul merupakan tanah yang dikuasai langsung oleh Negara.
@@ -4445,6 +4457,8 @@ Setiap Orang yang tidak menaati RTR yang telah ditetapkan yang mengakibatkan per
 **(3)** Tanah timbul dengan luasan paling luas 100 m² (seratus meter persegi) merupakan milik dari pemilik tanah yang berbatasan langsung dengan tanah timbul dimaksud.
 
 **(4)** Tanah timbul dengan luasan lebih dari 100 m² (seratus meter persegi) dapat diberikan hak atas tanah sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+
+---
 
 ##### **Pasal 116**
 
@@ -4459,6 +4473,8 @@ Setiap Orang yang tidak menaati RTR yang telah ditetapkan yang mengakibatkan per
 * c. persyaratan teknis pengambilan, pengerukan dan penimbunan/pengurugan material.
 
 **(4)** Gubernur berwenang menerbitkan izin pelaksanaan reklamasi pada perairan laut paling jauh 12 (dua belas) mil laut diukur dari garis pantai ke arah laut bebas dan/atau ke arah perairan kepulauan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+
+---
 
 ##### **Pasal 117**
 
@@ -4498,6 +4514,8 @@ d. terhadap izin Pemanfaatan Ruang yang berada pada peruntukan ruang yang telah 
 
 Pada saat Peraturan Daerah ini mulai berlaku, semua peraturan pelaksanaan yang berkaitan dengan Penataan Ruang daerah dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan Peraturan Daerah ini.
 
+---
+
 ##### **Pasal 120**
 
 Pada saat Peraturan Daerah ini mulai berlaku:
@@ -4505,6 +4523,8 @@ Pada saat Peraturan Daerah ini mulai berlaku:
 a. Peraturan Daerah Provinsi Sumatera Selatan Nomor 11 Tahun 2016 tentang RTRW Provinsi Sumatera Selatan Tahun 2016-2036; dan
 
 b. Peraturan Daerah Provinsi Sumatera Selatan Nomor 2 Tahun 2020 tentang Rencana Zonasi Wilayah Pesisir dan Pulau-Pulau Kecil Provinsi Sumatera Selatan Tahun 2020-2040, dicabut dan dinyatakan tidak berlaku.
+
+---
 
 ##### **Pasal 121**
 
