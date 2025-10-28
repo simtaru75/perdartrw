@@ -2510,7 +2510,7 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
 
 (5) Indikasi arahan zonasi untuk sistem jaringan transportasi Laut sebagaimana dimaksud pada ayat (1) huruf d meliputi:
 
-   a. **Indikasi arahan zonasi untuk pelabuhan Laut meliputi:**
+a. **Indikasi arahan zonasi untuk pelabuhan Laut meliputi:**
    
    1. **Kegiatan yang diperbolehkan yaitu:** 
       - a) Pemanfaatan Ruang untuk kegiatan kepelabuhanan dan yang menunjang aktivitas pelabuhan; dan
@@ -2540,15 +2540,15 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
       - a) penyediaan Pelabuhan Utama sebagai tempat berlabuhnya Kapal Perang Republik Indonesia (KRI); dan
       - b) penyediaan sarana operasionalisasi prasarana rencana penunjang kontingensi pada Pelabuhan Utama tersebut;
       
-   b. **Indikasi arahan zonasi untuk alur pelayaran laut:** Disusun dengan memperhatikan Pemanfaatan Ruang pada Badan Air di sepanjang alur pelayaran dibatasi sesuai dengan ketentuan peraturan perundang-undangan yang berlaku meliputi:
-      1. **Diperbolehkan yaitu:**
+b. **Indikasi arahan zonasi untuk alur pelayaran laut:** Disusun dengan memperhatikan Pemanfaatan Ruang pada Badan Air di sepanjang alur pelayaran dibatasi sesuai dengan ketentuan peraturan perundang-undangan yang berlaku meliputi:
+   1. **Diperbolehkan yaitu:**
          - a) kegiatan lalu lintas kapal dari dan/atau menuju pelabuhan;
          - b) kegiatan penempatan dan pemeliharaan sarana bantu navigasi/pelayaran;
          - c) kegiatan penetapan rute kapal tertentu (ship routering system);
          - d) kegiatan penangkapan ikan pelagis dan demersal menggunakan alat tangkap yang bergerak;
          - e) kegiatan wisata bahari atraktif; dan
          - f) kegiatan yang selaras dengan pelestarian/perlindungan lingkungan;
-      2. **Diperbolehkan bersyarat yaitu:**
+   2. **Diperbolehkan bersyarat yaitu:**
          - a) kegiatan pemeliharaan lebar dan kedalaman alur dengan syarat tidak mengganggu lalu lintas kapal;
          - b) kegiatan penelitian dan pendidikan dengan syarat mendapatkan izin;
          - c) penempatan pipa dan/atau kabel bawah laut dengan syarat tidak mengganggu fungsi alur pelayaran laut; dan
