@@ -1697,113 +1697,113 @@ Kawasan Permukiman sebagaimana dimaksud dalam Pasal 37 huruf g seluas lebih kura
 
 (2) Kawasan Pertahanan dan Keamanan selain yang dimaksud pada ayat (1) dan memiliki nilai strategis pertahanan keamanan diatur lebih lanjut dalam rencana tata ruang Kabupaten/Kota, antara lain:
 
-   a. **Pangkalan Militer atau Kesatrian** meliputi:
-      1. Korem 044/Gapo di Kota Palembang;
-      2. Zidam II/SWJ;
-      3. Kesdam II/SWJ;
-      4. Pomdam II/SWJ;
-      5. Jasdam II/SWJ;
-      6. Kodam II/SWJ;
-      7. Ajendam II/SWJ;
-      8. Kumdam II/SWJ;
-      9. Topdam II/SWJ;
-      10. Denzidam II/SWJ;
-      11. Paldam II/SWJ;
-      12. Hubdam II/SWJ;
-      13. Bekangdam II/SWJ;
-      14. Babinminvetcaddam II/Swj;
-      15. Den Inteldam II/Swj;
-      16. Kipan C Yonko 462 Pulanggeni;
-      17. Kodim 0401/Muba;
-      18. Babinminvetcad Sekayu;
-      19. Subdenpom Sekayu;
-      20. Kodim 0402/OKI;
-      21. Yonarmed 15/76 Rai-C;
-      22. Kodim 0403/OKU;
-      23. Tepbek II-44-04-A;
-      24. Minvetcad II/17;
-      25. Dodiklatpur Rindam II/Swj;
-      26. Subdenpom dan Zibang di Kecamatan Baturaja Timur, Kabupaten Ogan Komering Ulu;
-      27. Puslatpur Kodiklat;
-      28. Yon Armed 15/105;
-      29. Kodim 0404/Muara Enim;
-      30. Minvetcad Muara Enim;
-      31. Sub Denpom Muara Enim;
-      32. Sub Denpom Prabumulih;
-      33. Sub Denzibang Prabumulih;
-      34. Gudmurah Karang Endah Muara Enim;
-      35. Rindam II/Swj di Kabupaten Muara Enim;
-      36. Yonif 141/AYJP di Kabupaten Muara Enim;
-      37. Kompi Bantuan Yonif 141/AYJP di Kabupaten Muara Enim;
-      38. KompiSenapan A Yonif 141/AYJP di Kabupaten Muara Enim;
-      39. Yonkav DPC di Kabupaten Muara Enim;
-      40. Yon Zipur 2/SG Kota Prabumulih;
-      41. Kodim 0405/Lahat;
-      42. Kompi B Yon Zipur 2 Lahat;
-      43. Teppbek Lahat;
-      44. Den Zibang Lahat;
-      45. DKT Lahat;
-      46. Sub Denpom Lahat;
-      47. Minvetcad Lahat;
-      48. Secaba, Secata, Dodikjur;
-      49. Kodim 0406/Lubuk Linggau;
-      50. Eks Kompi Yonif 141;
-      51. Denzibang 05.I/II;
-      52. Densubdenpom;
-      53. Kodim 0418/Plg;
-      54. Denkesyah Palembang;
-      55. Den Inteldam II/Swj;
-      56. Yonif Raider 200/BN;
-      57. Kikav 5/Serbu di Kota Palembang;
-      58. Lanal Palembang;
-      59. Lanud Sri Mulyono Herlambang (SMH);
-      60. Komplek TNI AL Arafuru di Kota Palembang;
-      61. Rumdis Danlanal di Kota Palembang;
-      62. Mess Pa Ciptadi di Kota Palembang;
-      63. Komplek TNI AL Jakabaring di Kota Palembang;
-      64. Mako Pomal di Kota Palembang;
-      65. Posmat 1 Ilir di Kota Palembang;
-      66. Gedung Perbekalan Lanal Palembang, Gedung Logca, Gedung Senamo di Palembang;
-      67. Kodim 0430/Banyuasin;
-      68. Yonzikon 12/KJ di Kabupaten Banyuasin;
-      69. Posal Bunga Tanjung di Kabupaten Banyuasin;
-      70. Posal Gasing di Kabupaten Banyuasin;
-      71. Posal Sungsang di Kabupaten Banyuasin;
-      72. Posmat Upang di Kabupaten Banyuasin;
-      73. Posmat Muara Sugihan di Kabupaten Banyuasin;
-      74. Posmat Sebalik di Kabupaten Banyuasin;
-      75. Posmat Mangsang di Kabupaten Musi Banyuasin;
-      76. Yon Arhanud 12/SBP di Kabupaten Banyuasin;
-      77. Posmat Sungai Baung di Kabupaten Ogan Komering Ilir;
-      78. Posal Mesuji di Kabupaten Ogan Komering Ilir;
-      79. Posmat Sungai Lumpur di Kabupaten Ogan Komering Ilir;
-      80. Posmat Sei Sembilang di Kabupaten Musi Banyuasin; dan
-      81. Posmat Karang Agung di Kabupaten Musi Banyuasin;
+a. **Pangkalan Militer atau Kesatrian** meliputi:
+1. Korem 044/Gapo di Kota Palembang;
+2. Zidam II/SWJ;
+3. Kesdam II/SWJ;
+4. Pomdam II/SWJ;
+5. Jasdam II/SWJ;
+6. Kodam II/SWJ;
+7. Ajendam II/SWJ;
+8. Kumdam II/SWJ;
+9. Topdam II/SWJ;
+10. Denzidam II/SWJ;
+11. Paldam II/SWJ;
+12. Hubdam II/SWJ;
+13. Bekangdam II/SWJ;
+14. Babinminvetcaddam II/Swj;
+15. Den Inteldam II/Swj;
+16. Kipan C Yonko 462 Pulanggeni;
+17. Kodim 0401/Muba;
+18. Babinminvetcad Sekayu;
+19. Subdenpom Sekayu;
+20. Kodim 0402/OKI;
+21. Yonarmed 15/76 Rai-C;
+22. Kodim 0403/OKU;
+23. Tepbek II-44-04-A;
+24. Minvetcad II/17;
+25. Dodiklatpur Rindam II/Swj;
+26. Subdenpom dan Zibang di Kecamatan Baturaja Timur, Kabupaten Ogan Komering Ulu;
+27. Puslatpur Kodiklat;
+28. Yon Armed 15/105;
+29. Kodim 0404/Muara Enim;
+30. Minvetcad Muara Enim;
+31. Sub Denpom Muara Enim;
+32. Sub Denpom Prabumulih;
+33. Sub Denzibang Prabumulih;
+34. Gudmurah Karang Endah Muara Enim;
+35. Rindam II/Swj di Kabupaten Muara Enim;
+36. Yonif 141/AYJP di Kabupaten Muara Enim;
+37. Kompi Bantuan Yonif 141/AYJP di Kabupaten Muara Enim;
+38. KompiSenapan A Yonif 141/AYJP di Kabupaten Muara Enim;
+39. Yonkav DPC di Kabupaten Muara Enim;
+40. Yon Zipur 2/SG Kota Prabumulih;
+41. Kodim 0405/Lahat;
+42. Kompi B Yon Zipur 2 Lahat;
+43. Teppbek Lahat;
+44. Den Zibang Lahat;
+45. DKT Lahat;
+46. Sub Denpom Lahat;
+47. Minvetcad Lahat;
+48. Secaba, Secata, Dodikjur;
+49. Kodim 0406/Lubuk Linggau;
+50. Eks Kompi Yonif 141;
+51. Denzibang 05.I/II;
+52. Densubdenpom;
+53. Kodim 0418/Plg;
+54. Denkesyah Palembang;
+55. Den Inteldam II/Swj;
+56. Yonif Raider 200/BN;
+57. Kikav 5/Serbu di Kota Palembang;
+58. Lanal Palembang;
+59. Lanud Sri Mulyono Herlambang (SMH);
+60. Komplek TNI AL Arafuru di Kota Palembang;
+61. Rumdis Danlanal di Kota Palembang;
+62. Mess Pa Ciptadi di Kota Palembang;
+63. Komplek TNI AL Jakabaring di Kota Palembang;
+64. Mako Pomal di Kota Palembang;
+65. Posmat 1 Ilir di Kota Palembang;
+66. Gedung Perbekalan Lanal Palembang, Gedung Logca, Gedung Senamo di Palembang;
+67. Kodim 0430/Banyuasin;
+68. Yonzikon 12/KJ di Kabupaten Banyuasin;
+69. Posal Bunga Tanjung di Kabupaten Banyuasin;
+70. Posal Gasing di Kabupaten Banyuasin;
+71. Posal Sungsang di Kabupaten Banyuasin;
+72. Posmat Upang di Kabupaten Banyuasin;
+73. Posmat Muara Sugihan di Kabupaten Banyuasin;
+74. Posmat Sebalik di Kabupaten Banyuasin;
+75. Posmat Mangsang di Kabupaten Musi Banyuasin;
+76. Yon Arhanud 12/SBP di Kabupaten Banyuasin;
+77. Posmat Sungai Baung di Kabupaten Ogan Komering Ilir;
+78. Posal Mesuji di Kabupaten Ogan Komering Ilir;
+79. Posmat Sungai Lumpur di Kabupaten Ogan Komering Ilir;
+80. Posmat Sei Sembilang di Kabupaten Musi Banyuasin; dan
+81. Posmat Karang Agung di Kabupaten Musi Banyuasin;
 
-   b. **Daerah Latihan Militer** meliputi:
-      1. Daerah Latihan Lapangan Tembak Jatri di Kabupaten Ogan Ilir;
-      2. Puslatpur Kodiklat di Kabupaten Ogan Komering Ulu Timur;
-      3. Daerah Latihan Lapangan Tembak Jatri Yonif 141/AYJP Di Kabupaten Muara Enim;
-      4. Daerah Latihan Taktik Konvens/Non (Puslatpur) di Kabupaten Ogan Komering Ilir;
-      5. Daerah Latihan Dodiklatpur Rindam II/Swj Baturaja di Kabupaten Ogan Komering Ulu;
-      6. Daerah Latihan Lapangan Perbakin di Kabupaten Musi Rawas;
-      7. Daerah Latihan TNI AU Tulung Selapan Kabupaten Ogan Komering Ilir; dan
-      8. Daerah Latihan TNI AU Martapura Kabupaten Ogan Komering Ilir;
+b. **Daerah Latihan Militer** meliputi:
+1. Daerah Latihan Lapangan Tembak Jatri di Kabupaten Ogan Ilir;
+2. Puslatpur Kodiklat di Kabupaten Ogan Komering Ulu Timur;
+3. Daerah Latihan Lapangan Tembak Jatri Yonif 141/AYJP Di Kabupaten Muara Enim;
+4. Daerah Latihan Taktik Konvens/Non (Puslatpur) di Kabupaten Ogan Komering Ilir;
+5. Daerah Latihan Dodiklatpur Rindam II/Swj Baturaja di Kabupaten Ogan Komering Ulu;
+6. Daerah Latihan Lapangan Perbakin di Kabupaten Musi Rawas;
+7. Daerah Latihan TNI AU Tulung Selapan Kabupaten Ogan Komering Ilir; dan
+8. Daerah Latihan TNI AU Martapura Kabupaten Ogan Komering Ilir;
 
-   c. **Instalasi Militer** meliputi :
-      1. Rumah Sakit Tk. IV 02.07.05
-      2. Rumah Sakit Bant; dan
-      3. Kantor Rumah Negara Otoritas Militer 1-05 Palembang;
+c. **Instalasi Militer** meliputi :
+1. Rumah Sakit Tk. IV 02.07.05
+2. Rumah Sakit Bant; dan
+3. Kantor Rumah Negara Otoritas Militer 1-05 Palembang;
 
-   d. **Daerah Uji Coba peralatan dan persenjataan militer** meliputi Daerah Uji Coba Peralatan dan Persenjataan Militer Tulung Selapan Kabupaten Ogan Komering Ilir;
+d. **Daerah Uji Coba peralatan dan persenjataan militer** meliputi Daerah Uji Coba Peralatan dan Persenjataan Militer Tulung Selapan Kabupaten Ogan Komering Ilir;
 
-   e. **Daerah Disposal Amunisi dan Peralatan Pertahanan Berbahaya lainnya** meliputi Tanjung Batu Kabupaten Ogan Ilir;
+e. **Daerah Disposal Amunisi dan Peralatan Pertahanan Berbahaya lainnya** meliputi Tanjung Batu Kabupaten Ogan Ilir;
 
-   f. **Daerah Penyimpanan Barang Eksplosif dan Berbahaya Lainnya** meliputi Gudang Senjata dan Amunisi Lanud SMH; dan
+f. **Daerah Penyimpanan Barang Eksplosif dan Berbahaya Lainnya** meliputi Gudang Senjata dan Amunisi Lanud SMH; dan
 
-   g. **Aset-Aset Pertahanan lainnya** meliputi :
-      1. Detasemen Peralatan dan/atau Denpal Lahat; dan
-      2. Detasemen Peralatan dan/atau Denpal Baturaja.
+g. **Aset-Aset Pertahanan lainnya** meliputi :
+1. Detasemen Peralatan dan/atau Denpal Lahat; dan
+2. Detasemen Peralatan dan/atau Denpal Baturaja.
 
 ---
 
