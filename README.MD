@@ -2101,72 +2101,72 @@ c. pelaksanaan SPPR.
 
 (2) Perwujudan rencana Struktur Ruang Wilayah Provinsi sebagaimana dimaksud pada ayat (1) huruf a meliputi:
 
-   a. **perwujudan Sistem Pusat Permukiman** meliputi:
-      1. pemantapan fungsi PKN;
-      2. pemantapan fungsi PKW;
-      3. pemantapan fungsi PKL;
-      4. sinkronisasi Pemanfaatan Ruang daerah; dan
-      5. sinkronisasi Pengendalian Pemanfaatan Ruang daerah;
+a. **perwujudan Sistem Pusat Permukiman** meliputi:
+1. pemantapan fungsi PKN;
+2. pemantapan fungsi PKW;
+3. pemantapan fungsi PKL;
+4. sinkronisasi Pemanfaatan Ruang daerah; dan
+5. sinkronisasi Pengendalian Pemanfaatan Ruang daerah;
 
-   b. **perwujudan sistem jaringan transportasi** meliputi:
-      1. peningkatan/rehabilitasi/pemeliharaan jalan arteri primer;
-      2. peningkatan/rehabilitasi/pemeliharaan jalan kolektor primer satu (JKP-1);
-      3. peningkatan/rehabilitasi/pemeliharaan jalan kolektor primer dua (JKP-2);
-      4. pengembangan dan peningkatan kualitas jalan Tol;
-      5. pengembangan dan peningkatan kualitas Terminal Penumpang, Terminal Barang dan Jembatan Timbang;
-      6. pengembangan dan peningkatan kualitas sistem jaringan Kereta Api;
-      7. pengembangan dan peningkatan kualitas sistem jaringan transportasi sungai danau dan penyeberangan;
-      8. pengembangan alur pelayaran sungai dan alur pelayaran danau;
-      9. pengembangan dan peningkatan kualitas sistem jaringan transportasi Laut;
-      10. peningkatan peran serta Masyarakat dalam pengawasan alur pelayaran;
-      11. peningkatan keselamatan dan keamanan pelayaran;
-      12. pemeliharaan berkala sarana prasarana pendukung alur pelayaran;
-      13. pengawasan dan Pengendalian Pemanfaatan Ruang alur pelayaran; dan
-      14. pengembangan dan peningkatan kualitas sistem jaringan transportasi udara;
+b. **perwujudan sistem jaringan transportasi** meliputi:
+1. peningkatan/rehabilitasi/pemeliharaan jalan arteri primer;
+2. peningkatan/rehabilitasi/pemeliharaan jalan kolektor primer satu (JKP-1);
+3. peningkatan/rehabilitasi/pemeliharaan jalan kolektor primer dua (JKP-2);
+4. pengembangan dan peningkatan kualitas jalan Tol;
+5. pengembangan dan peningkatan kualitas Terminal Penumpang, Terminal Barang dan Jembatan Timbang;
+6. pengembangan dan peningkatan kualitas sistem jaringan Kereta Api;
+7. pengembangan dan peningkatan kualitas sistem jaringan transportasi sungai danau dan penyeberangan;
+8. pengembangan alur pelayaran sungai dan alur pelayaran danau;
+9. pengembangan dan peningkatan kualitas sistem jaringan transportasi Laut;
+10. peningkatan peran serta Masyarakat dalam pengawasan alur pelayaran;
+11. peningkatan keselamatan dan keamanan pelayaran;
+12. pemeliharaan berkala sarana prasarana pendukung alur pelayaran;
+13. pengawasan dan Pengendalian Pemanfaatan Ruang alur pelayaran; dan
+14. pengembangan dan peningkatan kualitas sistem jaringan transportasi udara;
 
-   c. **perwujudan sistem jaringan energi** meliputi:
-      1. pemeliharaan dan pengembangan jaringan pipa migas;
-      2. pemantapan infrastruktur ketenagalistrikan;
-      3. pembangunan dan pengembangan sumber energi baru terbarukan; dan
-      4. pembangunan infrastruktur energi untuk daerah terisolir/belum berkembang;
+c. **perwujudan sistem jaringan energi** meliputi:
+1. pemeliharaan dan pengembangan jaringan pipa migas;
+2. pemantapan infrastruktur ketenagalistrikan;
+3. pembangunan dan pengembangan sumber energi baru terbarukan; dan
+4. pembangunan infrastruktur energi untuk daerah terisolir/belum berkembang;
 
-   d. **perwujudan sistem jaringan telekomunikasi** berupa pengembangan, pemeliharaan dan peningkatan jaringan telekomunikasi;
+d. **perwujudan sistem jaringan telekomunikasi** berupa pengembangan, pemeliharaan dan peningkatan jaringan telekomunikasi;
 
-   e. **perwujudan sistem jaringan sumber daya air** meliputi:
-      1. perlindungan, pemeliharaan dan peningkatan kualitas jaringan irigasi; dan
-      2. pemeliharaan dan pengembangan bangunan sumber daya air, jaringan air bersih dan sistem pengendalian banjir;
+e. **perwujudan sistem jaringan sumber daya air** meliputi:
+1. perlindungan, pemeliharaan dan peningkatan kualitas jaringan irigasi; dan
+2. pemeliharaan dan pengembangan bangunan sumber daya air, jaringan air bersih dan sistem pengendalian banjir;
 
-   f. **perwujudan sistem jaringan prasarana lainnya** meliputi:
-      1. peningkatan dan perluasan pelayanan sistem prasarana pembuangan air limbah perpipaan terpusat;
-      2. pengurangan sampah dari sumber penghasil sampah mencakup pembatasan timbulan sampah (reduce), pendauran ulang sampah (recycle); dan/atau pemanfaatan kembali sampah (reuse);
-      3. penanganan sampah terpadu antar Wilayah Kabupaten/Kota atau antar Wilayah Provinsi; dan
-      4. pengembangan infrastruktur mitigasi dan evakuasi bencana.
+f. **perwujudan sistem jaringan prasarana lainnya** meliputi:
+1. peningkatan dan perluasan pelayanan sistem prasarana pembuangan air limbah perpipaan terpusat;
+2. pengurangan sampah dari sumber penghasil sampah mencakup pembatasan timbulan sampah (reduce), pendauran ulang sampah (recycle); dan/atau pemanfaatan kembali sampah (reuse);
+3. penanganan sampah terpadu antar Wilayah Kabupaten/Kota atau antar Wilayah Provinsi; dan
+4. pengembangan infrastruktur mitigasi dan evakuasi bencana.
 
 (3) Perwujudan rencana Pola Ruang Wilayah Provinsi sebagaimana dimaksud pada ayat (1) huruf b meliputi:
 
-   a. **perwujudan Kawasan Lindung** meliputi:
-      1. pelestarian Kawasan Hutan Lindung;
-      2. pelestarian Kawasan Gambut;
-      3. peningkatan peran serta dan partisipasi Masyarakat dalam pengelolaan Kawasan Lindung;
-      4. pengendalian pemanfaatan lahan pada Kawasan Lindung;
-      5. pengadaan, pemeliharaan dan Penataan Ruang terbuka hijau pada sempadan;
-      6. Pengendalian Pemanfaatan Ruang pada Kawasan Perlindungan Setempat;
-      7. perlindungan Kawasan Konservasi;
-      8. peningkatan peran serta dan partisipasi Masyarakat dalam pengelolaan Kawasan Konservasi;
-      9. perlindungan Kawasan Pencadangan Konservasi di Laut; dan
-      10. perlindungan Kawasan Ekosistem Mangrove;
+a. **perwujudan Kawasan Lindung** meliputi:
+1. pelestarian Kawasan Hutan Lindung;
+2. pelestarian Kawasan Gambut;
+3. peningkatan peran serta dan partisipasi Masyarakat dalam pengelolaan Kawasan Lindung;
+4. pengendalian pemanfaatan lahan pada Kawasan Lindung;
+5. pengadaan, pemeliharaan dan Penataan Ruang terbuka hijau pada sempadan;
+6. Pengendalian Pemanfaatan Ruang pada Kawasan Perlindungan Setempat;
+7. perlindungan Kawasan Konservasi;
+8. peningkatan peran serta dan partisipasi Masyarakat dalam pengelolaan Kawasan Konservasi;
+9. perlindungan Kawasan Pencadangan Konservasi di Laut; dan
+10. perlindungan Kawasan Ekosistem Mangrove;
 
-   b. **perwujudan Kawasan Budi Daya** meliputi:
-      1. pemantauan dan pengelolaan Kawasan Hutan produksi;
-      2. peningkatan produktivitas Kawasan tanaman pangan dan hortikultura;
-      3. peningkatan produktivitas komoditas perkebunan;
-      4. peningkatan produktivitas peternakan;
-      5. peningkatan produktivitas perikanan tangkap;
-      6. peningkatan produktivitas perikanan budidaya;
-      7. peningkatan kualitas Kawasan Pariwisata;
-      8. peningkatan kualitas Kawasan Permukiman;
-      9. perwujudan dan peningkatan pelayanan Kawasan Transportasi; dan
-      10. pemantapan Kawasan Pertahanan dan Keamanan.
+b. **perwujudan Kawasan Budi Daya** meliputi:
+1. pemantauan dan pengelolaan Kawasan Hutan produksi;
+2. peningkatan produktivitas Kawasan tanaman pangan dan hortikultura;
+3. peningkatan produktivitas komoditas perkebunan;
+4. peningkatan produktivitas peternakan;
+5. peningkatan produktivitas perikanan tangkap;
+6. peningkatan produktivitas perikanan budidaya;
+7. peningkatan kualitas Kawasan Pariwisata;
+8. peningkatan kualitas Kawasan Permukiman;
+9. perwujudan dan peningkatan pelayanan Kawasan Transportasi; dan
+10. pemantapan Kawasan Pertahanan dan Keamanan.
 
 (4) Perwujudan KSP sebagaimana dimaksud pada ayat (1) huruf c meliputi:
    - a. program pengembangan permukiman;
@@ -2250,70 +2250,70 @@ Indikasi arahan zonasi Struktur Ruang sebagaimana dimaksud dalam Pasal 64 huruf 
 
 (2) Indikasi arahan zonasi untuk PKN sebagaimana dimaksud pada ayat (1) huruf a meliputi:
 
-   a. **diperbolehkan:**
-      1. Pemanfaatan Ruang untuk pelayanan kegiatan berskala nasional, regional dan internasional dan/atau antar provinsi sesuai dengan fungsi Kawasan yang didukung infrastruktur dalam memantapkan fungsi PKN; dan
-      2. Pemanfaatan Ruang untuk penunjang Kawasan terpadu perdagangan dan jasa sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
+a. **diperbolehkan:**
+1. Pemanfaatan Ruang untuk pelayanan kegiatan berskala nasional, regional dan internasional dan/atau antar provinsi sesuai dengan fungsi Kawasan yang didukung infrastruktur dalam memantapkan fungsi PKN; dan
+2. Pemanfaatan Ruang untuk penunjang Kawasan terpadu perdagangan dan jasa sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
 
-   b. **diperbolehkan bersyarat** untuk pengembangan fungsi Kawasan Perkotaan sebagai pusat permukiman dengan intensitas Pemanfaatan Ruang tingkat rendah, menengah hingga tinggi dengan kecenderungan pengembangan ruang secara vertikal dan tetap memperhatikan daya dukung dan daya tampung lingkungan;
+b. **diperbolehkan bersyarat** untuk pengembangan fungsi Kawasan Perkotaan sebagai pusat permukiman dengan intensitas Pemanfaatan Ruang tingkat rendah, menengah hingga tinggi dengan kecenderungan pengembangan ruang secara vertikal dan tetap memperhatikan daya dukung dan daya tampung lingkungan;
 
-   c. **tidak diperbolehkan** Pemanfaatan Ruang yang menyebabkan gangguan terhadap berfungsinya Sistem Pusat Permukiman dan sistem jaringan prasarana serta Pemanfaatan Ruang yang tidak sesuai atau dapat menurunkan kualitas lingkungan permukiman perkotaan;
+c. **tidak diperbolehkan** Pemanfaatan Ruang yang menyebabkan gangguan terhadap berfungsinya Sistem Pusat Permukiman dan sistem jaringan prasarana serta Pemanfaatan Ruang yang tidak sesuai atau dapat menurunkan kualitas lingkungan permukiman perkotaan;
 
-   d. penyediaan sarana dan prasarana minimum sesuai standar pelayanan minimal;
+d. penyediaan sarana dan prasarana minimum sesuai standar pelayanan minimal;
 
-   e. Pemanfaatan Ruang pada PKN ditekankan pada pengendalian perkembangan Kawasan Perkotaan, optimalisasi infrastruktur yang telah ada dan peningkatan kualitas pelayanan infrastruktur dan sarana Prasarana penunjangnya;
+e. Pemanfaatan Ruang pada PKN ditekankan pada pengendalian perkembangan Kawasan Perkotaan, optimalisasi infrastruktur yang telah ada dan peningkatan kualitas pelayanan infrastruktur dan sarana Prasarana penunjangnya;
 
-   f. pengembangan kegiatan Pemanfaatan Ruang bagi PKN yang didorong perkembangannya dengan upaya pembangunan infrastruktur yang dibutuhkan dalam menjalankan fungsinya sebagai PKN, upaya peningkatan kualitas skala pelayanan infrastruktur dan pengaturan Kawasan Permukiman yang berkembang;
+f. pengembangan kegiatan Pemanfaatan Ruang bagi PKN yang didorong perkembangannya dengan upaya pembangunan infrastruktur yang dibutuhkan dalam menjalankan fungsinya sebagai PKN, upaya peningkatan kualitas skala pelayanan infrastruktur dan pengaturan Kawasan Permukiman yang berkembang;
 
-   g. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan;
+g. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan;
 
-   h. pada PKN yang wilayahnya memiliki kemampuan rendah dalam penyediaan air, pengembangan Kawasan Perkotaan harus didukung dengan upaya pengawetan air yaitu dengan pengelolaan kuantitas air permukaan melalui pengendalian aliran permukaan, pemanenan air hujan serta peningkatan kapasitas infiltrasi tanah;
+h. pada PKN yang wilayahnya memiliki kemampuan rendah dalam penyediaan air, pengembangan Kawasan Perkotaan harus didukung dengan upaya pengawetan air yaitu dengan pengelolaan kuantitas air permukaan melalui pengendalian aliran permukaan, pemanenan air hujan serta peningkatan kapasitas infiltrasi tanah;
 
-   i. pada PKN yang wilayahnya memiliki kemampuan rendah dalam pemurnian air dan pengolahan limbah, pengembangan Kawasan Perkotaan harus didukung dengan penerapan dan pengembangan teknologi pengelolaan limbah yang ramah lingkungan; dan
+i. pada PKN yang wilayahnya memiliki kemampuan rendah dalam pemurnian air dan pengolahan limbah, pengembangan Kawasan Perkotaan harus didukung dengan penerapan dan pengembangan teknologi pengelolaan limbah yang ramah lingkungan; dan
 
-   j. pada PKN yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengembangan Kawasan Perkotaan tidak diperbolehkan melakukan kegiatan yang mengakibatkan terlampauinya kriteria baku kerusakan ekosistem gambut wajib mempertahankan areal FEG lindung yang masih dalam kondisi alami dan diperbolehkan untuk melakukan kegiatan penelitian, ilmu pengetahuan, pendidikan dan/atau jasa lingkungan.
+j. pada PKN yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengembangan Kawasan Perkotaan tidak diperbolehkan melakukan kegiatan yang mengakibatkan terlampauinya kriteria baku kerusakan ekosistem gambut wajib mempertahankan areal FEG lindung yang masih dalam kondisi alami dan diperbolehkan untuk melakukan kegiatan penelitian, ilmu pengetahuan, pendidikan dan/atau jasa lingkungan.
 
 (3) Indikasi arahan zonasi untuk PKW sebagaimana dimaksud pada ayat (1) huruf b meliputi:
 
-   a. **diperbolehkan:**
-      1. Pemanfaatan Ruang untuk pelayanan kegiatan berskala lintas Kabupaten/Kota yang didukung dengan infrastruktur yang dibutuhkan untuk memantapkan fungsi PKW; dan
-      2. Pemanfaatan Ruang untuk penunjang Kawasan terpadu perdagangan dan jasa sesuai dengan ketentuan peraturan perundang-undangan;
+a. **diperbolehkan:**
+1. Pemanfaatan Ruang untuk pelayanan kegiatan berskala lintas Kabupaten/Kota yang didukung dengan infrastruktur yang dibutuhkan untuk memantapkan fungsi PKW; dan
+2. Pemanfaatan Ruang untuk penunjang Kawasan terpadu perdagangan dan jasa sesuai dengan ketentuan peraturan perundang-undangan;
 
-   b. **diperbolehkan bersyarat** pengembangan fungsi Kawasan Perkotaan sebagai pusat permukiman dengan intensitas Pemanfaatan Ruang tingkat menengah yang berkelanjutan, melalui pengendalian pengembangan hunian horizontal dengan tetap memperhatikan daya dukung dan daya tampung lingkungan di masing-masing Kabupaten/Kota;
+b. **diperbolehkan bersyarat** pengembangan fungsi Kawasan Perkotaan sebagai pusat permukiman dengan intensitas Pemanfaatan Ruang tingkat menengah yang berkelanjutan, melalui pengendalian pengembangan hunian horizontal dengan tetap memperhatikan daya dukung dan daya tampung lingkungan di masing-masing Kabupaten/Kota;
 
-   c. **tidak diperbolehkan** Pemanfaatan Ruang yang menyebabkan gangguan terhadap berfungsinya Sistem Pusat Permukiman dan sistem jaringan prasarana serta Pemanfaatan Ruang yang tidak sesuai atau dapat menurunkan kualitas lingkungan permukiman perkotaan;
+c. **tidak diperbolehkan** Pemanfaatan Ruang yang menyebabkan gangguan terhadap berfungsinya Sistem Pusat Permukiman dan sistem jaringan prasarana serta Pemanfaatan Ruang yang tidak sesuai atau dapat menurunkan kualitas lingkungan permukiman perkotaan;
 
-   d. penyediaan sarana dan prasarana minimum sesuai standar pelayanan minimal;
+d. penyediaan sarana dan prasarana minimum sesuai standar pelayanan minimal;
 
-   e. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan;
+e. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan;
 
-   f. pada PKW yang wilayahnya memiliki kemampuan rendah dalam penyediaan air, pengembangan Kawasan Perkotaan harus didukung dengan upaya pengawetan air yaitu dengan pengelolaan kuantitas air permukaan melalui pengendalian aliran permukaan, pemanenan air hujan serta peningkatan kapasitas infiltrasi tanah;
+f. pada PKW yang wilayahnya memiliki kemampuan rendah dalam penyediaan air, pengembangan Kawasan Perkotaan harus didukung dengan upaya pengawetan air yaitu dengan pengelolaan kuantitas air permukaan melalui pengendalian aliran permukaan, pemanenan air hujan serta peningkatan kapasitas infiltrasi tanah;
 
-   g. pada PKW yang wilayahnya memiliki kemampuan rendah dalam pemurnian air dan pengolahan limbah, pengembangan Kawasan Perkotaan harus didukung dengan penerapan dan pengembangan teknologi pengelolaan limbah yang ramah lingkungan;
+g. pada PKW yang wilayahnya memiliki kemampuan rendah dalam pemurnian air dan pengolahan limbah, pengembangan Kawasan Perkotaan harus didukung dengan penerapan dan pengembangan teknologi pengelolaan limbah yang ramah lingkungan;
 
-   h. pada PKW yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengembangan Kawasan Perkotaan tidak diperbolehkan melakukan kegiatan yang mengakibatkan terlampauinya kriteria baku kerusakan ekosistem gambut wajib mempertahankan areal FEG lindung yang masih dalam kondisi alami dan diperbolehkan untuk melakukan kegiatan penelitian, ilmu pengetahuan, pendidikan dan/atau jasa lingkungan; dan
+h. pada PKW yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengembangan Kawasan Perkotaan tidak diperbolehkan melakukan kegiatan yang mengakibatkan terlampauinya kriteria baku kerusakan ekosistem gambut wajib mempertahankan areal FEG lindung yang masih dalam kondisi alami dan diperbolehkan untuk melakukan kegiatan penelitian, ilmu pengetahuan, pendidikan dan/atau jasa lingkungan; dan
 
-   i. Pengendalian Pemanfaatan Ruang untuk kegiatan ekonomi antar Kabupaten/Kota.
+i. Pengendalian Pemanfaatan Ruang untuk kegiatan ekonomi antar Kabupaten/Kota.
 
 (4) Indikasi arahan zonasi untuk PKL sebagaimana dimaksud pada ayat (1) huruf c meliputi:
 
-   a. **diperbolehkan:**
-      1. Pemanfaatan Ruang untuk pelayanan kegiatan berskala Kabupaten/Kota atau beberapa kecamatan yang didukung dengan infrastruktur yang dibutuhkan untuk memantapkan fungsi PKL;
-      2. Pemanfaatan Ruang untuk penunjang Kawasan terpadu perdagangan dan jasa sesuai dengan ketentuan peraturan perundang-undangan; dan
-      3. Pemanfaatan Ruang untuk kegiatan ekonomi berskala Kabupaten/Kota, yang didukung dengan fasilitas dan infrastruktur perkotaan;
+a. **diperbolehkan:**
+1. Pemanfaatan Ruang untuk pelayanan kegiatan berskala Kabupaten/Kota atau beberapa kecamatan yang didukung dengan infrastruktur yang dibutuhkan untuk memantapkan fungsi PKL;
+2. Pemanfaatan Ruang untuk penunjang Kawasan terpadu perdagangan dan jasa sesuai dengan ketentuan peraturan perundang-undangan; dan
+3. Pemanfaatan Ruang untuk kegiatan ekonomi berskala Kabupaten/Kota, yang didukung dengan fasilitas dan infrastruktur perkotaan;
 
-   b. **diperbolehkan bersyarat** untuk pengembangan fungsi Kawasan Perkotaan sebagai pusat permukiman dengan intensitas Pemanfaatan Ruang tingkat rendah sampai menengah dengan tetap memperhatikan daya dukung dan daya tampung lingkungan;
+b. **diperbolehkan bersyarat** untuk pengembangan fungsi Kawasan Perkotaan sebagai pusat permukiman dengan intensitas Pemanfaatan Ruang tingkat rendah sampai menengah dengan tetap memperhatikan daya dukung dan daya tampung lingkungan;
 
-   c. **tidak diperbolehkan** Pemanfaatan Ruang yang menyebabkan gangguan terhadap berfungsinya Sistem Pusat Permukiman dan sistem jaringan prasarana serta Pemanfaatan Ruang yang tidak sesuai atau dapat menurunkan kualitas lingkungan permukiman perkotaan;
+c. **tidak diperbolehkan** Pemanfaatan Ruang yang menyebabkan gangguan terhadap berfungsinya Sistem Pusat Permukiman dan sistem jaringan prasarana serta Pemanfaatan Ruang yang tidak sesuai atau dapat menurunkan kualitas lingkungan permukiman perkotaan;
 
-   d. penyediaan sarana dan prasarana minimum sesuai standar pelayanan minimal;
+d. penyediaan sarana dan prasarana minimum sesuai standar pelayanan minimal;
 
-   e. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan;
+e. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan;
 
    f. pada Kawasan di PKL yang status airnya telah terlampaui atau kemampuan wilayahnya rendah dalam penyediaan air, pengembangan Kawasan Perkotaan harus didukung dengan upaya pengawetan air yaitu dengan pengelolaan kuantitas air permukaan melalui pengendalian aliran permukaan, pemanenan air hujan serta peningkatan kapasitas infiltrasi tanah;
 
-   g. pada PKL yang wilayahnya memiliki kemampuan rendah dalam pemurnian air dan pengolahan limbah, pengembangan Kawasan Perkotaan harus didukung dengan penerapan dan pengembangan teknologi pengelolaan limbah yang ramah lingkungan; dan
+g. pada PKL yang wilayahnya memiliki kemampuan rendah dalam pemurnian air dan pengolahan limbah, pengembangan Kawasan Perkotaan harus didukung dengan penerapan dan pengembangan teknologi pengelolaan limbah yang ramah lingkungan; dan
 
-   h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengembangan Kawasan Perkotaan tidak diperbolehkan melakukan kegiatan yang mengakibatkan terlampauinya kriteria baku kerusakan ekosistem gambut wajib mempertahankan areal FEG lindung yang masih dalam kondisi alami dan diperbolehkan untuk melakukan kegiatan penelitian, ilmu pengetahuan, pendidikan dan/atau jasa lingkungan.
+h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengembangan Kawasan Perkotaan tidak diperbolehkan melakukan kegiatan yang mengakibatkan terlampauinya kriteria baku kerusakan ekosistem gambut wajib mempertahankan areal FEG lindung yang masih dalam kondisi alami dan diperbolehkan untuk melakukan kegiatan penelitian, ilmu pengetahuan, pendidikan dan/atau jasa lingkungan.
 
 ---
 
