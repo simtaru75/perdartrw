@@ -1279,6 +1279,8 @@ c. **Embung dan danau** di Provinsi Sumatera Selatan meliputi Embung Jakabaring,
 
 (2) Sistem Jaringan Prasarana Lainnya digambarkan dalam peta dengan tingkat ketelitian 1:250.000 (satu berbanding dua ratus lima puluh ribu) sebagaimana tercantum dalam Lampiran IX yang merupakan bagian tidak terpisahkan dari Peraturan Daerah ini.
 
+---
+
 #### Paragraf 2
 #### Sistem Penyediaan Air Minum
 
