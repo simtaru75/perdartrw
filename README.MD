@@ -1411,19 +1411,19 @@ Kawasan Lindung sebagaimana dimaksud dalam Pasal 29 ayat (1) huruf a seluas lebi
 
 Badan Air sebagaimana dimaksud dalam Pasal 30 huruf a, mencakup danau, bendungan/embung, sungai seluas lebih kurang 79.470 Ha (tujuh puluh sembilan ribu empat ratus tujuh puluh hektare) terdapat di :
 
-a. Kabupaten Banyuasin;
-b. Kabupaten Lahat;
-c. Kabupaten Muara Enim;
-d. Kabupaten Musi Banyuasin;
-e. Kabupaten Musi Rawas;
-f. Kabupaten Musi Rawas Utara;
-g. Kabupaten Ogan Ilir;
-h. Kabupaten Ogan Komering Ilir;
-i. Kabupaten Ogan Komering Ulu Selatan;
-j. Kabupaten Ogan Komering Ulu Timur;
-k. Kabupaten Penukal Abab Lematang Ilir;
-l. Kota Palembang; dan
-m. Kota Prabumulih.
+- a. Kabupaten Banyuasin;
+- b. Kabupaten Lahat;
+- c. Kabupaten Muara Enim;
+- d. Kabupaten Musi Banyuasin;
+- e. Kabupaten Musi Rawas;
+- f. Kabupaten Musi Rawas Utara;
+- g. Kabupaten Ogan Ilir;
+- h. Kabupaten Ogan Komering Ilir;
+- i. Kabupaten Ogan Komering Ulu Selatan;
+- j. Kabupaten Ogan Komering Ulu Timur;
+- k. Kabupaten Penukal Abab Lematang Ilir;
+- l. Kota Palembang; dan
+- m. Kota Prabumulih.
 
 ---
 
@@ -1474,18 +1474,18 @@ m. Kota Prabumulih.
 
 Kawasan Konservasi sebagaimana dimaksud dalam Pasal 30 huruf c seluas lebih kurang 768.194 Ha (tujuh ratus enam puluh delapan ribu seratus sembilan puluh empat hektare) meliputi:
 
-a. Suaka Margasatwa Gunung Raya terdapat di Kabupaten Ogan Komering Ulu Selatan;
-b. Suaka Margasatwa Isau-Isau terdapat di Kabupaten Lahat dan Kabupaten Muara Enim;
-c. Suaka Margasatwa Bentayan terdapat di Kabupaten Musi Banyuasin dan Kabupaten Banyuasin;
-d. Suaka Margasatwa Dangku terdapat di Kabupaten Musi Banyuasin;
-e. Suaka Margasatwa Padang Sugihan terdapat di Kabupaten Banyuasin dan Kabupaten Ogan Komering Ilir;
-f. Suaka Margasatwa Gumay Pasemah terdapat di Kabupaten Lahat dan Kabupaten Empat Lawang;
-g. Taman Nasional Kerinci Seblat terdapat di Kota Lubuk Linggau, Kabupaten Musi Rawas dan Kabupaten Musi Rawas Utara;
-h. Taman Nasional Sembilang terdapat di Kabupaten Banyuasin dan Kabupaten Musi Banyuasin;
-i. Taman Nasional Bukit Barisan Selatan di Kabupaten Ogan Komering Ulu Selatan;
-j. Taman Nasional Laut Sembilang terdapat di Kabupaten Banyuasin dan Kabupaten Musi Banyuasin;
-k. Taman Wisata Alam Isau-Isau terdapat di Kabupaten Lahat; dan
-l. Taman Wisata Alam Punti Kayu terdapat di Kota Palembang.
+- a. Suaka Margasatwa Gunung Raya terdapat di Kabupaten Ogan Komering Ulu Selatan;
+- b. Suaka Margasatwa Isau-Isau terdapat di Kabupaten Lahat dan Kabupaten Muara Enim;
+- c. Suaka Margasatwa Bentayan terdapat di Kabupaten Musi Banyuasin dan Kabupaten Banyuasin;
+- d. Suaka Margasatwa Dangku terdapat di Kabupaten Musi Banyuasin;
+- e. Suaka Margasatwa Padang Sugihan terdapat di Kabupaten Banyuasin dan Kabupaten Ogan Komering Ilir;
+- f. Suaka Margasatwa Gumay Pasemah terdapat di Kabupaten Lahat dan Kabupaten Empat Lawang;
+- g. Taman Nasional Kerinci Seblat terdapat di Kota Lubuk Linggau, Kabupaten Musi Rawas dan Kabupaten Musi Rawas Utara;
+- h. Taman Nasional Sembilang terdapat di Kabupaten Banyuasin dan Kabupaten Musi Banyuasin;
+- i. Taman Nasional Bukit Barisan Selatan di Kabupaten Ogan Komering Ulu Selatan;
+- j. Taman Nasional Laut Sembilang terdapat di Kabupaten Banyuasin dan Kabupaten Musi Banyuasin;
+- k. Taman Wisata Alam Isau-Isau terdapat di Kabupaten Lahat; dan
+- l. Taman Wisata Alam Punti Kayu terdapat di Kota Palembang.
 
 ---
 
@@ -1505,8 +1505,8 @@ Kawasan Pencadangan Konservasi di Laut sebagaimana dimaksud dalam Pasal 30 huruf
 
 Kawasan Hutan adat sebagaimana dimaksud dalam Pasal 30 huruf e seluas lebih kurang 380 Ha (tiga ratus delapan puluh hektare) meliputi:
 
-a. Hutan Adat Larangan Mude Ayek Tebat Benawa di Kota Pagar Alam; dan
-b. Hutan Adat Ghimbe Peramunan di Kabupaten Muara Enim.
+- a. Hutan Adat Larangan Mude Ayek Tebat Benawa di Kota Pagar Alam; dan
+- b. Hutan Adat Ghimbe Peramunan di Kabupaten Muara Enim.
 
 ---
 
@@ -1526,16 +1526,16 @@ Kawasan Ekosistem Mangrove sebagaimana dimaksud dalam Pasal 30 huruf f seluas le
 
 Kawasan Budi Daya sebagaimana dimaksud dalam Pasal 29 ayat (1) huruf b seluas lebih kurang 8.055.058 Ha (delapan juta lima puluh lima ribu lima puluh delapan hektare) meliputi:
 
-a. Kawasan Hutan Produksi;
-b. Kawasan Pertanian;
-c. Kawasan Perikanan;
-d. Kawasan pertambangan dan energi;
-e. Kawasan Peruntukan Industri;
-f. Kawasan Pariwisata;
-g. Kawasan Permukiman;
-h. Kawasan pembuangan hasil pengerukan di laut
-i. Kawasan Transportasi; dan
-j. Kawasan Pertahanan dan Keamanan.
+- a. Kawasan Hutan Produksi;
+- b. Kawasan Pertanian;
+- c. Kawasan Perikanan;
+- d. Kawasan pertambangan dan energi;
+- e. Kawasan Peruntukan Industri;
+- f. Kawasan Pariwisata;
+- g. Kawasan Permukiman;
+- h. Kawasan pembuangan hasil pengerukan di laut
+- i. Kawasan Transportasi; dan
+- j. Kawasan Pertahanan dan Keamanan.
 
 ---
 
@@ -1615,14 +1615,14 @@ j. Kawasan Pertahanan dan Keamanan.
 
 Kawasan Peruntukan Industri sebagaimana dimaksud dalam Pasal 37 huruf e seluas lebih kurang 33.589 Ha (tiga puluh tiga ribu lima ratus delapan puluh sembilan hektare) terdapat di:
 
-a. Kabupaten Ogan Komering Ulu;
-b. Kabupaten Ogan Komering Ilir;
-c. Kabupaten Muara Enim;
-d. Kabupaten Banyuasin;
-e. Kabupaten Ogan Komering Ulu Timur;
-f. Kabupaten Ogan Ilir;
-g. Kabupaten Musi Rawas Utara; dan
-h. Kota Palembang.
+- a. Kabupaten Ogan Komering Ulu;
+- b. Kabupaten Ogan Komering Ilir;
+- c. Kabupaten Muara Enim;
+- d. Kabupaten Banyuasin;
+- e. Kabupaten Ogan Komering Ulu Timur;
+- f. Kabupaten Ogan Ilir;
+- g. Kabupaten Musi Rawas Utara; dan
+- h. Kota Palembang.
 
 ---
 
@@ -2203,9 +2203,9 @@ c. pelaksanaan SPPR.
 
 Arahan Pengendalian Pemanfaatan Ruang sebagaimana dimaksud dalam Pasal 3 huruf f meliputi:
 
-a. indikasi arahan zonasi sistem provinsi;
-b. penilaian pelaksanaan Pemanfaatan Ruang; dan
-c. arahan Insentif dan Disinsentif.
+- a. indikasi arahan zonasi sistem provinsi;
+- b. penilaian pelaksanaan Pemanfaatan Ruang; dan
+- c. arahan Insentif dan Disinsentif.
 
 ---
 
@@ -2219,9 +2219,9 @@ c. arahan Insentif dan Disinsentif.
 
 Indikasi arahan zonasi sebagaimana dimaksud dalam pasal 63 huruf a terdiri atas:
 
-a. indikasi arahan zonasi Struktur Ruang;
-b. indikasi arahan zonasi Pola Ruang; dan
-c. ketentuan khusus.
+- a. indikasi arahan zonasi Struktur Ruang;
+- b. indikasi arahan zonasi Pola Ruang; dan
+- c. ketentuan khusus.
 
 ---
 
@@ -2232,12 +2232,12 @@ c. ketentuan khusus.
 
 Indikasi arahan zonasi Struktur Ruang sebagaimana dimaksud dalam Pasal 64 huruf a meliputi:
 
-a. indikasi arahan zonasi Sistem Pusat Permukiman;
-b. indikasi arahan zonasi sistem jaringan transportasi;
-c. indikasi arahan zonasi sistem jaringan energi;
-d. indikasi arahan zonasi sistem jaringan telekomunikasi;
-e. indikasi arahan zonasi sistem jaringan sumber daya air; dan
-f. indikasi arahan zonasi sistem jaringan prasarana lainnya.
+- a. indikasi arahan zonasi Sistem Pusat Permukiman;
+- b. indikasi arahan zonasi sistem jaringan transportasi;
+- c. indikasi arahan zonasi sistem jaringan energi;
+- d. indikasi arahan zonasi sistem jaringan telekomunikasi;
+- e. indikasi arahan zonasi sistem jaringan sumber daya air; dan
+- f. indikasi arahan zonasi sistem jaringan prasarana lainnya.
 
 ---
 
@@ -2514,8 +2514,6 @@ f. indikasi arahan zonasi sistem jaringan prasarana lainnya.
    
    f.** Dokumen lingkungan:** Pengembangan atau pembangunan jaringan sungai danau dan penyeberangan wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
----
-
 (5) Indikasi arahan zonasi untuk sistem jaringan transportasi Laut sebagaimana dimaksud pada ayat (1) huruf d meliputi:
 
    a. **Indikasi arahan zonasi untuk pelabuhan Laut meliputi:**
@@ -2547,9 +2545,7 @@ f. indikasi arahan zonasi sistem jaringan prasarana lainnya.
    5. **Daya dukung lingkungan:** Pengembangan pelabuhan Laut harus memperhatikan daya dukung dan daya tampung lingkungan;
    
    6. **Rekayasa teknis:** Penerapan rekayasa teknis dalam pembangunan pelabuhan laut di sekitar Kawasan rawan bencana;
-   
-   --- jiehoes
-   
+      
    **7. Intensitas Pemanfaatan Ruang:**
    
    Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku;
@@ -2620,13 +2616,13 @@ f. indikasi arahan zonasi sistem jaringan prasarana lainnya.
 
 **(6) Indikasi arahan zonasi untuk Bandar Udara Umum dan Bandar Udara Khusus sebagaimana dimaksud pada ayat (1) huruf e meliputi:**
 
-   **a. Diperbolehkan:** Kegiatan operasional kebandarudaraan, kegiatan penunjang pelayanan jasa kebandarudaraan, penunjang pelayanan keselamatan operasi penerbangan dan kegiatan pertahanan dan keamanan negara;
+   a. **Diperbolehkan:** Kegiatan operasional kebandarudaraan, kegiatan penunjang pelayanan jasa kebandarudaraan, penunjang pelayanan keselamatan operasi penerbangan dan kegiatan pertahanan dan keamanan negara;
    
-   **b. Diperbolehkan bersyarat:** Untuk Pemanfaatan Ruang di sekitar bandar udara sesuai dengan kebutuhan pengembangan bandara berdasarkan ketentuan peraturan perundang-undangan yang berlaku;
+   b. **Diperbolehkan bersyarat:** Untuk Pemanfaatan Ruang di sekitar bandar udara sesuai dengan kebutuhan pengembangan bandara berdasarkan ketentuan peraturan perundang-undangan yang berlaku;
    
-   **c. Tidak diperbolehkan:** Meliputi pendirian bangunan serta kegiatan yang membahayakan keamanan dan keselamatan operasional penerbangan, membuat halangan (obstacle) dan/atau kegiatan lain yang mengganggu fungsi bandar udara;
+   c. **Tidak diperbolehkan:** Meliputi pendirian bangunan serta kegiatan yang membahayakan keamanan dan keselamatan operasional penerbangan, membuat halangan (obstacle) dan/atau kegiatan lain yang mengganggu fungsi bandar udara;
    
-   **d. Penyediaan sarana dan prasarana minimum berupa:**
+   d. **Penyediaan sarana dan prasarana minimum berupa:**
    
    1. penyediaan sarana dan prasarana pengelolaan sampah dan limbah serta RTH;
    
@@ -2640,9 +2636,9 @@ f. indikasi arahan zonasi sistem jaringan prasarana lainnya.
    
    6. fasilitas penunjang;
    
-   **e. Intensitas Pemanfaatan Ruang:** Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
+   e. **Intensitas Pemanfaatan Ruang:** Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
    
-   **f. Dokumen lingkungan:** Pengembangan atau pembangunan Bandar Udara Umum dan Bandar Udara Khusus wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+   f. **Dokumen lingkungan:** Pengembangan atau pembangunan Bandar Udara Umum dan Bandar Udara Khusus wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 ---
 
