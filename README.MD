@@ -2459,18 +2459,12 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
    3. **Kegiatan yang tidak diperbolehkan yaitu:** Pemanfaatan Ruang pada jalur kereta api, ruang milik jalur kereta api dan ruang pengawasan jalur kereta api yang dapat mengakibatkan terganggunya kelancaran operasi kereta api dan keselamatan pengguna kereta api;
    
    4. **Penyediaan sarana prasarana minimum berupa:**
-   
-   a) pengembangan jalur hijau atau RTH sepanjang jalur kereta api;
-   
-   b) bangunan stasiun;
-   
-   c) fasilitas naik/turun penumpang;
-   
-   d) tempat parkir;
-   
-   e) ruang untuk pelayanan penumpang (seperti ruang tunggu, ruang pembelian tiket, toilet dan mushola); dan
-   
-   f) jalur berkumpul darurat dan jalur evakuasi bencana;
+      - a) pengembangan jalur hijau atau RTH sepanjang jalur kereta api;
+      - b) bangunan stasiun;
+      - c) fasilitas naik/turun penumpang;
+      - d) tempat parkir;
+      - e) ruang untuk pelayanan penumpang (seperti ruang tunggu, ruang pembelian tiket, toilet dan mushola); dan
+      - f) jalur berkumpul darurat dan jalur evakuasi bencana;
    
    5. **Intensitas Pemanfaatan Ruang:** Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku;
    
@@ -2512,7 +2506,7 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
    
    e. **Intensitas Pemanfaatan Ruang:** Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
    
-   f.** Dokumen lingkungan:** Pengembangan atau pembangunan jaringan sungai danau dan penyeberangan wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+   f. **Dokumen lingkungan:** Pengembangan atau pembangunan jaringan sungai danau dan penyeberangan wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 (5) Indikasi arahan zonasi untuk sistem jaringan transportasi Laut sebagaimana dimaksud pada ayat (1) huruf d meliputi:
 
