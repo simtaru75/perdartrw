@@ -2319,12 +2319,16 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
 
 **Pasal 67**
 
+----
+
 (1) Indikasi arahan zonasi sistem jaringan transportasi sebagaimana dimaksud dalam Pasal 65 huruf b meliputi:
    - a. indikasi arahan zonasi untuk sistem jaringan jalan;
    - b. indikasi arahan zonasi untuk sistem jaringan kereta api;
    - c. indikasi arahan zonasi untuk sistem jaringan sungai danau dan penyeberangan;
    - d. indikasi arahan zonasi untuk sistem jaringan transportasi Laut; dan
    - e. indikasi arahan zonasi untuk Bandar Udara Umum dan Bandar Udara Khusus.
+
+----
 
 (2) Indikasi arahan zonasi untuk sistem jaringan jalan sebagaimana dimaksud pada ayat (1) huruf a meliputi:
 
