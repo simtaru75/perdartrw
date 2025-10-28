@@ -663,124 +663,124 @@ g. pengendalian fungsi lindung dan fungsi Budi Daya secara berkelanjutan.
 
 (4) Jalan kolektor sebagaimana dimaksud pada ayat (2) huruf b meliputi:
 
-   a. **Jalan kolektor primer satu (JKP-1)** yang menjadi kewenangan Pemerintah Pusat meliputi ruas:
-      1. Bts. Kota Sekayu – Mangunjaya;
-      2. Mangunjaya – Bts. Kab. MURA;
-      3. Bts. Kab. MUBA/Bts. Kab. MURA – Muara Beliti;
-      4. Bts. Kota Lahat – Simpang Air Dingin;
-      5. Jln. Mayor Ruslan I (Lahat);
-      6. Simpang Air Dingin – Pagar Alam;
-      7. Pagar Alam–Tanjung Sakti – Bts. Prov. Bengkulu
-      8. Prabumulih – Beringin;
-      9. Beringin – Bts. Kab. OKU;
-      10. Bts. Kab. OKU – Baturaja;
-      11. Rencana Relokasi Muara Enim – Lahat;
-      12. Rencana Jalan Akses Terminal Pelabuhan Tanjung Carat;
-      13. Rencana Jln. Akses Jembatan Musi IV;
-      14. Rencana Lingkar Timur Kota Palembang;
-      15. Rencana Jalan Letnan Kolonel Sukirno/Jalan Lapter (Lingkar Selatan Lubuk Linggau);
-      16. Rencana Jalan Kol. H. Sulaiman Amin/Jalan Fatmawati Soekarno (Lingkar Selatan);
-      17. Rencana Jalan Jend. (Pol) Moch. Hasan (Lingkar Selatan Lubuk Linggau);
-      18. Rencana Lingkar Utara (Lubuk Linggau);
-      19. Rencana Jalan Raya Tugumulyo (Lingkar Utara Lubuk Linggau);
-      20. Rencana Sp. Penyandingan – Martapura; dan
-      21. Rencana Akses KSPN Danau Ranau;
+a. **Jalan kolektor primer satu (JKP-1)** yang menjadi kewenangan Pemerintah Pusat meliputi ruas:
+1. Bts. Kota Sekayu – Mangunjaya;
+2. Mangunjaya – Bts. Kab. MURA;
+3. Bts. Kab. MUBA/Bts. Kab. MURA – Muara Beliti;
+4. Bts. Kota Lahat – Simpang Air Dingin;
+5. Jln. Mayor Ruslan I (Lahat);
+6. Simpang Air Dingin – Pagar Alam;
+7. Pagar Alam–Tanjung Sakti – Bts. Prov. Bengkulu
+8. Prabumulih – Beringin;
+9. Beringin – Bts. Kab. OKU;
+10. Bts. Kab. OKU – Baturaja;
+11. Rencana Relokasi Muara Enim – Lahat;
+12. Rencana Jalan Akses Terminal Pelabuhan Tanjung Carat;
+13. Rencana Jln. Akses Jembatan Musi IV;
+14. Rencana Lingkar Timur Kota Palembang;
+15. Rencana Jalan Letnan Kolonel Sukirno/Jalan Lapter (Lingkar Selatan Lubuk Linggau);
+16. Rencana Jalan Kol. H. Sulaiman Amin/Jalan Fatmawati Soekarno (Lingkar Selatan);
+17. Rencana Jalan Jend. (Pol) Moch. Hasan (Lingkar Selatan Lubuk Linggau);
+18. Rencana Lingkar Utara (Lubuk Linggau);
+19. Rencana Jalan Raya Tugumulyo (Lingkar Utara Lubuk Linggau);
+20. Rencana Sp. Penyandingan – Martapura; dan
+21. Rencana Akses KSPN Danau Ranau;
 
-   b. **Jalan kolektor primer dua (JKP-2)** yang menjadi kewenangan Pemerintah Provinsi meliputi ruas:
-      1. Jln. Lingkar Masjid Agung (Palembang);
-      2. Jln. Merdeka (Palembang);
-      3. Jln. Kol. Atmo (Palembang);
-      4. Jln. Brigjen HM. Dhanny Effendy (Palembang);
-      5. Jln. Kol. Ahmad Badaruddin – Jln. Letkol. Iskandar (Palembang);
-      6. Jln. PSW. Subekti (Palembang);
-      7. Jln. Diponegoro (Palembang);
-      8. Jln. Kapten A. Rivai (Palembang);
-      9. Jln. Walikota H. Husni (Palembang);
-      10. Jln. Jaksa Agung R. Soeprapto (Palembang);
-      11. Jln. M. Isa (Palembang);
-      12. Jln. Angkatan 45 (Palembang);
-      13. Jln. Sultan M. Mansyur (Palembang);
-      14. Jln. Srijaya Negara (Palembang);
-      15. Jln. AKBP Cek Agus (Palembang);
-      16. Jln. Pangeran Ratu – Pasar Induk – Sp. Jln. Pendidikan (Palembang);
-      17. Jln. DI Panjaitan (Palembang);
-      18. Jln. MP. Mangkunegara (Palembang);
-      19. Jln. Mayor Zen (Palembang);
-      20. Jln. Pangeran Ayin (Kota Palembang) – Bts. Banyuasin;
-      21. Jln. Pendidikan – Jln. Lingkar Selatan (Palembang);
-      22. Jln. Kapt. Abdullah – Jln. Robani Kadir;
-      23. Jln. Lettu Karim Kadir (Gandus)– Bts. Kab. Banyuasin;
-      24. Jln. Noerdin Pandji (Palembang);
-      25. Bts. Kota Palembang – Kenten Laut Banyuasin);
-      26. Jln. Talang Keramat (Banyuasin);
-      27. Jln. Taqwa Mata Merah (Palembang) – Merah Mata (Bts. Kab. Banyuasin);
-      28. Jln. Adi Sucipto – Bts. Kab. Banyuasin (Palembang);
-      29. Bts. Kota Palembang–Sukajadi (Banyuasin);
-      30. Bts. Kota Palembang – Sukomoro (Banyuasin);
-      31. Plaju – Sp. Sungai Pinang – Bts. Kab. OKI;
-      32. Jln. KTM. Rambutan – Sp. Lorok;
-      33. Sp. OPI – Babatan Saudagar – Srijabo;
-      34. Jln. Akses Menuju Kebun Raya Sriwijaya – Sp. Lorok;
-      35. Bts. Kab. Banyuasin–Celikah (Kayu Agung);
-      36. Sp. Meranjat – Bts Kab. Muara Enim;
-      37. Bts. Kab. Muara Enim – Payaraman (Ogan Ilir);
-      38. Tanjung Raja–Sp. Tambang Rambang (Ogan Ilir);
-      39. Sp. Penyandingan - Bts. Kab. OKUT;
-      40. Jln. Akses TPI Sungsang (Banyuasin);
-      41. Trans Sp.1 – Sp. Tanah Abang;
-      42. Cempaka – Trans Sp.1;
-      43. Sp. Tambang Rambang - Bts. Kab. OKU;
-      44. Lubuk Seberuk – Sumbu Sari – Mataram Jaya;
-      45. Bts. Kab. OKI - Sp. Kepuh (OKUT);
-      46. Bts. Kab. Ogan Ilir – Peninjauan (Sp. Batumarta Unit XII) (OKU);
-      47. Sekayu – Bts. Kab. PALI;
-      48. Betung – Petanggan (OKUT);
-      49. Dabuk Rejo – Bts. Kab. OKUT;
-      50. Petanggan – Tj. Kemuning – Bts. Kab. OKI;
-      51. Gumawang – Rasuan (Sp. Kepuh);
-      52. Peninjauan (Sp. Batumarta Unit XII) – Sp. Lubuk Batang (OKU);
-      53. Gumawang – Petanggan (OKUT);
-      54. Sp. Kepuh – Kurungan Nyawa (OKUT);
-      55. Kurungan Nyawa – Gumawang (OKUT);
-      56. Kurungan Nyawa – Martapura (OKUT);
-      57. Martapura – Sp. Martapura;
-      58. Sp. Sukajadi (Baturaja) – Sp. Lengkiti (OKU);
-      59. Sp. Lengkiti (OKU) – Sp. Martapura (OKUS);
-      60. Sp. Martapura – Muaradua (OKUS);
-      61. Muaradua – Sp. Haji (OKUS);
-      62. Sp. Haji – Sp. Campang (OKUS);
-      63. Sp. Campang – Sp. Muara Sindang (OKUS);
-      64. Sp. Muara Sindang (OKUS) – Bts. Prov. Bengkulu;
-      65. Muaradua – Sp. Sender (OKUS);
-      66. Sp. Sender (OKUS) – Bts. Prov. Lampung;
-      67. Lembak (Muara Enim) – Bts. Kab. Ogan Ilir;
-      68. Lembak – Modong (Bts. Kab. PALI);
-      69. Bts. Kab. Ogan Ilir – Beringin (Muara Enim);
-      70. Sp. Raja – Modong (Bts. Kab. Muara Enim);
-      71. Sp. Air Itam – Sp. Talang Bulang (PALI);
-      72. Bts. Kab. MUBA – Sp. Air Itam (PALI);
-      73. Jln. Sp. Belimbing – Pendopo (PALI);
-      74. Sp. Lima Pendopo (Kab. PALI) – Bts. Kab. MURA;
-      75. Sp. 9 Bangun Jaya (Musi Rawas) – Sp. Kulim (Bts. PALI);
-      76. Sp. Sugihwaras (Muara Enim) - Bts. Kab. Lahat;
-      77. Sp. Semambang – Sp. 9 Bangun Jaya (Musi Rawas);
-      78. Bts. Kab. Muara Enim – Sp. Air Dingin (Lahat);
-      79. Muara Siban – Sp. Embacang;
-      80. Keban Agung – Sp. Tj. Aro (Pagar Alam);
-      81. Tj. Cermin – Perandonan (Pagar Alam);
-      82. Tebing Tinggi – Pendopo (Empat Lawang);
-      83. Jln. Handayani (Kota Lubuk Linggau) - Tugumulyo (Kab. Musi Rawas);
-      84. Tebing Tinggi – Tanjung Raya (Empat Lawang);
-      85. Sp. Periuk (Lubuk Linggau) – Tugu Mulyo - Terawas (MURA);
-      86. Pagar Alam – Tanjung Raya (Empat Lawang);
-      87. Terawas (MURA) – Tabatinggi – Maur (MURATARA);
-      88. Tanjung Raya (Empat Lawang) – Bts. Prov. Bengkulu; dan
+b. **Jalan kolektor primer dua (JKP-2)** yang menjadi kewenangan Pemerintah Provinsi meliputi ruas:
+1. Jln. Lingkar Masjid Agung (Palembang);
+2. Jln. Merdeka (Palembang);
+3. Jln. Kol. Atmo (Palembang);
+4. Jln. Brigjen HM. Dhanny Effendy (Palembang);
+5. Jln. Kol. Ahmad Badaruddin – Jln. Letkol. Iskandar (Palembang);
+6. Jln. PSW. Subekti (Palembang);
+7. Jln. Diponegoro (Palembang);
+8. Jln. Kapten A. Rivai (Palembang);
+9. Jln. Walikota H. Husni (Palembang);
+10. Jln. Jaksa Agung R. Soeprapto (Palembang);
+11. Jln. M. Isa (Palembang);
+12. Jln. Angkatan 45 (Palembang);
+13. Jln. Sultan M. Mansyur (Palembang);
+14. Jln. Srijaya Negara (Palembang);
+15. Jln. AKBP Cek Agus (Palembang);
+16. Jln. Pangeran Ratu – Pasar Induk – Sp. Jln. Pendidikan (Palembang);
+17. Jln. DI Panjaitan (Palembang);
+18. Jln. MP. Mangkunegara (Palembang);
+19. Jln. Mayor Zen (Palembang);
+20. Jln. Pangeran Ayin (Kota Palembang) – Bts. Banyuasin;
+21. Jln. Pendidikan – Jln. Lingkar Selatan (Palembang);
+22. Jln. Kapt. Abdullah – Jln. Robani Kadir;
+23. Jln. Lettu Karim Kadir (Gandus)– Bts. Kab. Banyuasin;
+24. Jln. Noerdin Pandji (Palembang);
+25. Bts. Kota Palembang – Kenten Laut Banyuasin);
+26. Jln. Talang Keramat (Banyuasin);
+27. Jln. Taqwa Mata Merah (Palembang) – Merah Mata (Bts. Kab. Banyuasin);
+28. Jln. Adi Sucipto – Bts. Kab. Banyuasin (Palembang);
+29. Bts. Kota Palembang–Sukajadi (Banyuasin);
+30. Bts. Kota Palembang – Sukomoro (Banyuasin);
+31. Plaju – Sp. Sungai Pinang – Bts. Kab. OKI;
+32. Jln. KTM. Rambutan – Sp. Lorok;
+33. Sp. OPI – Babatan Saudagar – Srijabo;
+34. Jln. Akses Menuju Kebun Raya Sriwijaya – Sp. Lorok;
+35. Bts. Kab. Banyuasin–Celikah (Kayu Agung);
+36. Sp. Meranjat – Bts Kab. Muara Enim;
+37. Bts. Kab. Muara Enim – Payaraman (Ogan Ilir);
+38. Tanjung Raja–Sp. Tambang Rambang (Ogan Ilir);
+39. Sp. Penyandingan - Bts. Kab. OKUT;
+40. Jln. Akses TPI Sungsang (Banyuasin);
+41. Trans Sp.1 – Sp. Tanah Abang;
+42. Cempaka – Trans Sp.1;
+43. Sp. Tambang Rambang - Bts. Kab. OKU;
+44. Lubuk Seberuk – Sumbu Sari – Mataram Jaya;
+45. Bts. Kab. OKI - Sp. Kepuh (OKUT);
+46. Bts. Kab. Ogan Ilir – Peninjauan (Sp. Batumarta Unit XII) (OKU);
+47. Sekayu – Bts. Kab. PALI;
+48. Betung – Petanggan (OKUT);
+49. Dabuk Rejo – Bts. Kab. OKUT;
+50. Petanggan – Tj. Kemuning – Bts. Kab. OKI;
+51. Gumawang – Rasuan (Sp. Kepuh);
+52. Peninjauan (Sp. Batumarta Unit XII) – Sp. Lubuk Batang (OKU);
+53. Gumawang – Petanggan (OKUT);
+54. Sp. Kepuh – Kurungan Nyawa (OKUT);
+55. Kurungan Nyawa – Gumawang (OKUT);
+56. Kurungan Nyawa – Martapura (OKUT);
+57. Martapura – Sp. Martapura;
+58. Sp. Sukajadi (Baturaja) – Sp. Lengkiti (OKU);
+59. Sp. Lengkiti (OKU) – Sp. Martapura (OKUS);
+60. Sp. Martapura – Muaradua (OKUS);
+61. Muaradua – Sp. Haji (OKUS);
+62. Sp. Haji – Sp. Campang (OKUS);
+63. Sp. Campang – Sp. Muara Sindang (OKUS);
+64. Sp. Muara Sindang (OKUS) – Bts. Prov. Bengkulu;
+65. Muaradua – Sp. Sender (OKUS);
+66. Sp. Sender (OKUS) – Bts. Prov. Lampung;
+67. Lembak (Muara Enim) – Bts. Kab. Ogan Ilir;
+68. Lembak – Modong (Bts. Kab. PALI);
+69. Bts. Kab. Ogan Ilir – Beringin (Muara Enim);
+70. Sp. Raja – Modong (Bts. Kab. Muara Enim);
+71. Sp. Air Itam – Sp. Talang Bulang (PALI);
+72. Bts. Kab. MUBA – Sp. Air Itam (PALI);
+73. Jln. Sp. Belimbing – Pendopo (PALI);
+74. Sp. Lima Pendopo (Kab. PALI) – Bts. Kab. MURA;
+75. Sp. 9 Bangun Jaya (Musi Rawas) – Sp. Kulim (Bts. PALI);
+76. Sp. Sugihwaras (Muara Enim) - Bts. Kab. Lahat;
+77. Sp. Semambang – Sp. 9 Bangun Jaya (Musi Rawas);
+78. Bts. Kab. Muara Enim – Sp. Air Dingin (Lahat);
+79. Muara Siban – Sp. Embacang;
+80. Keban Agung – Sp. Tj. Aro (Pagar Alam);
+81. Tj. Cermin – Perandonan (Pagar Alam);
+82. Tebing Tinggi – Pendopo (Empat Lawang);
+83. Jln. Handayani (Kota Lubuk Linggau) - Tugumulyo (Kab. Musi Rawas);
+84. Tebing Tinggi – Tanjung Raya (Empat Lawang);
+85. Sp. Periuk (Lubuk Linggau) – Tugu Mulyo - Terawas (MURA);
+86. Pagar Alam – Tanjung Raya (Empat Lawang);
+87. Terawas (MURA) – Tabatinggi – Maur (MURATARA);
+88. Tanjung Raya (Empat Lawang) – Bts. Prov. Bengkulu; dan
 
-   c. **Rencana pengembangan jalan kolektor primer dua (JKP-2)** meliputi ruas:
-      1. Jln. Akses Pesisir Timur Kabupaten OKI (Lempuing Jaya – Cengal – Tulung Selapan – Sungsang);
-      2. Nibung – Bts. Muba;
-      3. Rupit – Lakitan – Karang Dapo; dan
-      4. Tanjung Tapa – Sungai Lumpur.
+c. **Rencana pengembangan jalan kolektor primer dua (JKP-2)** meliputi ruas:
+1. Jln. Akses Pesisir Timur Kabupaten OKI (Lempuing Jaya – Cengal – Tulung Selapan – Sungsang);
+2. Nibung – Bts. Muba;
+3. Rupit – Lakitan – Karang Dapo; dan
+4. Tanjung Tapa – Sungai Lumpur.
 
 (5) Jalan Khusus sebagaimana dimaksud pada ayat (1) huruf b terdapat di Kabupaten Musi Rawas Utara, Kabupaten Musi Banyuasin, Kabupaten Ogan Komering Ilir, Kabupaten Ogan Ilir, Kabupaten Muara Enim, Kabupaten Penukal Abab Lematang Ilir, Kabupaten Lahat, Kota Prabumulih dan Kota Palembang.
 
@@ -800,39 +800,39 @@ g. pengendalian fungsi lindung dan fungsi Budi Daya secara berkelanjutan.
 
 (8) Terminal penumpang sebagaimana dimaksud pada ayat (1) huruf d meliputi:
 
-   a. **terminal penumpang Tipe A** meliputi:
-      1. Terminal Batu kuning di Kabupaten Ogan Komering Ulu;
-      2. Terminal Kayu Agung di Kabupaten Ogan Komering Ilir;
-      3. Terminal Regional Lahat di Kabupaten Lahat;
-      4. Terminal Betung di Kabupaten Banyuasin;
-      5. Terminal Alang-ALang Lebar di Kota Palembang;
-      6. Terminal Karya Jaya di Kota Palembang;
-      7. Terminal Simpang Periuk di Kota Lubuk Linggau;
-      8. Rencana Terminal di Kabupaten Banyuasin; dan
-      9. Rencana Terminal di Kota Pagar Alam;
+a. **terminal penumpang Tipe A** meliputi:
+1. Terminal Batu kuning di Kabupaten Ogan Komering Ulu;
+2. Terminal Kayu Agung di Kabupaten Ogan Komering Ilir;
+3. Terminal Regional Lahat di Kabupaten Lahat;
+4. Terminal Betung di Kabupaten Banyuasin;
+5. Terminal Alang-ALang Lebar di Kota Palembang;
+6. Terminal Karya Jaya di Kota Palembang;
+7. Terminal Simpang Periuk di Kota Lubuk Linggau;
+8. Rencana Terminal di Kabupaten Banyuasin; dan
+9. Rencana Terminal di Kota Pagar Alam;
 
-   b. **terminal penumpang Tipe B** meliputi:
-      1. Terminal Randik di Kabupaten Musi Banyuasin;
-      2. Terminal Kota Baru/Martapura Kabupaten Ogan Komering Ulu Timur;
-      3. Terminal Lubuk Harjo di Kabupaten Ogan Komering Ulu Timur;
-      4. Terminal Muaradua di Kabupaten Ogan Komering Ulu Selatan;
-      5. Terminal Km 32 Indralaya di Kabupaten Ogan Ilir;
-      6. Terminal Jakabaring di Kota Palembang;
-      7. Terminal Petanang di Kota Lubuk Linggau;
-      8. Rencana Terminal Peninjauan di Kabupaten Ogan Komering Ulu;
-      9. Terminal Tulung Selapan di Kabupaten Ogan Komering Ilir;
-      10. Terminal Simpang Kodim di Kabupaten Muara Enim;
-      11. Terminal Muara Siban di Kabupaten Lahat;
-      12. Terminal Muara Lakitan di Kabupaten Musi Rawas;
-      13. Terminal Megang Sakti di Kabupaten Musi Rawas;
-      14. Terminal Tuah Negeri di Kabupaten Musi Rawas;
-      15. Rencana Terminal Pangkalan Balai di Kabupaten Banyuasin;
-      16. Terminal Talang Ubi di Kabupaten Penukal Abab Lematang Ilir;
-      17. Terminal Muara Rupit di Kabupaten Musi Rawas Utara;
-      18. Terminal Plaju di Kota Palembang;
-      19. Terminal Nendagung di Kota Pagar Alam;
-      20. Terminal Lempuing di Kabupaten Ogan Komering Ilir; dan
-      21. Terminal Prabumulih di Kota Prabumulih.
+b. **terminal penumpang Tipe B** meliputi:
+1. Terminal Randik di Kabupaten Musi Banyuasin;
+2. Terminal Kota Baru/Martapura Kabupaten Ogan Komering Ulu Timur;
+3. Terminal Lubuk Harjo di Kabupaten Ogan Komering Ulu Timur;
+4. Terminal Muaradua di Kabupaten Ogan Komering Ulu Selatan;
+5. Terminal Km 32 Indralaya di Kabupaten Ogan Ilir;
+6. Terminal Jakabaring di Kota Palembang;
+7. Terminal Petanang di Kota Lubuk Linggau;
+8. Rencana Terminal Peninjauan di Kabupaten Ogan Komering Ulu;
+9. Terminal Tulung Selapan di Kabupaten Ogan Komering Ilir;
+10. Terminal Simpang Kodim di Kabupaten Muara Enim;
+11. Terminal Muara Siban di Kabupaten Lahat;
+12. Terminal Muara Lakitan di Kabupaten Musi Rawas;
+13. Terminal Megang Sakti di Kabupaten Musi Rawas;
+14. Terminal Tuah Negeri di Kabupaten Musi Rawas;
+15. Rencana Terminal Pangkalan Balai di Kabupaten Banyuasin;
+16. Terminal Talang Ubi di Kabupaten Penukal Abab Lematang Ilir;
+17. Terminal Muara Rupit di Kabupaten Musi Rawas Utara;
+18. Terminal Plaju di Kota Palembang;
+19. Terminal Nendagung di Kota Pagar Alam;
+20. Terminal Lempuing di Kabupaten Ogan Komering Ilir; dan
+21. Terminal Prabumulih di Kota Prabumulih.
 
 (9) Terminal Barang sebagaimana dimaksud pada ayat (1) huruf e meliputi:
    - a. Terminal Regional Muara Enim di Kabupaten Muara Enim;
@@ -845,44 +845,44 @@ g. pengendalian fungsi lindung dan fungsi Budi Daya secara berkelanjutan.
 
 (10) Jembatan timbang sebagaimana dimaksud pada ayat (1) huruf f meliputi:
 
-   a. **Jembatan timbang yang berada pada jalan nasional** meliputi:
-      1. Jembatan timbang Pematang Panggang terdapat di Kabupaten Ogan Komering Ilir;
-      2. Jembatan timbang Merapi di Kabupaten Lahat;
-      3. Jembatan timbang Senawar Jaya di Kabupaten Musi Banyuasin;
-      4. Jembatan timbang Kota Baru di Kabupaten Ogan Komering Ulu Timur;
-      5. Jembatan timbang Simpang Nibung di Kabupaten Musi Rawas Utara;
-      6. Jembatan timbang Keramasan di Kota Palembang; dan
-      7. Jembatan timbang Talang Kelapa di Kabupaten Banyuasin;
+a. **Jembatan timbang yang berada pada jalan nasional** meliputi:
+1. Jembatan timbang Pematang Panggang terdapat di Kabupaten Ogan Komering Ilir;
+2. Jembatan timbang Merapi di Kabupaten Lahat;
+3. Jembatan timbang Senawar Jaya di Kabupaten Musi Banyuasin;
+4. Jembatan timbang Kota Baru di Kabupaten Ogan Komering Ulu Timur;
+5. Jembatan timbang Simpang Nibung di Kabupaten Musi Rawas Utara;
+6. Jembatan timbang Keramasan di Kota Palembang; dan
+7. Jembatan timbang Talang Kelapa di Kabupaten Banyuasin;
 
-   b. Jembatan timbang yang berada pada jalan Provinsi ditetapkan setelah melalui kajian sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+b. Jembatan timbang yang berada pada jalan Provinsi ditetapkan setelah melalui kajian sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 (11) Jembatan sebagaimana dimaksud pada ayat (1) huruf g terdiri atas:
 
-   a. jembatan yang tersebar diseluruh Wilayah Provinsi; dan
+a. jembatan yang tersebar diseluruh Wilayah Provinsi; dan
 
-   b. **rencana pengembangan flyover, perlintasan kereta api dan jembatan** meliputi:
-      1) FO Sekip Ujung (Palembang);
-      2) FO Bantaian (Perlintasan Ka) Ruas Sp. Belimbing Kabupaten Muara Enim - Bts. Kota Prabumulih;
-      3) FO Gelumbang (Perlintasan Ka) Ruas Bts. Kota Prabumulih - Kabupaten Muara Enim;
-      4) perlintasan KA Sp. Belimbing;
-      5) perlintasan KA Sungai Tuha – Martapura;
-      6) perlintasan KA Gunung Megang II;
-      7) perlintasan KA Gunung Megang I;
-      8) perlintasan KA Muara Enim (Jalan Sudirman);
-      9) perlintasan KA Ujan Mas;
-      10) perlintasan KA Muara Lawai;
-      11) perlintasan KA Tanjung Enim;
-      12) perlintasan KA Ulak Pandan;
-      13) perlintasan KA Kota Lahat;
-      14) perlintasan KA Bunga Mas;
-      15) perlintasan KA Tebing Tinggi;
-      16) perlintasan KA Lubuk Linggau;
-      17) perlintasan KA Air Asam;
-      18) perlintasan KA Tanjung Rambang;
-      19) jembatan Lematang Indah;
-      20) jembatan Musi III;
-      21) jembatan Bentang Panjang Sumsel – Bangka; dan
-      22) jembatan Endikat.
+b. **rencana pengembangan flyover, perlintasan kereta api dan jembatan** meliputi:
+1) FO Sekip Ujung (Palembang);
+2) FO Bantaian (Perlintasan Ka) Ruas Sp. Belimbing Kabupaten Muara Enim - Bts. Kota Prabumulih;
+3) FO Gelumbang (Perlintasan Ka) Ruas Bts. Kota Prabumulih - Kabupaten Muara Enim;
+4) perlintasan KA Sp. Belimbing;
+5) perlintasan KA Sungai Tuha – Martapura;
+6) perlintasan KA Gunung Megang II;
+7) perlintasan KA Gunung Megang I;
+8) perlintasan KA Muara Enim (Jalan Sudirman);
+9) perlintasan KA Ujan Mas;
+10) perlintasan KA Muara Lawai;
+11) perlintasan KA Tanjung Enim;
+12) perlintasan KA Ulak Pandan;
+13) perlintasan KA Kota Lahat;
+14) perlintasan KA Bunga Mas;
+15) perlintasan KA Tebing Tinggi;
+16) perlintasan KA Lubuk Linggau;
+17) perlintasan KA Air Asam;
+18) perlintasan KA Tanjung Rambang;
+19) jembatan Lematang Indah;
+20) jembatan Musi III;
+21) jembatan Bentang Panjang Sumsel – Bangka; dan
+22) jembatan Endikat.
 
 (12) Trase jalan sebagaimana dimaksud pada ayat (4) huruf a angka 11 sampai dengan angka 21 dan lokasi terminal penumpang tipe A sebagaimana dimaksud pada ayat (8) huruf a angka 8 dan angka 9 bersifat indikatif dan ditentukan berdasarkan kajian sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
