@@ -1167,22 +1167,22 @@ Sistem jaringan energi sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf c melip
 
 (1) Sistem jaringan irigasi sebagaimana dimaksud dalam Pasal 20 ayat (1) huruf a terdiri atas :
 
-   a. **jaringan irigasi pada Daerah Irigasi (D.I) kewenangan Pemerintah Pusat** meliputi:
-      1. jaringan irigasi pada D.I. yang berada lintas provinsi yaitu D.I. Komering/Way Komering di Kabupaten Ogan Komering Ilir dan Kabupaten Ogan Komering Ulu Timur;
-      2. jaringan irigasi pada D.I. yang berada lintas Kabupaten/Kota yaitu D.I. Kelingi Tugu Mulyo di Kabupaten Musi Rawas dan Kota Lubuk Linggau; dan
-      3. jaringan irigasi pada D.I. yang berada di Kabupaten/Kota meliputi:
-         a) D.I. Air Keruh, D.I. Lintang Kanan dan D.I. Lintang Kiri di Kabupaten Empat Lawang;
-         b) D.I. Air Lakitan di Kabupaten Musi Rawas; dan
-         c) D.I. Muara Riben dan D.I Lematang di Kota Pagar Alam;
+a. **jaringan irigasi pada Daerah Irigasi (D.I) kewenangan Pemerintah Pusat** meliputi:
+1. jaringan irigasi pada D.I. yang berada lintas provinsi yaitu D.I. Komering/Way Komering di Kabupaten Ogan Komering Ilir dan Kabupaten Ogan Komering Ulu Timur;
+2. jaringan irigasi pada D.I. yang berada lintas Kabupaten/Kota yaitu D.I. Kelingi Tugu Mulyo di Kabupaten Musi Rawas dan Kota Lubuk Linggau; dan
+3. jaringan irigasi pada D.I. yang berada di Kabupaten/Kota meliputi:
+a) D.I. Air Keruh, D.I. Lintang Kanan dan D.I. Lintang Kiri di Kabupaten Empat Lawang;
+b) D.I. Air Lakitan di Kabupaten Musi Rawas; dan
+c) D.I. Muara Riben dan D.I Lematang di Kota Pagar Alam;
 
-   b. **jaringan irigasi pada Daerah Irigasi (D.I) kewenangan Pemerintah Provinsi** meliputi:
-      1. D.I. Ataran Sungai Air Deras (Cahaya Alam), D.I. Danau Tampang, D.I. Endikat Bengkok/T. Bute, D.I. Lecah Paye dan D.I. Tunggul Bute di Kabupaten Muara Enim;
-      2. D.I. Air Gohong, D.I. Air Makim, D.I. Air Manna I, D.I. Air Merendang, D.I. Air Mulak, D.I. Air Pangi, D.I. Masam Balau dan D.I. Tebing Panjang di Kabupaten Lahat;
-      3. D.I. Air Deras I, D.I. Air Gegas, D.I. Air Satan dan D.I. Megang Tikip di Kabupaten Musi Rawas;
-      4. D.I. Air Gilas, D.I. Lebak Datuk dan D.I. Lebak Semendawai di Kabupaten Ogan Komering Ulu Timur;
-      5. D.I. Air Pius, D.I. Air Sungkai dan D.I. Sunur di Kabupaten Ogan Komering Ulu Selatan;
-      6. D.I. Air Keban di Kabupaten Empat Lawang; dan
-      7. D.I. Air Merah, D.I. Pasemah, D.I. Selangis Besar/Jemair dan D.I. Selangis Kecil di Kota Pagar Alam.
+b. **jaringan irigasi pada Daerah Irigasi (D.I) kewenangan Pemerintah Provinsi** meliputi:
+1. D.I. Ataran Sungai Air Deras (Cahaya Alam), D.I. Danau Tampang, D.I. Endikat Bengkok/T. Bute, D.I. Lecah Paye dan D.I. Tunggul Bute di Kabupaten Muara Enim;
+2. D.I. Air Gohong, D.I. Air Makim, D.I. Air Manna I, D.I. Air Merendang, D.I. Air Mulak, D.I. Air Pangi, D.I. Masam Balau dan D.I. Tebing Panjang di Kabupaten Lahat;
+3. D.I. Air Deras I, D.I. Air Gegas, D.I. Air Satan dan D.I. Megang Tikip di Kabupaten Musi Rawas;
+4. D.I. Air Gilas, D.I. Lebak Datuk dan D.I. Lebak Semendawai di Kabupaten Ogan Komering Ulu Timur;
+5. D.I. Air Pius, D.I. Air Sungkai dan D.I. Sunur di Kabupaten Ogan Komering Ulu Selatan;
+6. D.I. Air Keban di Kabupaten Empat Lawang; dan
+7. D.I. Air Merah, D.I. Pasemah, D.I. Selangis Besar/Jemair dan D.I. Selangis Kecil di Kota Pagar Alam.
 
 (2) Selain jaringan irigasi sebagaimana dimaksud pada ayat (1) terdapat D.I. kewenangan Pemerintah Kabupaten/Kota tersebar di seluruh Wilayah Kabupaten/Kota dan diatur lebih lanjut dalam RTRW dan RDTR Kabupaten/Kota.
 
