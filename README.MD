@@ -2512,11 +2512,9 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
 
    a. **Indikasi arahan zonasi untuk pelabuhan Laut meliputi:**
    
-   1. **Kegiatan yang diperbolehkan yaitu:**
-   
-   a) Pemanfaatan Ruang untuk kegiatan kepelabuhanan dan yang menunjang aktivitas pelabuhan; dan
-   
-   b) Pemanfaatan Ruang untuk peningkatan sarana prasarana fasilitas pelabuhan;
+   1. **Kegiatan yang diperbolehkan yaitu:** 
+   - a) Pemanfaatan Ruang untuk kegiatan kepelabuhanan dan yang menunjang aktivitas pelabuhan; dan
+   - b) Pemanfaatan Ruang untuk peningkatan sarana prasarana fasilitas pelabuhan;
    
    2. **Kegiatan yang diperbolehkan bersyarat:** Untuk pengembangan sarana dan utilitas sesuai dengan ketentuan teknis yang berlaku;
    
@@ -2534,15 +2532,11 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
    
    6. **Rekayasa teknis:** Penerapan rekayasa teknis dalam pembangunan pelabuhan laut di sekitar Kawasan rawan bencana;
       
-   **7. Intensitas Pemanfaatan Ruang:**
+   7. **Intensitas Pemanfaatan Ruang:** Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku;
    
-   Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku;
+   8. **Dokumen lingkungan:** Pengembangan atau pembangunan jaringan transportasi laut wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku; dan
    
-   **8. Dokumen lingkungan:**
-   
-   Pengembangan atau pembangunan jaringan transportasi laut wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku; dan
-   
-   **9. Rencana kontingensi menghadapi kondisi darurat perang, dilakukan melalui:**
+   9. **Rencana kontingensi menghadapi kondisi darurat perang, dilakukan melalui:**
    
    a) penyediaan Pelabuhan Utama sebagai tempat berlabuhnya Kapal Perang Republik Indonesia (KRI); dan
    
