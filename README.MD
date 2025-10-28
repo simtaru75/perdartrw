@@ -988,27 +988,27 @@ b. **rencana pengembangan flyover, perlintasan kereta api dan jembatan** meliput
 
 (5) Pelabuhan pengumpan sebagaimana dimaksud pada ayat (2) huruf c berupa:
 
-   a. **Pelabuhan pengumpan regional** meliputi:
-      1. Pelabuhan Sungai Lumpur di Kabupaten Ogan Komering Ilir;
-      2. Pelabuhan Kertapati di Kota Palembang;
-      3. Rencana peningkatan fungsi Pelabuhan Sungai Lilin di Kabupaten Musi Banyuasin; dan
-      4. Rencana Pengembangan Pelabuhan Pengumpan Regional meliputi Pelabuhan Musi Rawas di Kabupaten Musi Rawas, Muara Sungsang di Kabupaten Banyuasin dan Lematang di Kabupaten Muara Enim;
+a. **Pelabuhan pengumpan regional** meliputi:
+1. Pelabuhan Sungai Lumpur di Kabupaten Ogan Komering Ilir;
+2. Pelabuhan Kertapati di Kota Palembang;
+3. Rencana peningkatan fungsi Pelabuhan Sungai Lilin di Kabupaten Musi Banyuasin; dan
+4. Rencana Pengembangan Pelabuhan Pengumpan Regional meliputi Pelabuhan Musi Rawas di Kabupaten Musi Rawas, Muara Sungsang di Kabupaten Banyuasin dan Lematang di Kabupaten Muara Enim;
 
-   b. **Pelabuhan pengumpan lokal** meliputi:
-      1. Pelabuhan Mesuji di Kabupaten Ogan Komering Ilir;
-      2. Pelabuhan Sugihan di Kabupaten Ogan Komering Ilir;
-      3. Pelabuhan Musi Rawas di Kabupaten Musi Rawas;
-      4. Pelabuhan Bayung Lencir di Kabupaten Musi Banyuasin;
-      5. Pelabuhan Sungsang di Kabupaten Banyuasin;
-      6. Pelabuhan Karang Agung di Kabupaten Banyuasin;
-      7. Pelabuhan Gasing di Kabupaten Banyuasin;
-      8. Pelabuhan Penuguan di Kabupaten Banyuasin;
-      9. Pelabuhan Sungai Sembilang di Kabupaten Banyuasin;
-      10. Pelabuhan Tanjung Lago di Kabupaten Banyuasin;
-      11. Pelabuhan Gandus/Pulokerto di Kota Palembang;
-      12. Pelabuhan Jakabaring di Kota Palembang;
-      13. Pelabuhan Prambatan di Kabupaten Penukal Abab Lematang Ilir; dan
-      14. Rencana pengembangan Pelabuhan Pemulutan di Kabupaten Ogan Ilir.
+b. **Pelabuhan pengumpan lokal** meliputi:
+1. Pelabuhan Mesuji di Kabupaten Ogan Komering Ilir;
+2. Pelabuhan Sugihan di Kabupaten Ogan Komering Ilir;
+3. Pelabuhan Musi Rawas di Kabupaten Musi Rawas;
+4. Pelabuhan Bayung Lencir di Kabupaten Musi Banyuasin;
+5. Pelabuhan Sungsang di Kabupaten Banyuasin;
+6. Pelabuhan Karang Agung di Kabupaten Banyuasin;
+7. Pelabuhan Gasing di Kabupaten Banyuasin;
+8. Pelabuhan Penuguan di Kabupaten Banyuasin;
+9. Pelabuhan Sungai Sembilang di Kabupaten Banyuasin;
+10. Pelabuhan Tanjung Lago di Kabupaten Banyuasin;
+11. Pelabuhan Gandus/Pulokerto di Kota Palembang;
+12. Pelabuhan Jakabaring di Kota Palembang;
+13. Pelabuhan Prambatan di Kabupaten Penukal Abab Lematang Ilir; dan
+14. Rencana pengembangan Pelabuhan Pemulutan di Kabupaten Ogan Ilir.
 
 (6) Terminal Umum sebagaimana dimaksud pada ayat (2) huruf d meliputi:
    - a. Tanjung Carat di Kabupaten Banyuasin; dan
@@ -1029,11 +1029,11 @@ b. **rencana pengembangan flyover, perlintasan kereta api dan jembatan** meliput
 
 (11) Alur Pelayaran Laut sebagaimana dimaksud pada ayat (1) huruf b terintegrasi dengan Alur Laut Kepulauan Indonesia (ALKI) I meliputi:
 
-   a. **Alur pelayaran umum dan perlintasan** terdapat di perairan Sumatera Selatan meliputi:
-      1. Alur Pelayaran untuk pelayanan Internasional dari Tanjung Api-Api menuju Malaysia, India, Singapura, Cina, Korea dan Jepang; dan
-      2. Alur Pelayaran untuk pelayanan Nasional dan domestik/lokal dari Tanjung Api-Api menuju Sunda Kelapa, Mentok, Kepulauan Riau, Tanjung Pandan dan Toboali;
+a. **Alur pelayaran umum dan perlintasan** terdapat di perairan Sumatera Selatan meliputi:
+1. Alur Pelayaran untuk pelayanan Internasional dari Tanjung Api-Api menuju Malaysia, India, Singapura, Cina, Korea dan Jepang; dan
+2. Alur Pelayaran untuk pelayanan Nasional dan domestik/lokal dari Tanjung Api-Api menuju Sunda Kelapa, Mentok, Kepulauan Riau, Tanjung Pandan dan Toboali;
 
-   b. Alur pelayaran masuk pelabuhan meliputi alur pelayaran masuk Pelabuhan di Provinsi Sumatera Selatan.
+b. Alur pelayaran masuk pelabuhan meliputi alur pelayaran masuk Pelabuhan di Provinsi Sumatera Selatan.
 
 ---
 
