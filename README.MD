@@ -2565,8 +2565,6 @@ b. **Indikasi arahan zonasi untuk alur pelayaran laut:** Disusun dengan memperha
    4. **Intensitas Pemanfaatan Ruang:** Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
    5. **Dokumen lingkungan:** Pengembangan atau pembangunan alur pelayaran laut wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
----
-
 **(6) Indikasi arahan zonasi untuk Bandar Udara Umum dan Bandar Udara Khusus sebagaimana dimaksud pada ayat (1) huruf e meliputi:**
 
    a. **Diperbolehkan:** Kegiatan operasional kebandarudaraan, kegiatan penunjang pelayanan jasa kebandarudaraan, penunjang pelayanan keselamatan operasi penerbangan dan kegiatan pertahanan dan keamanan negara;
