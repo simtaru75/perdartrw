@@ -2329,131 +2329,131 @@ f. indikasi arahan zonasi sistem jaringan prasarana lainnya.
 
    a. **indikasi arahan zonasi untuk jaringan jalan umum berupa jalan arteri dan jalan kolektor** meliputi:
 
-      1. **kegiatan yang diperbolehkan** yaitu:
-         - a) pada ruang manfaat jalan kegiatan pelayanan lalu lintas dan angkutan jalan, penempatan bangunan utilitas dan pemanfaatan oleh moda transportasi lain bila diperlukan;
-         - b) pada ruang milik jalan di luar Ruang manfaat jalan pemanfaatan lahan di sepanjang sisi jalan sesuai dengan peruntukannya untuk kegiatan skala nasional, provinsi dan Kabupaten/ Kota dengan tingkat intensitas menengah hingga tinggi dengan mengikuti ketentuan pemanfaatan bagian-bagian jalan serta pelebaran badan jalan, kebutuhan Ruang pengamanan, RTH yang berfungsi sebagai lansekap jalan dan penunjang Kawasan terpadu perdagangan dan jasa sesuai dengan ketentuan peraturan perundang-undangan; dan
-         - c) pada ruang pengawasan jalan di luar Ruang milik jalan untuk pandangan bebas pengemudi, pengamanan konstruksi jalan, pengamanan fungsi jalan dan pendirian fasilitas penunjang pada bagian-bagian jalan sesuai dengan ketentuan peraturan perundang-undangan;
+   1. **kegiatan yang diperbolehkan** yaitu:
+      - a) pada ruang manfaat jalan kegiatan pelayanan lalu lintas dan angkutan jalan, penempatan bangunan utilitas dan pemanfaatan oleh moda transportasi lain bila diperlukan;
+      - b) pada ruang milik jalan di luar Ruang manfaat jalan pemanfaatan lahan di sepanjang sisi jalan sesuai dengan peruntukannya untuk kegiatan skala nasional, provinsi dan Kabupaten/ Kota dengan tingkat intensitas menengah hingga tinggi dengan mengikuti ketentuan pemanfaatan bagian-bagian jalan serta pelebaran badan jalan, kebutuhan Ruang pengamanan, RTH yang berfungsi sebagai lansekap jalan dan penunjang Kawasan terpadu perdagangan dan jasa sesuai dengan ketentuan peraturan perundang-undangan; dan
+      - c) pada ruang pengawasan jalan di luar Ruang milik jalan untuk pandangan bebas pengemudi, pengamanan konstruksi jalan, pengamanan fungsi jalan dan pendirian fasilitas penunjang pada bagian-bagian jalan sesuai dengan ketentuan peraturan perundang-undangan;
 
-      2. **kegiatan diperbolehkan bersyarat** yaitu:
-         - a) Pemanfaatan Ruang manfaat jalan dan ruang milik jalan selain peruntukannya meliputi bangunan dan jaringan utilitas, iklan, media informasi dan aktivitas lainnya di dalam ruang milik jalan dengan syarat tidak mengganggu keamanan dan keselamatan pengguna jalan, tidak mengganggu pandangan bebas pengemudi dan konsentrasi pengemudi, tidak mengganggu fungsi dan konstruksi jalan serta bangunan pelengkapnya, tidak mengganggu dan mengurangi fungsi rambu–rambu dan sarana pengatur lalu lintas lainnya serta wajib memperoleh izin dari penyelenggara jalan sesuai kewenangannya;
-         - b) pada ruang milik jalan untuk pendirian bangunan khusus dengan syarat mengikuti ketentuan penetapan garis sempadan bangunan jalan;
-         - c) pada Ruang milik jalan diperbolehkan dengan syarat peletakan jaringan utilitas secara paralel dengan syarat tidak saling mengganggu fungsi antara prasarana dan memperoleh izin dari penyelenggara jalan;
-         - d) pada ruang pengawasan jalan di luar ruang milik jalan disesuaikan dengan peraturan zonasi pada fungsi zona sesuai ketentuan rencana umum tata ruang dan rencana rinci tata ruang yang berlaku; dan
-         - e) alih fungsi lahan dapat dilakukan pada Kawasan berfungsi lindung di sepanjang sisi jalan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
+   2. **kegiatan diperbolehkan bersyarat** yaitu:
+      - a) Pemanfaatan Ruang manfaat jalan dan ruang milik jalan selain peruntukannya meliputi bangunan dan jaringan utilitas, iklan, media informasi dan aktivitas lainnya di dalam ruang milik jalan dengan syarat tidak mengganggu keamanan dan keselamatan pengguna jalan, tidak mengganggu pandangan bebas pengemudi dan konsentrasi pengemudi, tidak mengganggu fungsi dan konstruksi jalan serta bangunan pelengkapnya, tidak mengganggu dan mengurangi fungsi rambu–rambu dan sarana pengatur lalu lintas lainnya serta wajib memperoleh izin dari penyelenggara jalan sesuai kewenangannya;
+      - b) pada ruang milik jalan untuk pendirian bangunan khusus dengan syarat mengikuti ketentuan penetapan garis sempadan bangunan jalan;
+      - c) pada Ruang milik jalan diperbolehkan dengan syarat peletakan jaringan utilitas secara paralel dengan syarat tidak saling mengganggu fungsi antara prasarana dan memperoleh izin dari penyelenggara jalan;
+      - d) pada ruang pengawasan jalan di luar ruang milik jalan disesuaikan dengan peraturan zonasi pada fungsi zona sesuai ketentuan rencana umum tata ruang dan rencana rinci tata ruang yang berlaku; dan
+      - e) alih fungsi lahan dapat dilakukan pada Kawasan berfungsi lindung di sepanjang sisi jalan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
 
-      3. **kegiatan yang tidak diperbolehkan** yaitu:
-         - a) kegiatan yang dapat mengganggu fungsi jalan, seperti terganggunya jarak atau sudut pandang, timbulnya hambatan samping yang menurunkan kecepatan atau menimbulkan kecelakaan lalu lintas serta terjadinya kerusakan prasarana bangunan pelengkap atau perlengkapan jalan;
-         - b) kegiatan yang mengakibatkan terganggunya fungsi jalan di ruang pengawasan jalan, termasuk mendirikan bangunan, sebagian dari bangunan atau garis sempadan bangunan di ruang pengawasan jalan; dan
-         - c) Pengendalian Pemanfaatan Ruang di sepanjang sisi jalan yang memiliki intensitas pergerakan tinggi dan dapat mengganggu kinerja fungsi jaringan jalan;
+   3. **kegiatan yang tidak diperbolehkan** yaitu:
+      - a) kegiatan yang dapat mengganggu fungsi jalan, seperti terganggunya jarak atau sudut pandang, timbulnya hambatan samping yang menurunkan kecepatan atau menimbulkan kecelakaan lalu lintas serta terjadinya kerusakan prasarana bangunan pelengkap atau perlengkapan jalan;
+      - b) kegiatan yang mengakibatkan terganggunya fungsi jalan di ruang pengawasan jalan, termasuk mendirikan bangunan, sebagian dari bangunan atau garis sempadan bangunan di ruang pengawasan jalan; dan
+      - c) Pengendalian Pemanfaatan Ruang di sepanjang sisi jalan yang memiliki intensitas pergerakan tinggi dan dapat mengganggu kinerja fungsi jaringan jalan;
 
-      4. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan;
+   4. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan;
 
-      5. penyediaan sarana dan prasarana minimum sesuai standar pelayanan minimal;
+   5. penyediaan sarana dan prasarana minimum sesuai standar pelayanan minimal;
 
-      6. penerapan rekayasa teknis dalam pembangunan jalan di sekitar Kawasan rawan bencana dan Kawasan Konservasi koridor satwa; dan
+   6. penerapan rekayasa teknis dalam pembangunan jalan di sekitar Kawasan rawan bencana dan Kawasan Konservasi koridor satwa; dan
 
-      7. pengembangan atau pembangunan jalan wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
+   7. pengembangan atau pembangunan jalan wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
 
    b. **indikasi arahan zonasi untuk Jalan Khusus** meliputi:
 
-      1. **kegiatan yang diperbolehkan** yaitu:
-         - a) dikembangkan di seluruh Wilayah provinsi dengan memperhatikan kesesuaian fungsi ruang dan daya dukung serta daya tampung lingkungan sesuai dengan ketentuan peraturan perundang-undangan; dan
-         - b) pendirian fasilitas penunjang pada bagian- bagian jalan, bangunan penghubung jalan dan lalu lintas umum sepanjang tidak merugikan kepentingan penyelenggara Jalan Khusus berdasarkan izin dari penyelenggara Jalan Khusus sesuai ketentuan peraturan perundang-undangan;
+   1. **kegiatan yang diperbolehkan** yaitu:
+      - a) dikembangkan di seluruh Wilayah provinsi dengan memperhatikan kesesuaian fungsi ruang dan daya dukung serta daya tampung lingkungan sesuai dengan ketentuan peraturan perundang-undangan; dan
+      - b) pendirian fasilitas penunjang pada bagian- bagian jalan, bangunan penghubung jalan dan lalu lintas umum sepanjang tidak merugikan kepentingan penyelenggara Jalan Khusus berdasarkan izin dari penyelenggara Jalan Khusus sesuai ketentuan peraturan perundang-undangan;
 
-      2. **kegiatan yang diperbolehkan bersyarat** yaitu:
-         - a) dapat digunakan untuk lalu lintas umum sepanjang tidak merugikan kepentingan penyelenggara Jalan Khusus berdasarkan izin dari penyelenggara Jalan Khusus; dan
-         - b) alih fungsi lahan dapat dilakukan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
+   2. **kegiatan yang diperbolehkan bersyarat** yaitu:
+      - a) dapat digunakan untuk lalu lintas umum sepanjang tidak merugikan kepentingan penyelenggara Jalan Khusus berdasarkan izin dari penyelenggara Jalan Khusus; dan
+      - b) alih fungsi lahan dapat dilakukan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
 
-      3. **kegiatan yang tidak diperbolehkan** yaitu:
-         - a) persimpangan sebidang dengan ruas jalan lain atau dengan prasarana transportasi lainnya;
-         - b) menimbulkan dampak sosial, ekonomi dan pencemaran lingkungan di sepanjang sisi Jalan Khusus; dan
-         - c) kegiatan yang mengganggu keamanan dan keselamatan lalu lintas dan angkutan Jalan Khusus;
+   3. **kegiatan yang tidak diperbolehkan** yaitu:
+      - a) persimpangan sebidang dengan ruas jalan lain atau dengan prasarana transportasi lainnya;
+      - b) menimbulkan dampak sosial, ekonomi dan pencemaran lingkungan di sepanjang sisi Jalan Khusus; dan
+      - c) kegiatan yang mengganggu keamanan dan keselamatan lalu lintas dan angkutan Jalan Khusus;
 
-      4. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan;
+   4. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan;
 
-      5. penyediaan sarana dan prasarana minimum sesuai standar pelayanan minimal; dan
+   5. penyediaan sarana dan prasarana minimum sesuai standar pelayanan minimal; dan
 
-      6. pengembangan atau pembangunan Jalan Khusus wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
+   6. pengembangan atau pembangunan Jalan Khusus wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
 
    c. **indikasi arahan zonasi untuk jalan tol** meliputi:
 
-      1. **kegiatan yang diperbolehkan** pengembangan prasarana pelengkap jalan dan pendirian bangunan dengan fungsi penunjang berkaitan dengan jalan tol sesuai ketentuan peraturan perundang-undangan yang berlaku;
+   1. **kegiatan yang diperbolehkan** pengembangan prasarana pelengkap jalan dan pendirian bangunan dengan fungsi penunjang berkaitan dengan jalan tol sesuai ketentuan peraturan perundang-undangan yang berlaku;
 
-      2. **kegiatan yang diperbolehkan bersyarat** yaitu:
-         - a) pemanfaatan lahan di sepanjang jalan tol dengan pembatasan intensitas bangunan dan mengikuti ketentuan penetapan garis sempadan jalan tol serta sesuai dengan peruntukannya;
-         - b) pembangunan jalan akses tol masuk dan keluar serta interchange sesuai ketentuan peraturan perundang-undangan; dan
-         - c) alih fungsi lahan dapat dilakukan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
+   2. **kegiatan yang diperbolehkan bersyarat** yaitu:
+      - a) pemanfaatan lahan di sepanjang jalan tol dengan pembatasan intensitas bangunan dan mengikuti ketentuan penetapan garis sempadan jalan tol serta sesuai dengan peruntukannya;
+      - b) pembangunan jalan akses tol masuk dan keluar serta interchange sesuai ketentuan peraturan perundang-undangan; dan
+      - c) alih fungsi lahan dapat dilakukan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
 
-      3. **kegiatan yang tidak diperbolehkan** yaitu:
-         - a) memanfaatkan ruang milik jalan yang mengakibatkan terganggunya fungsi jalan tanpa izin penyelenggara jalan; dan
-         - b) persimpangan sebidang dengan ruas jalan lain atau dengan prasarana transportasi lainnya;
+   3. **kegiatan yang tidak diperbolehkan** yaitu:
+      - a) memanfaatkan ruang milik jalan yang mengakibatkan terganggunya fungsi jalan tanpa izin penyelenggara jalan; dan
+      - b) persimpangan sebidang dengan ruas jalan lain atau dengan prasarana transportasi lainnya;
 
-      4. penyediaan sarana prasarana minimum, terdiri dari berupa akses penghubung Kawasan yang terpisahkan oleh pembangunan jalan tol;
+   4. penyediaan sarana prasarana minimum, terdiri dari berupa akses penghubung Kawasan yang terpisahkan oleh pembangunan jalan tol;
 
-      5. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku;
+   5. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku;
 
-      6. pengendalian jalan penghubung dari pintu keluar tol ke jalan non tol yang tidak menimbulkan kemacetan;
+   6. pengendalian jalan penghubung dari pintu keluar tol ke jalan non tol yang tidak menimbulkan kemacetan;
 
-      7. setiap perencanaan dan pembangunan jalan tol perlu memperhatikan keseimbangan lingkungan;
+   7. setiap perencanaan dan pembangunan jalan tol perlu memperhatikan keseimbangan lingkungan;
 
-      8. penerapan rekayasa teknis dalam pembangunan jalan tol di sekitar Kawasan rawan bencana dan Kawasan Konservasi koridor satwa;
+   8. penerapan rekayasa teknis dalam pembangunan jalan tol di sekitar Kawasan rawan bencana dan Kawasan Konservasi koridor satwa;
 
-      9. pada sistem jaringan jalan tol yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengembangan sistem tersebut tidak diperbolehkan melakukan kegiatan yang mengakibatkan terlampauinya kriteria baku kerusakan ekosistem gambut wajib mempertahankan areal FEG lindung yang masih dalam kondisi alami dan diperbolehkan untuk melakukan kegiatan penelitian, ilmu pengetahuan, pendidikan dan/atau jasa lingkungan;
+   9. pada sistem jaringan jalan tol yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengembangan sistem tersebut tidak diperbolehkan melakukan kegiatan yang mengakibatkan terlampauinya kriteria baku kerusakan ekosistem gambut wajib mempertahankan areal FEG lindung yang masih dalam kondisi alami dan diperbolehkan untuk melakukan kegiatan penelitian, ilmu pengetahuan, pendidikan dan/atau jasa lingkungan;
 
-      10. rencana kontingensi menghadapi kondisi darurat perang, dilakukan melalui:
-          - a) penyediaan ruas Jalan Tol yang dapat digunakan sebagai landasan pesawat tempur yang ditetapkan kemudian dalam Rencana Rinci Wilayah Pertahanan (RRWP); dan
-          - b) pengaturan sarana prasarana Jalan Tol yang mendukung operasionalisasi rencana kontingensi kondisi darurat perang pada Jalan Tol tersebut;
+   10. rencana kontingensi menghadapi kondisi darurat perang, dilakukan melalui:
+       - a) penyediaan ruas Jalan Tol yang dapat digunakan sebagai landasan pesawat tempur yang ditetapkan kemudian dalam Rencana Rinci Wilayah Pertahanan (RRWP); dan
+       - b) pengaturan sarana prasarana Jalan Tol yang mendukung operasionalisasi rencana kontingensi kondisi darurat perang pada Jalan Tol tersebut;
 
-      11. pengembangan atau pembangunan jalan tol wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+   11. pengembangan atau pembangunan jalan tol wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
    d. **indikasi arahan zonasi untuk terminal** meliputi:
 
-      1. diperbolehkan pendirian bangunan dengan fungsi penunjang terminal bagi pergerakan orang, barang dan kendaraan;
+   1. diperbolehkan pendirian bangunan dengan fungsi penunjang terminal bagi pergerakan orang, barang dan kendaraan;
 
-      2. diperbolehkan pendirian bangunan, tempat parkir kendaraan dan fasilitas penunjang aktivitas operasional jembatan timbang berupa tempat ibadah, toilet umum, kantin dan tempat istirahat pengemudi;
+   2. diperbolehkan pendirian bangunan, tempat parkir kendaraan dan fasilitas penunjang aktivitas operasional jembatan timbang berupa tempat ibadah, toilet umum, kantin dan tempat istirahat pengemudi;
 
-      3. diperbolehkan bersyarat untuk kegiatan pendukung aktivitas terminal berupa kantor, perdagangan jasa, fasilitas terminal berdasarkan skala pelayanan terminal sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
+   3. diperbolehkan bersyarat untuk kegiatan pendukung aktivitas terminal berupa kantor, perdagangan jasa, fasilitas terminal berdasarkan skala pelayanan terminal sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
 
-      4. tidak diperbolehkan kegiatan yang mengganggu kegiatan operasional terminal, keselamatan, keamanan, kenyamanan dan fungsi fasilitas utama serta fasilitas penunjang terminal;
+   4. tidak diperbolehkan kegiatan yang mengganggu kegiatan operasional terminal, keselamatan, keamanan, kenyamanan dan fungsi fasilitas utama serta fasilitas penunjang terminal;
 
-      5. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku;
+   5. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku;
 
-      6. penyediaan sarana prasarana minimum berupa bangunan kantor pengelola terminal, jalur keberangkatan dan kedatangan, tempat parkir kendaraan, fasilitas pengelolaan lingkungan, fasilitas pengawasan keselamatan, jalur berkumpul darurat dan jalur evakuasi bencana dan fasilitas penunjang terminal serta pengembangan RTH yang memperhatikan fungsi dan estetika bangunan dan Kawasan; dan
+   6. penyediaan sarana prasarana minimum berupa bangunan kantor pengelola terminal, jalur keberangkatan dan kedatangan, tempat parkir kendaraan, fasilitas pengelolaan lingkungan, fasilitas pengawasan keselamatan, jalur berkumpul darurat dan jalur evakuasi bencana dan fasilitas penunjang terminal serta pengembangan RTH yang memperhatikan fungsi dan estetika bangunan dan Kawasan; dan
 
-      7. pengembangan atau pembangunan terminal wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
+   7. pengembangan atau pembangunan terminal wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
 
    e. **indikasi arahan zonasi untuk jembatan timbang** meliputi:
 
-      1. **kegiatan yang diperbolehkan** yaitu pendirian fasilitas utama dan fasilitas penunjang jembatan timbang, lapangan penumpukan atau gudang penyimpanan;
+   1. **kegiatan yang diperbolehkan** yaitu pendirian fasilitas utama dan fasilitas penunjang jembatan timbang, lapangan penumpukan atau gudang penyimpanan;
 
-      2. **kegiatan yang diperbolehkan bersyarat** yaitu kegiatan pendukung aktivitas jembatan timbang selain fasilitas utama dan fasilitas penunjang jembatan timbang dengan persetujuan penyelenggara jembatan timbang; dan
+   2. **kegiatan yang diperbolehkan bersyarat** yaitu kegiatan pendukung aktivitas jembatan timbang selain fasilitas utama dan fasilitas penunjang jembatan timbang dengan persetujuan penyelenggara jembatan timbang; dan
 
-      3. **kegiatan yang tidak diperbolehkan** yaitu :
-         - a) Pemanfaatan Ruang di dalam lingkungan kerja terminal yang tidak sesuai dengan fungsi jembatan timbang dan alih fungsi lahan yang bersifat lindung di sepanjang sisi jembatan timbang;
-         - b) tidak diperbolehkan kegiatan yang mengganggu aktivitas operasional jembatan timbang, keselamatan, keamanan dan kenyamanan fungsi fasilitas utama dan fasilitas penunjang jembatan timbang;
+   3. **kegiatan yang tidak diperbolehkan** yaitu :
+      - a) Pemanfaatan Ruang di dalam lingkungan kerja terminal yang tidak sesuai dengan fungsi jembatan timbang dan alih fungsi lahan yang bersifat lindung di sepanjang sisi jembatan timbang;
+      - b) tidak diperbolehkan kegiatan yang mengganggu aktivitas operasional jembatan timbang, keselamatan, keamanan dan kenyamanan fungsi fasilitas utama dan fasilitas penunjang jembatan timbang;
 
-      4. **penyediaan sarana prasarana minimum** berupa:
-         - a) jalan akses keluar masuk kendaraan;
-         - b) jalan sirkulasi di dalam Wilayah operasional jembatan timbang;
-         - c) bangunan kantor petugas;
-         - d) landasan penimbangan;
-         - e) fasilitas sistem informasi penimbangan kendaraan;
-         - f) tempat parkir kendaraan; dan
-         - g) fasilitas penunjang;
+   4. **penyediaan sarana prasarana minimum** berupa:
+      - a) jalan akses keluar masuk kendaraan;
+      - b) jalan sirkulasi di dalam Wilayah operasional jembatan timbang;
+      - c) bangunan kantor petugas;
+      - d) landasan penimbangan;
+      - e) fasilitas sistem informasi penimbangan kendaraan;
+      - f) tempat parkir kendaraan; dan
+      - g) fasilitas penunjang;
 
-      5. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan; dan
+   5. intensitas Pemanfaatan Ruang mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan; dan
 
-      6. pengembangan atau pembangunan jembatan timbang wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+   6. pengembangan atau pembangunan jembatan timbang wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 (3) Indikasi arahan zonasi untuk sistem jaringan kereta api sebagaimana dimaksud pada ayat (1) huruf b meliputi:
 
    a. **indikasi Arahan Zonasi jalur kereta api** meliputi:
 
-      1. **kegiatan yang diperbolehkan** yaitu:
-         - a) kegiatan pengoperasian kereta api dalam ruang manfaat jalur kereta api; dan
-         - b) kegiatan Kawasan terpadu perdagangan dan jasa sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
+   1. **kegiatan yang diperbolehkan** yaitu:
+      - a) kegiatan pengoperasian kereta api dalam ruang manfaat jalur kereta api; dan
+      - b) kegiatan Kawasan terpadu perdagangan dan jasa sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
 
-      2. **kegiatan yang diperbolehkan bersyarat** adalah kegiatan yang tidak membahayakan konstruksi jalan rel dan fasilitas operasi kereta api dengan izin dari pemilik jalur dalam ruang milik jalur kereta api dan ruang pengawasan jalur kereta api;
+   2. **kegiatan yang diperbolehkan bersyarat** adalah kegiatan yang tidak membahayakan konstruksi jalan rel dan fasilitas operasi kereta api dengan izin dari pemilik jalur dalam ruang milik jalur kereta api dan ruang pengawasan jalur kereta api;
 
 **3. Kegiatan yang tidak diperbolehkan yaitu:**
 
