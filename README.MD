@@ -2539,58 +2539,50 @@ h. pada PKL yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengemb
    9. **Rencana kontingensi menghadapi kondisi darurat perang, dilakukan melalui:**
       - a) penyediaan Pelabuhan Utama sebagai tempat berlabuhnya Kapal Perang Republik Indonesia (KRI); dan
       - b) penyediaan sarana operasionalisasi prasarana rencana penunjang kontingensi pada Pelabuhan Utama tersebut;
+      
+   b. **Indikasi arahan zonasi untuk alur pelayaran laut:** Disusun dengan memperhatikan Pemanfaatan Ruang pada Badan Air di sepanjang alur pelayaran dibatasi sesuai dengan ketentuan peraturan perundang-undangan yang berlaku meliputi:
    
-   ---
-   
-   **b. Indikasi arahan zonasi untuk alur pelayaran laut:**
-   
-   Disusun dengan memperhatikan Pemanfaatan Ruang pada Badan Air di sepanjang alur pelayaran dibatasi sesuai dengan ketentuan peraturan perundang-undangan yang berlaku meliputi:
-   
-   **1. Diperbolehkan yaitu:**
-   
-   a) kegiatan lalu lintas kapal dari dan/atau menuju pelabuhan;
-   
-   b) kegiatan penempatan dan pemeliharaan sarana bantu navigasi/pelayaran;
-   
-   c) kegiatan penetapan rute kapal tertentu (ship routering system);
-   
-   d) kegiatan penangkapan ikan pelagis dan demersal menggunakan alat tangkap yang bergerak;
-   
-   e) kegiatan wisata bahari atraktif; dan
-   
-   f) kegiatan yang selaras dengan pelestarian/perlindungan lingkungan;
-   
-   **2. Diperbolehkan bersyarat yaitu:**
-   
-   a) kegiatan pemeliharaan lebar dan kedalaman alur dengan syarat tidak mengganggu lalu lintas kapal;
-   
-   b) kegiatan penelitian dan pendidikan dengan syarat mendapatkan izin;
-   
-   c) penempatan pipa dan/atau kabel bawah laut dengan syarat tidak mengganggu fungsi alur pelayaran laut; dan
-   
-   d) kegiatan bernavigasi yang berdekatan dengan Kawasan Konservasi dengan menjaga kecepatan kapal sesuai dengan ketentuan yang berlaku dan harus mendapatkan izin;
-   
-   **3. Tidak diperbolehkan yaitu:**
-   
-   a) kegiatan penangkapan ikan dengan alat tangkap statis;
-   
-   b) semua jenis kegiatan perikanan budidaya;
-   
-   c) kegiatan pemasangan rumah ikan dan alat bantu penangkapan ikan seperti rumpon serta terumbu karang buatan;
-   
-   d) kegiatan penangkapan ikan yang menggunakan bahan peledak, aliran listrik, bius dan/atau bahan beracun serta menggunakan alat tangkap yang bersifat merusak ekosistem;
-   
-   e) kegiatan pertambangan; dan
-   
-   f) kegiatan pembuangan sampah dan limbah;
-   
-   **4. Intensitas Pemanfaatan Ruang:**
-   
-   Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
-   
-   **5. Dokumen lingkungan:**
-   
-   Pengembangan atau pembangunan alur pelayaran laut wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+      1. **Diperbolehkan yaitu:**
+      
+         - a) kegiatan lalu lintas kapal dari dan/atau menuju pelabuhan;
+         
+         - b) kegiatan penempatan dan pemeliharaan sarana bantu navigasi/pelayaran;
+         
+         - c) kegiatan penetapan rute kapal tertentu (ship routering system);
+         
+         - d) kegiatan penangkapan ikan pelagis dan demersal menggunakan alat tangkap yang bergerak;
+         
+         - e) kegiatan wisata bahari atraktif; dan
+         
+         - f) kegiatan yang selaras dengan pelestarian/perlindungan lingkungan;
+      
+      2. **Diperbolehkan bersyarat yaitu:**
+      
+         - a) kegiatan pemeliharaan lebar dan kedalaman alur dengan syarat tidak mengganggu lalu lintas kapal;
+         
+         - b) kegiatan penelitian dan pendidikan dengan syarat mendapatkan izin;
+         
+         - c) penempatan pipa dan/atau kabel bawah laut dengan syarat tidak mengganggu fungsi alur pelayaran laut; dan
+         
+         - d) kegiatan bernavigasi yang berdekatan dengan Kawasan Konservasi dengan menjaga kecepatan kapal sesuai dengan ketentuan yang berlaku dan harus mendapatkan izin;
+      
+      3. **Tidak diperbolehkan yaitu:**
+      
+         - a) kegiatan penangkapan ikan dengan alat tangkap statis;
+         
+         - b) semua jenis kegiatan perikanan budidaya;
+         
+         - c) kegiatan pemasangan rumah ikan dan alat bantu penangkapan ikan seperti rumpon serta terumbu karang buatan;
+         
+         - d) kegiatan penangkapan ikan yang menggunakan bahan peledak, aliran listrik, bius dan/atau bahan beracun serta menggunakan alat tangkap yang bersifat merusak ekosistem;
+         
+         - e) kegiatan pertambangan; dan
+         
+         - f) kegiatan pembuangan sampah dan limbah;
+      
+      4. **Intensitas Pemanfaatan Ruang:** Mempertimbangkan fungsi ekologis Kawasan, daya dukung dan daya tampung lingkungan hidup, risiko bencana, keselamatan operasional penerbangan serta ketentuan bangunan gedung sesuai ketentuan peraturan perundang-undangan yang berlaku; dan
+      
+      5. **Dokumen lingkungan:** Pengembangan atau pembangunan alur pelayaran laut wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 ---
 
