@@ -2296,8 +2296,8 @@ c. **indikasi arahan zonasi untuk jalan tol** meliputi:
 9. pada sistem jaringan jalan tol yang wilayahnya berada pada Fungsi Ekosistem Gambut Lindung, pengembangan sistem tersebut tidak diperbolehkan melakukan kegiatan yang mengakibatkan terlampauinya kriteria baku kerusakan ekosistem gambut wajib mempertahankan areal FEG lindung yang masih dalam kondisi alami dan diperbolehkan untuk melakukan kegiatan penelitian, ilmu pengetahuan, pendidikan dan/atau jasa lingkungan;
 10. rencana kontingensi menghadapi kondisi darurat perang, dilakukan melalui:
 
-    * a) penyediaan ruas Jalan Tol yang dapat digunakan sebagai landasan pesawat tempur yang ditetapkan kemudian dalam Rencana Rinci Wilayah Pertahanan (RRWP); dan
-    * b) pengaturan sarana prasarana Jalan Tol yang mendukung operasionalisasi rencana kontingensi kondisi darurat perang pada Jalan Tol tersebut;
+  * a) penyediaan ruas Jalan Tol yang dapat digunakan sebagai landasan pesawat tempur yang ditetapkan kemudian dalam Rencana Rinci Wilayah Pertahanan (RRWP); dan
+  * b) pengaturan sarana prasarana Jalan Tol yang mendukung operasionalisasi rencana kontingensi kondisi darurat perang pada Jalan Tol tersebut;
 
 11. pengembangan atau pembangunan jalan tol wajib memiliki dokumen lingkungan dan persetujuan lingkungan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
